@@ -10,27 +10,22 @@ There should be one GitHub repository per team. /  Debería haber un repositorio
 
 ## Theme of your project / Tema de tu proyecto
 
-1. Retrieval Augmented Generation (RAG) pipeline for question answering /  Pipeline de Generación Aumentada por Recuperación (RAG) para responder preguntas
-2. Retrieval Augmented Generation (RAG) pipeline for chatbot /  Pipeline de Generación Aumentada por Recuperación (RAG) para chatbot
-(Por decidir)
+1. Extract Transform Load (ETL) pipeline with an analytics component / Pipeline de Extracción, Transformación y Carga (ETL) con un componente analítico
+2. Extract Transform Load (ETL) pipeline with a machine learning (ML) component  / Pipeline de Extracción, Transformación y Carga (ETL) con un componente de aprendizaje automático (ML)
+3. Retrieval Augmented Generation (RAG) pipeline for question answering /  Pipeline de Generación Aumentada por Recuperación (RAG) para responder preguntas
+4. Retrieval Augmented Generation (RAG) pipeline for chatbot /  Pipeline de Generación Aumentada por Recuperación (RAG) para chatbot
+
 ## Description / Descripción 
 
 Provide a description of your project. Include the data sources you are using, the tools you are using, and the expected outcome of your project.
 
 Proporcione una descripción de su proyecto. Incluya las fuentes de datos que está utilizando, las herramientas que está utilizando y el resultado esperado de su proyecto.
 
-QA: una app o página web que reciba los hechos de posibles de una acción de tutela y se responsa si esos hechos han sido protegidos en sentencias judiciales: indicando cuáles sentencias judicales y los apartes.
-
-Chatbot: una app o página web que converse con el usuario y responda sobre el contenido de sentencias judiciales
 ## Data sources / Fuentes de datos
 
 Provide a detailed description of your data sources. Please ensure you work only with open source data. Include a link to the data you are working with. 
 
 Agregue una descripción detallada de sus fuentes de datos. Asegúrese de trabajar solo con datos de código abierto. Incluya un enlace a los datos con los que está trabajando.
-
-La fuente de datos de las sentencias se encuentra en la relatoria: https://www.corteconstitucional.gov.co/relatoria/buscador_new/?searchOption=prov_descriptores&fini=2022-01-01&ffin=2022-12-31&buscar_por=tutela&accion=search&verform=si&slop=1&buscador=buscador&qu=search_principalMatch&maxprov=500&OrderbyOption=des__score
-
-Dependiendo del alcance del proyecto el corpus puede delimitarse a ciertas sentencias judiciales o a ciertos años
 
 **Do not upload data to GitHub** / **No suba datos a GitHub**
 
