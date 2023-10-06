@@ -2,7 +2,7 @@
 import pandas as pd
 import os 
 from bs4 import BeautifulSoup
-import main as function_extract
+import extract as function_extract
 import time as tm
 
 #Proceso de creacion del archivo de metadata para la 
