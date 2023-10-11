@@ -1,7 +1,6 @@
-# %%
 import pandas as pd
 import os 
-from bs4 import BeautifulSoup
+#from bs4 import BeautifulSoup
 import extract as function_extract
 import time as tm
 
@@ -46,10 +45,11 @@ if not os.path.exists(path_folder):
 
 for i,j in zip(df_descarga["Link_descarga"],df_descarga["archivo"]):
     path_file=os.path.join(path_folder,j)
-    function_extract.get_local_html_content(i,path_file)
+    function_extract.get_local_txt_content(i,path_file)
     tm.sleep(30)
 
-##Funcion para visulizar la cadena de texto del archivo rft
+##Funcion para visulizar la cadena de texto del archivo txt
 # especificando la ruta o el nombre del archivo 
-print(function_extract.read_file(path_file))
+print(function_extract.read_txt_file(path_file))
+
 
