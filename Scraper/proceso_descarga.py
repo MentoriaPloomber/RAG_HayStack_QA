@@ -48,7 +48,7 @@ for i,j in zip(df_descarga["Link_descarga"],df_descarga["archivo"]):
     function_extract.get_local_txt_content(i,path_file)
     tm.sleep(30)
 
-##Funcion para visulizar la cadena de texto del archivo txt
+#Funcion para visulizar la cadena de texto del archivo txt
 # especificando la ruta o el nombre del archivo 
 print(function_extract.read_txt_file(path_file))
 
