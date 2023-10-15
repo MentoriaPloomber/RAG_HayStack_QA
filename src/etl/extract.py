@@ -1,12 +1,18 @@
+# + tags=["parameters"]
+# declare a list tasks whose products you want to use as inputs
+upstream = None
+
+
+# +
 import requests
 from striprtf.striprtf import rtf_to_text
 import pandas as pd
 import os 
-import extract as function_extract
 import time as tm
-#from bs4 import BeautifulSoup
 
 
+
+# +
 def get_url_by_year(year_s_list= [2022]):
 
   """
@@ -74,6 +80,7 @@ def get_url_by_year(year_s_list= [2022]):
    
   return url
 
+# +
 def get_response(URL):
     """Extrae la informacion de la URL que se le pasa
     
@@ -90,6 +97,7 @@ def get_response(URL):
 
     return None
 
+# +
 def create_txt_file(content,NAME):
     """Crea el archivo txt de manera local a partir del contenido que se le pasa si el contenido es menor a 500 
     caracteres se considera un error en el archivo y no se genera"""
@@ -100,6 +108,7 @@ def create_txt_file(content,NAME):
         except:
             pass
 
+# +
 def get_txt_file(NAME):
     """Lee el contienido de un archivo local"""
     content=None
@@ -109,6 +118,9 @@ def get_txt_file(NAME):
     except:
         pass
     return content
+
+
+# -
 
 def get_local_txt_content(URL,NAME):
     """Obtiene el contenido del archvio descargado de la peticion ya sea de forma local o mediante peticion """
@@ -133,11 +145,15 @@ def convert_rtf_file(content):
    return text   
 
 
+# +
 def read_txt_file(NAME):
     """Lee un archivo de tipo txt para visualizar en una cadena string"""
     with open(f'{NAME}.txt','r',encoding='utf-8') as file:
         content=file.read()
     return content   
+
+
+# -
 
 if __name__ == "__main__":
     
@@ -155,7 +171,7 @@ if __name__ == "__main__":
     for i,j in zip(df_descarga["Link_descarga"],df_descarga["archivo"]):
         path_file=os.path.join(path_folder,j)
         get_local_txt_content(i,path_file)
-        tm.sleep(30)
+        tm.sleep(3)
 
     
 

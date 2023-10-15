@@ -175,3 +175,4 @@ src/products/*
 
 # But do not ignore .gitkeep files
 !src/products/.gitkeep
+*.txt
