@@ -175,5 +175,11 @@ src/products/*
 
 # But do not ignore .gitkeep files
 !src/products/.gitkeep
+
+<<<<<<< Updated upstream
+=======
+#Ignore directories of raw data
 */Sentencias_txt
-*/Sentencias_2002
+*/Sentencias_2022
+
+>>>>>>> Stashed changes
