@@ -175,3 +175,5 @@ src/products/*
 
 # But do not ignore .gitkeep files
 !src/products/.gitkeep
+*/Sentencias_txt
+*/Sentencias_2002
