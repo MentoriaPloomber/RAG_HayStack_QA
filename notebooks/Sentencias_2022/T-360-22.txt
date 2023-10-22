@@ -1,0 +1,2368 @@
+  T-360-22  
+
+
+
+
+REPÚBLICA DE COLOMBIA
+
+
+
+
+Sentencia T-360/22
+ 
+ 
+Referencia: Expediente T-8.727.419
+ 
+Acción de tutela presentada por Ismael
+Silva Rodríguez en contra del Banco Davivienda S.A.
+ 
+Procedencia: Juzgado Promiscuo
+Municipal de Sabana de Torres, Santander.
+ 
+Asunto: Habeas data frente
+a reporte de dato negativo en central de riesgo en caso de obligaciones crediticias
+adquiridas por vía de suplantación de identidad.
+ 
+Magistrado sustanciador
+(E):
+HERNÁN CORREA CARDOZO
+ 
+ 
+Bogotá D.C., trece (13) de octubre de dos mil veintidós
+(2022).
+ 
+ 
+La Sala Sexta de Revisión
+de la Corte Constitucional, integrada por la Magistrada Cristina Pardo
+Schlesinger y los Magistrados José Fernando Reyes Cuartas y Hernán Correa
+Cardozo, quien la preside, en ejercicio de sus competencias constitucionales y
+legales, específicamente las previstas en los artículos 86 y 241 num. 9º de la Constitución
+Política y 33 y subsiguientes del Decreto 2591 de 1991, ha pronunciado la
+siguiente
+ 
+SENTENCIA
+ 
+En el trámite de revisión del fallo de primera
+instancia proferido por el Juzgado Promiscuo Municipal de Sabana de Torres,
+Santander, el 22 de febrero de 2022, dentro del recurso de amparo
+constitucional formulado por Ismael Silva Rodríguez en contra del Banco
+Davivienda S.A.
+ 
+Conforme a lo consagrado en los artículos
+86 de la Constitución Política y 33 del Decreto 2591 de 1991, mediante Auto del
+30 de junio de 2022 la Sala de Selección de Tutelas Número Seis de la Corte
+Constitucional escogió, para efectos de su revisión, el asunto de la referencia[1].
+Por tal razón, acorde con lo previsto en el artículo 34 del Decreto 2591 de
+1991, esta Sala de Revisión procede a dictar la sentencia correspondiente.
+ 
+I.       ANTECEDENTES
+ 
+La solicitud
+ 
+El 9 de
+febrero de 2022, el señor Ismael Silva Rodríguez, obrando en nombre propio, presentó
+acción de tutela en contra del Banco Davivienda S.A., por la presunta
+vulneración de sus derechos fundamentales al buen nombre, a la honra, al debido
+proceso y al habeas data. Manifestó que la referida entidad bancaria lo reportó
+en la central de riesgos de Datacrédito por incurrir en mora frente al pago de varias
+obligaciones crediticias que figuran a su nombre, pero que nunca solicitó ni
+adquirió personalmente.
+ 
+Hechos relevantes
+ 
+1.                
+El accionante reside
+en el municipio de Sabana de Torres, Santander. Según manifiesta, el 21 de mayo
+de 2021, suscribió un contrato para la prestación de los servicios de
+televisión y de internet satelital con la empresa SAB
+Internet para todos S.A.S. Asegura que para la celebración de dicho
+negocio jurídico entregó a tres personas, que se presentaron en su domicilio
+como trabajadores de esa compañía, una copia escaneada de su cédula de
+ciudadanía y la impresión digital de sus huellas dactilares.
+ 
+2.                
+No obstante lo
+anterior, y pese a las múltiples reclamaciones posteriores en torno al
+cumplimiento del contrato, la empresa no instaló ninguno de los servicios
+pactados. Por esta razón, el señor Silva Rodriguez sostiene que SAB Internet
+para todos S.A.S. lo estafó, tal y como ha estafado a varios de
+los habitantes del municipio donde reside[2].
+ 
+3.                
+El 16 de junio de 2021,
+el actor sostiene que consultó su historial crediticio. Advirtió que aparecía
+con un reporte en la central de riesgo de Datacrédito como titular de varias obligaciones
+contraídas con el Banco Davivienda S.A. que en ningún momento ha adquirido. Inclusive,
+adujo que ese mismo día, por medio del servicio de atención telefónico de la
+entidad, no solo se le confirmó la efectiva existencia de
+diversos productos financieros a su cargo, sino también se le sugirió que
+acudiera a una de sus oficinas para poder entregarle información más
+detallada[3].
+ 
+4.                
+Al día siguiente,
+según sostuvo, en una sucursal del Banco Davivienda, ubicada en el municipio de
+Barrancabermeja, le comunicaron que el sistema de la entidad registraba
+con su nombre los siguientes productos que fueron abiertos en línea: (i) un crédito por valor de veinte millones de pesos; (ii)
+una tarjeta de crédito con cupo equivalente a un millón quinientos mil pesos; y
+(iii) una cuenta de ahorros[4]. De inmediato, el señor Silva Rodríguez
+indicó que la información reportada era errónea y, por tanto, pidió su
+corrección, al tiempo que, por sugerencia de la misma entidad bancaria,
+presentó denuncia por tales hechos ante la Sala de Atención al Usuario de la
+Fiscalía de Barrancabermeja[5]. Adicionalmente, puso en conocimiento de
+la Superintendencia Financiera la indebida utilización de sus huellas digitales
+y de su cédula de ciudadanía para solicitar créditos bancarios.
+ 
+5.                
+En escrito del 6 de julio de 2021,
+el Banco Davivienda S.A. rechazó la solicitud realizada por el señor Silva
+Rodríguez. Para tal efecto, sostuvo que los productos
+financieros fueron requeridos a través de la aplicación Davivienda Móvil[6]. Igualmente, adujo que: (i) los soportes de
+apertura de los productos presentaban semejanza con sus huellas dactilares y su
+documento de identidad; (ii) para su respectiva aprobación se verificó tanto
+su huella dactilar como la imagen de su cédula de ciudadanía a partir de un
+proceso de autenticación biométrica que fue exitoso; y, (iii) se adelantó
+una investigación interna que determinó su titularidad en relación con los
+productos cuyo reconocimiento pretende desconocer. Esta respuesta fue reiterada
+en las comunicaciones posteriores del 23 de agosto[7] y del 25 de noviembre de 2021[8].
+ 
+6.                
+El 18 de agosto de
+2021, el accionante sostuvo que acudió a la sucursal del Banco Davivienda
+ubicada en la calle 35 de la ciudad de Bucaramanga. Afirma que uno de los
+asesores le aclaró que: (i) el préstamo de libre inversión y la tarjeta
+de crédito fueron avalados en la oficina virtual del banco de la ciudad de
+Barranquilla por parte de la señora Ana Aura; (ii) aunque los
+presuntos estafadores registraron en la oficina de Davivienda virtual una
+dirección y un número de celular para la entrega de la tarjeta de crédito, esta
+nunca se entregó tras no haber podido ser recibida; (iii) el crédito fue
+desembolsado el 2 de junio de 2021; y, (iv) con posterioridad a la
+antedicha fecha, se utilizó la tarjeta de crédito virtual en la ciudad de
+Barranquilla.
+ 
+7.                
+En condición de
+titular de los productos financieros aparentemente adquiridos con el Banco
+Davivienda S.A., el señor Silva Rodríguez fue objeto de los respectivos cobros
+vía telefónica. Tras figurar en el sistema con una mora superior a 90 días, fue
+reportado a Datacrédito[9].
+ 
+Pretensiones
+ 
+8.                
+El señor Ismael Silva Rodríguez
+promovió acción de tutela en contra del Banco Davivienda S.A., con el fin de
+obtener la protección de sus derechos fundamentales al buen nombre, a la honra,
+al debido proceso y al habeas data, presuntamente vulnerados por la entidad
+demandada al haberlo reportado en las centrales de riesgo a causa de la mora en
+que incurrió frente al pago de varios productos financieros que nunca solicitó
+ni adquirió personalmente. Por esta razón, solicitó al juez de conocimiento que
+concediera el amparo constitucional de las prerrogativas superiores invocadas,
+de suerte que ordene eliminar el dato negativo reportado, previa exoneración
+del pago de las obligaciones que aparecen reportadas a su nombre por la entidad
+bancaria.
+ 
+Trámite
+procesal y oposición a la demanda de tutela
+ 
+9.                
+Mediante auto del 9 de febrero de
+2022, el Juzgado Promiscuo Municipal de Sabana de Torres, Santander, dispuso
+admitir la acción de tutela y ordenar su traslado a la entidad demandada, al
+tiempo que vincular a la empresa SAB Internet para
+todos S.A.S., a la Superintendencia Financiera de Colombia y a Datacrédito para
+que se pronunciaran en relación con la problemática jurídica planteada y, a su
+vez, ejercieran los derechos de contradicción y defensa[10].
+ 
+10.           
+Inicialmente, el Banco Davivienda
+S.A., a través de apoderado judicial, contestó la acción de tutela en memorial del
+11 de febrero de 2022[11]. Respecto de los hechos descritos manifestó que el
+demandante sí le solicitó la apertura de una cuenta de ahorros, una tarjeta de
+crédito y un crédito móvil. En relación con la queja radicada ante la
+Superintendencia Financiera, sostuvo que se realizó una investigación en la que
+se determinó que los soportes de los productos otorgados coincidían por
+completo con su documento de identidad. Sumado a lo anterior, aseguró haber
+dado respuesta a todas y cada una de las solicitudes presentadas por el actor,
+motivo por el cual pedía declarar improcedente el recurso de amparo
+constitucional por falta de subsidiariedad, pues se trataba de una controversia
+de índole económico que debe ser ventilada ante la jurisdicción ordinaria.
+ 
+11.           
+En respuesta de esa misma fecha[12], la Superintendencia Financiera de Colombia certificó que el
+28 de junio de 2021, el señor Ismael Silva Rodriguez presentó una queja en
+contra del Banco Davivienda S.A. Sobre este particular, indicó que, si bien
+requirió en dos oportunidades a la entidad bancaria para que resolviera las
+inquietudes formuladas por el accionante, optó por cesar el procedimiento
+administrativo, debido a que los hechos fueron esclarecidos por aquella en las comunicaciones
+del 6 y del 23 de agosto de 2021. En vista de lo anterior, solicitó su
+desvinculación del procedimiento de tutela por falta de legitimación en la
+causa por pasiva.
+ 
+12.           
+Por su parte, la empresa SAB Internet
+para todos S.A.S., en su escrito de respuesta[13], adujo que el documento firmado en su momento por el
+demandante no responde a un contrato de prestación de servicios de telecomunicaciones
+ofrecido por ella, en cuanto no solo no presta ningún servicio de internet ni
+de televisión. Además, afirmó que tampoco tiene personal contratado ni cuenta con
+oficinas en ningún municipio del país. En tales condiciones, dejó entrever que
+los hechos denunciados por el señor Silva Rodríguez indican que personas
+desconocidas estarían usando el nombre de la empresa para cometer fraude.
+ 
+13.           
+Finalmente,
+en escrito del 14 de febrero de 2022, Datacrédito solicitó su desvinculación del trámite de la acción
+de tutela. Para tal efecto, advirtió que las obligaciones que figuran a nombre
+del actor se encuentran vigentes y en mora, por lo que no puede eliminar el
+dato negativo reportado al configurarse una situación de falta de pago[14]. Asimismo, argumentó que,
+de acuerdo con la Ley 1266 de 2008[15], no le corresponde en
+su calidad de operador de la información solicitar ningún tipo de autorización
+al titular de los datos para publicarlos, ya que ello solo le incumbe a la
+fuente que, para el caso concreto, es el Banco Davivienda S.A.
+ 
+II.      DECISIÓN JUDICIAL QUE SE REVISA
+ 
+Sentencia
+de primera instancia
+ 
+14.    En
+sentencia de primera instancia del 22 de febrero de 2022, el Juzgado Promiscuo
+Municipal de Sabana de Torres declaró improcedente la protección invocada por
+falta de subsidiariedad[16]. Para adoptar tal determinación, resaltó que las
+personas deben hacer uso de todas las herramientas legales que el ordenamiento
+jurídico les brinda para proteger sus garantías fundamentales, antes de
+acudir al recurso de amparo constitucional consagrado en el artículo 86
+Superior. En particular, concluyó que en el caso concreto el actor contaba con
+otros medios de defensa judicial, como el proceso penal, para salvaguardar sus
+derechos e intereses.
+ 
+La anterior decisión no fue objeto de impugnación por las partes.
+ 
+III.    ACTUACIONES ADELANTADAS EN SEDE DE REVISIÓN
+ 
+Decreto de pruebas
+ 
+15.    Por medio de auto del 9 de agosto de 2022, el
+magistrado sustanciador solicitó a la Fiscalía General de la Nación que
+informara sobre las diligencias que ha surtido hasta el momento para investigar
+la conducta punible denunciada por el señor Ismael Silva Rodríguez. Igualmente,
+se le pidió a este último que informara acerca de las actuaciones que ha
+adelantado ante la fuente para pedir la corrección de la información que juzga
+errónea. Adicionalmente, allí se requirió al Banco Davivienda S.A. para que
+remitiera copia de las distintas medidas que ha adoptado como consecuencia de
+las reclamaciones realizadas por el actor y esclareciera si su identidad fue
+efectivamente suplantada. Por último, ofició a la Superintendencia Financiera
+para que remitiera copia del expediente administrativo que contiene la queja
+presentada por el accionante.
+ 
+A continuación, se resumen las
+intervenciones recibidas por la Secretaría General de la Corte Constitucional
+en cumplimiento del antedicho proveído.
+ 
+Respuestas
+de las entidades involucradas
+ 
+16.    El 16 de agosto
+de 2022, el demandante remitió su respuesta al auto de pruebas[17]. En su escrito manifestó: (i)
+que no ha presentado ninguna solicitud adicional ante Datacrédito, porque
+no se le ha respondido su petición del 29 de agosto de 2021; (ii) acerca
+de la presentación de nuevas solicitudes advirtió que con posterioridad a la
+presentación de la acción de tutela, el 1º de abril del año en curso le
+solicitó a Fiscalía Local de Sabana de Torres impulsar el proceso penal por
+estos hechos, pero esta autoridad no le respondió.
+ 
+En un segundo memorial
+advirtió que cuando se validó el crédito, Davivienda nunca lo confirmó con él
+por ningún medio. También señaló las siguientes deficiencias de la
+investigación penal: (i) nunca se le informó en qué estado se encuentra
+el proceso; (ii) no se adelantó ninguna investigación para corroborar
+las placas del vehículo de las personas que presuntamente lo estafaron, aunque
+él las suministró; (iii) no fue notificado del archivo de la
+investigación penal[18].
+ 
+17.           
+El 22 de agosto de 2022, la
+Superintendencia Financiera remitió copia del expediente administrativo que
+contenía la queja presentada por el señor Ismael Silva Rodríguez[19]. A través de
+un escrito posterior expresó que mediante el trámite de quejas no se contempla
+la resolución de controversias entre los consumidores financieros y las
+entidades vigiladas, relacionadas con el cumplimiento de las obligaciones
+contractuales asumidas[20].
+En esos casos, según advirtió, debe acudirse a una demanda ante la autoridad
+jurisdiccional competente.
+ 
+18.           
+El 25 de agosto de 2022, el Banco
+Davivienda respondió el auto de pruebas[21].
+En su escrito adujo (i) que el accionante suministró su información
+personal a terceros, quienes bajo engaños registraron su cédula y registros
+biométricos para la apertura de los productos móviles. No obstante, advirtió
+que para la entidad bancaria quien tramitó y obtuvo los productos móviles
+objeto de la reclamación fue el señor Ismael Silva, pues al cotejar su huella y
+cédula de ciudadanía estos coinciden con los originales del accionante. Además,
+(ii) dijo que para determinar si la identidad del reclamante había sido
+suplantada hizo una validación con un experto en dactiloscopia y se analizó la
+cédula de ciudadanía. Este análisis concluyó que el documento era original, y
+las huellas correspondían a las mismas registradas en la aplicación móvil.
+Igualmente, se refirió a los pasos que deben agotarse para abrir una tarjeta de
+crédito y un crédito móvil, a través de la aplicación del banco. Finalmente (iii)
+concluyó que en este caso no se violó el derecho al habeas data, debido a que
+se reportó ante las centrales de información financiera que en el registro de
+las obligaciones se incluyó la leyenda víctima de falsedad personal.
+El accionado también remitió copia de las respuestas a las reclamaciones
+presentadas por el actor, y de los reportes en las centrales de información financiera.
+ 
+19.           
+La Dirección de Asuntos Jurídicos
+de la Fiscalía General de la Nación respondió en el término otorgado el auto de
+pruebas[22].
+En el memorial presentado sostuvo: (i) que la investigación penal de la
+denuncia interpuesta por Ismael Silva Rodríguez fue asumida por la Fiscalía
+Única Local de Sabana de Torres, de la Dirección Seccional del Magdalena Medio;
+(ii) que el caso se encuentra inactivo, porque el fiscal de conocimiento
+profirió una orden de archivo el 31 de enero de 2022; (iii) que en este
+caso no se han individualizado a los presuntos responsables. Finalmente, la
+entidad remitió copia de la investigación penal.
+ 
+20.           
+Asimismo, Experian Colombia S.A-
+Datacrédito advirtió que de conformidad con la Ley 1266 de 2008[23]: (i) a Davivienda
+le corresponde verificar si en este caso existió una suplantación o no, debido
+a que esa entidad bancaria tiene la calidad de fuente, y es ella quien mantiene
+una relación financiera con el titular de la información; (ii) las
+fuentes y no los operadores, tienen el deber de guardar la autorización
+otorgada por los titulares y certificar el hecho; (iii) la tutela no
+puede prosperar contra el operador, ya que el dato negativo fue suministrado
+por la fuente de la información.
+ 
+IV.    CONSIDERACIONES
+ 
+A.              
+Competencia
+ 
+21.    Con fundamento en los artículos 86 y 241,
+numeral 9°, de la Constitución y 31 a 36 del Decreto 2591 de 1991, la Sala
+Sexta de Revisión de Tutelas de la Corte Constitucional es competente para
+revisar el fallo de tutela proferido en el proceso de la referencia.
+ 
+B       Análisis sobre la
+procedencia formal de la acción de tutela
+ 
+22.           
+A continuación, se examinará si en
+el caso de la referencia se cumple con los requisitos para la procedencia formal
+de la acción de tutela. Vale precisar que solo en el evento en que los presupuestos
+se encuentren acreditados, la Sala de Revisión procederá a delimitar el
+problema jurídico y a pronunciarse de fondo sobre la controversia planteada en
+esta oportunidad.
+ 
+a)  Legitimación en la causa por activa y por pasiva
+ 
+23.           
+Tal como
+lo dispone el artículo 86 de la Constitución, la acción de tutela es un
+instrumento de defensa judicial al que puede acudir cualquier persona para
+reclamar la protección inmediata de sus derechos fundamentales, cuando quiera
+que estos resulten vulnerados o amenazados como consecuencia de las acciones u
+omisiones de las autoridades públicas y, excepcionalmente, de los particulares,
+en aquellos eventos delineados por la Ley[24].
+ 
+En
+consonancia con dicho mandato superior, el Decreto 2591 de 1991[25], en su artículo 10, definió los
+titulares de la acción de tutela[26], quienes podrán solicitar el amparo constitucional (i)
+bien sea en forma directa; (ii) por intermedio de un representante legal
+(caso de los menores de edad, personas con discapacidad y personas
+jurídicas); (iii) mediante apoderado judicial (abogado titulado
+con poder judicial o mandato expreso); (iv) así como a través de
+agente oficioso (cuando el titular del derecho no esté en condiciones de
+promover su propia defensa). De igual manera, según se dispone en la ley,
+se encuentran legitimados para ejercer esta acción, (v) tanto el
+Defensor del Pueblo como (vi) los personeros municipales (facultados
+para intervenir en representación de terceras personas, siempre que el titular
+de los derechos haya autorizado expresamente su mediación o se adviertan
+situaciones de desamparo e indefensión)[27].
+ 
+24.    En el presente caso, se tiene que el señor
+Ismael Silva Rodríguez se encuentra legitimado en la causa por activa en el
+marco de la acción de tutela, toda vez que obra en su propio nombre y actúa
+directamente en defensa de sus propios derechos e intereses, con el propósito
+no solamente de ser exonerado del pago de las obligaciones crediticias que
+figuran a su nombre, sino también de que se elimine el dato negativo reportado
+por el Banco Davivienda S.A. en la central de riesgo de Datacrédito[28].
+ 
+25.    Por
+otro lado, acerca de la legitimación en la causa por pasiva, de acuerdo con lo
+establecido en los artículos 5[29],
+13[30]
+y 42[31]
+del Decreto 2591 de 1991, este
+mecanismo constitucional procede contra
+toda acción u omisión de particulares
+y cuando la solicitud sea para tutelar a quien se encuentre en una
+situación de subordinación o indefensión respecto del particular contra el cual
+se interpuso la acción[32].
+ 
+Concretamente, la jurisprudencia constitucional ha sido
+clara y consistente en señalar que la acción de tutela es procedente contra las
+entidades bancarias para solicitar la protección de los derechos fundamentales
+al habeas data y al buen nombre, cuando se efectúa el reporte a las centrales
+de riesgo por obligaciones que el demandante alega inexistentes[33].
+En ese sentido, esta Corte también ha precisado que la actividad financiera
+constituye un servicio público, dado que su objetivo principal es captar recursos económicos del público para
+administrarlos, intervenirlos y obtener de su manejo un provecho de igual
+naturaleza[34]. Desde luego, conforme con el artículo 335 de la Carta Política, las
+actividades financieras que involucran la inversión, aprovechamiento y manejo
+de recursos son de interés público, previa autorización del Estado. De ahí que
+en este tipo de asuntos se configure, en líneas generales, o bien una situación
+de indefensión o bien una relación de asimetría entre las partes
+involucradas[35],
+pues es claro que la entidad bancaria se halla en una posición dominante
+respecto de sus usuarios, al depositarse en ella la confianza pública por el
+servicio que presta y cobijarse todas sus determinaciones bajo una presunción
+de veracidad[36].
+ 
+26.    Con fundamento en las
+anteriores consideraciones, para la Sala no hay duda de que el Banco Davivienda
+S.A. está legitimado como parte
+pasiva en el trámite que se adelanta, en cuanto presta un servicio público de
+administración de recursos económicos, a los cuales se les atribuye la presunta
+vulneración de las prerrogativas fundamentales en discusión.
+ 
+b) Inmediatez
+ 
+27.    La jurisprudencia
+constitucional ha resaltado que, de conformidad con el artículo 86 de la
+Constitución, la acción de tutela no tiene término de caducidad. Sin embargo,
+esta debe formularse en un plazo razonable desde el momento en el que se
+produjo el supuesto fáctico vulnerador[37].
+En este caso, debe señalarse que el señor Ismael Silva Rodríguez presentó la
+acción de tutela el 9 de febrero de 2022[38], luego
+de solicitar por escrito el 3 de noviembre de 2021[39] al Banco Davivienda S.A. la
+corrección de sus datos personales. Ello significa que transcurrieron menos de
+tres meses entre la última comunicación de la entidad bancaria en la que se
+deja constancia de que el actor figura como titular de las obligaciones
+crediticias reportadas en mora y la radicación de la acción de tutela, razón
+por la que su presentación oportuna se tiene por satisfecha.
+ 
+c) Subsidiariedad
+ 
+28.           
+Según ha sido precisado por la
+jurisprudencia constitucional, la acción de tutela fue concebida como un
+instrumento de defensa judicial para la protección inmediata de los derechos
+fundamentales al que la propia Carta Política atribuyó un carácter subsidiario
+y residual[40].
+De acuerdo con lo anterior, la tutela no es un mecanismo alternativo, adicional
+o complementario de los previstos en el ordenamiento para garantizar los
+derechos de las personas, pues con ella no se pretende sustituir los procesos
+ordinarios o especiales y mucho menos aún, desconocer las acciones y recursos
+inherentes a los mismos para controvertir las decisiones que se profieran[41].
+ 
+La Corte ha
+enfatizado que esa particular condición supletiva de la acción de tutela
+claramente expresada en el artículo 86 Superior, además de reconocer la
+naturaleza preferente de los diversos mecanismos judiciales establecidos por la
+ley[42], permite interpretar que el ejercicio del recurso de
+amparo constitucional sólo es procedente de manera excepcional. Esta acción
+solo será procedente cuando no existan otros medios de protección a los que se
+pueda acudir, o aun existiendo éstos, se compruebe su ineficacia en relación
+con el caso concreto o se promueva para precaver la ocurrencia de un perjuicio
+irremediable[43].
+ 
+Esta
+aproximación encuentra pleno respaldo en el artículo 6º del Decreto 2591 de
+1991, el cual, al referirse a las causales de improcedencia de la acción de
+tutela, puntualiza claramente que la existencia de otros medios de defensa
+judicial tendrá que ser apreciada en concreto, atendiendo al grado de
+eficiencia y efectividad material -y no meramente formal- del mecanismo
+judicial para encarar las específicas circunstancias en que se encuentre el
+solicitante al momento de invocar la protección del derecho presuntamente
+conculcado.
+ 
+29.           
+En este asunto, el Juzgado Promiscuo
+Municipal de Sabana de Torres, en la sentencia de primera y única instancia del
+22 de febrero de 2022, decidió que la acción de tutela era improcedente, porque
+el accionante cuenta con otros medios de defensa para la protección de sus
+derechos, como el proceso penal. Según advirtió, los otros medios de defensa
+dispuestos por el ordenamiento garantizan la efectividad de un proceso judicial
+en el que se pueden practicar pruebas, para determinar lo que corresponda en
+derecho.
+ 
+La Sala
+difiere de la conclusión del juez de primera instancia. En este caso, la acción
+penal no es idónea para proteger el derecho al habeas data. Tampoco tiene la
+aptitud para corregir del dato negativo o positivo suministrado por una fuente
+al operador de la información. Como lo ha señalado la Corte, el proceso penal
+tiene la finalidad de establecer la responsabilidad individual del acusado, por
+infringir la ley penal[44].
+El juez penal impone una sanción y no puede pronunciarse sobre la
+responsabilidad institucional de una persona jurídica en la violación de los
+derechos fundamentales de una persona[45].
+En contraste, la acción de tutela, le permite al juez constitucional imponer
+medidas mucho más amplias y comprehensivas de protección de derechos
+fundamentales que van más allá de la sanción o la indemnización de perjuicios[46].
+ 
+30.           
+Durante el proceso de tutela
+Davivienda advirtió que en este caso se presentaba una controversia de
+contenido económico que no debía ser resuelta por el juez de tutela, sino por
+los jueces ordinarios. De manera semejante, la Superintendencia Financiera consideró
+que el accionante debía presentar una demanda con fundamento en las funciones
+jurisdiccionales atribuidas a ese organismo.
+ 
+La Sala
+considera que en este caso no se plantea una controversia estrictamente
+económica, que invoque derechos de carácter personal y particular. Por el
+contrario, lo que pretende el señor Silva hace parte del núcleo esencial del
+derecho fundamental al hábeas data, pues pretende la rectificación del
+dato negativo y, en un sentido más amplio, su reclamo constitucional está vinculado
+con una presunta falla en la adecuada gestión de sus datos personales. Esta
+corporación ha decidido en múltiples oportunidades casos que se refieren a la
+efectividad de este derecho, cuando los titulares de los datos son reportados a
+centrales de riesgo, con fundamento en obligaciones que no existen[47].
+ Tampoco considera que en este caso se presenta una controversia que pueda ser
+resuelta por medio de las facultades jurisdiccionales previstas en la ley. Esa
+competencia se limita a resolver las controversias contractuales entre los
+consumidores financieros y las entidades vigiladas por la Superintendencia
+Financiera relacionadas exclusivamente con la ejecución y cumplimiento
+de obligaciones contractuales financieras, bursátiles o aseguradoras. En este
+asunto el accionante no alega el incumplimiento de una obligación de estas
+características. 
+ 
+Al respecto,
+la Sala estima que en el caso concreto se cumplió con el requisito de
+procedibilidad exigido por la jurisprudencia, en casos semejantes consistente
+en solicitar la corrección de los datos por la fuente. En este sentido, la jurisprudencia de la Corte, en las Sentencias T-883 de
+2013[48]
+y T-129 de 2010[49],
+ha reconocido que cuando se trata de controversias relacionadas con el recaudo,
+administración y uso de la información personal, el medio idóneo y efectivo
+para proteger el derecho fundamental consiste en solicitar la corrección del
+dato negativo ante la fuente de la información. Ello, teniendo en cuenta
+que la Ley 1266 de 2008 consagra en su artículo 16 que los titulares de la
+información o causahabientes que consideren que la información contenida en su
+registro individual en un banco de datos debe ser objeto de corrección o
+actualización, podrá presentar un reclamo ante el operador o la fuente para que
+este, una vez verificadas las observaciones o planteamientos del titular,
+decida. 
+ 
+Pues bien, en
+el asunto bajo estudio el señor Ismael Silva le manifestó al Banco Davivienda
+que no había adquirido la cuenta de ahorros, el crédito móvil y la tarjeta visa
+móvil, que aparecían a su nombre, el 29 de junio de 2021, y pidió que
+cancelaran los productos[50].
+Ante la respuesta negativa del banco presentó una nueva comunicación en los
+canales de atención del Banco, el 10 de agosto de 2021[51].
+
+ 
+Con
+posterioridad, el señor Ismael Silva Rodríguez, el 3 de noviembre de 2021, le
+solicitó a la entidad bancaria que se levantara el dato negativo reportado a
+las centrales de riesgo, por la mora en los productos adquiridos[52]
+.Esa solicitud fue rechazada, el 25 de noviembre de 2021, por el Banco
+Davivienda, en la que advirtió que no era posible eliminar los datos negativos
+ante los operadores de la información, porque la entidad tenía el deber legal
+de realizar el reporte negativo y positivo de los productos que tienen los
+clientes con el banco[53].
+Es decir, que el actor le solicitó a la fuente de la información, que en este
+asunto es Davivienda, la corrección del dato desfavorable.
+ 
+En
+consecuencia, en este caso el accionante agotó la solicitud de corrección del
+dato negativo ante la fuente de la información que en este caso es un requisito
+de procedibilidad, para proteger el derecho fundamental al hábeas data.   
+ 
+31.           
+Ahora bien, con
+posterioridad a los reclamos ante Davivienda y la Superintendencia Financiera,
+el 29 de octubre de 2021 entró en vigencia la Ley Estatutaria 2157 de 2021, que
+reformó la Ley 1266 de 2008. Esa norma
+estableció en el artículo 7º, que las solicitudes y reclamos sobre suplantación
+deberán presentarse ante la fuente. Cuando la solicitud no sea respondida el peticionario podrá
+solicitar la imposición de sanciones y las decisiones que sean pertinentes para
+hacer efectivo el derecho ante la Superintendencia Financiera[54].  
+ 
+En este caso,
+el señor Silva acudió ante la entidad bancaria, el 3 de noviembre de 2021, con
+posterioridad a la aprobación de la ley. La solicitud fue negada por Davivienda
+el 25 de noviembre de 2021. El accionante no acudió nuevamente ante la Superintendencia Financiera con
+fundamento en lo dispuesto en la Ley 2157 de 2021. Sin embargo, esa no es una razón
+suficiente para considerar que se incumplió con el requisito de subsidiariedad.
+De hecho, desde antes de la expedición de la Ley 2157 de 2021 ese recurso
+estaba disponible. En el artículo 17 de la Ley 1266 de 2008 se prevé que se
+puede acudir ante esa entidad para solicitar, la corrección, actualización o
+retiro de los datos personales que son administrados por los establecimientos
+de crédito. Además, en el expediente no existe evidencia que demuestre la
+eficacia de este recurso, y ninguno de los sujetos procesales consideró que era
+idóneo para resolver este asunto. 
+ 
+32.           
+Finalmente, se advierte que el
+actor obró de manera diligente, pues acudió a los medios de defensa judicial
+previstos en el ordenamiento jurídico. Así, el 17 de junio de 2021, interpuso
+una denuncia ante la Sala de Atención al Usuario de Barrancabermeja de la
+Fiscalía General de la Nación por la comisión del delito de falsedad personal
+del que fue víctima[55].
+Incluso, desde el 26 de junio de 2021[56],
+radicó una queja ante la Superintendencia Financiera de Colombia para advertir
+sobre la utilización fraudulenta de sus huellas digitales y de su documento de
+identidad para adquirir distintos productos financieros.
+ 
+En conclusión,
+en este caso la Corte concluye que se cumplió con el requisito de
+subsidiariedad porque (i) el proceso penal no es un medio idóneo para
+proteger, en casos como el que se resuelve, el derecho fundamental al hábeas
+data, (ii) el accionante agotó el requisito de procedibilidad, exigido
+en este tipo de asuntos pues le solicitó la corrección del dato negativo a la
+fuente y (iii) no se encuentra probado que el proceso previsto en la Ley
+2157 de 2021 sea efectivo para corregir los datos personales erróneos. 
+ 
+B.     
+Formulación del problema
+jurídico y metodología de la decisión
+ 
+33.           
+De conformidad con lo expuesto en
+líneas precedentes, el señor Ismael Silva Rodríguez presentó acción de tutela en
+contra del Banco Davivienda S.A., con el fin de que se le amparen sus derechos
+fundamentales al habeas data, al debido proceso, a la honra y al buen nombre, al
+ser reportado en las centrales de riesgo por no pagar varios productos
+financieros que habrían sido adquiridos suplantando su identidad. En contraste,
+la entidad bancaria dejó en claro, en sede de revisión, que llevó a cabo una
+investigación interna. En ella se demostró que el accionante, bajo engaño, suministró
+su información personal a terceros que solicitaron en su nombre los productos
+objeto de la reclamación. 
+ 
+Lo anterior,
+plantea un asunto relevante, porque recientemente el Congreso de la República
+adoptó la Ley Estatutaria 2157 de 2021, que obliga a las entidades que sean
+operadores, fuentes y usuarios de información crediticia y financiera a
+demostrar que han adoptado medidas apropiadas y efectivas para proteger el
+marco normativo de protección de datos. En consecuencia, en este caso abordará
+el cumplimiento de ese mandato, denominado responsabilidad demostrada, al
+referirse a la investigación adelantada por el accionado para investigar la
+alegada suplantación de identidad.
+ 
+34.           
+En tales condiciones, le
+corresponde a la Sala Sexta de Revisión de la Corte Constitucional resolver el
+siguiente problema jurídico: ¿el Banco Davivienda S.A. vulneró el derecho fundamental de Ismael Silva Rodríguez al reportarlo
+en la central de riesgos de Datacrédito y mantener el dato negativo por el supuesto
+incumplimiento de unas obligaciones financieras, aunque se demostró en una
+investigación interna, que fueron obtenidas de manera fraudulenta a través de
+la suplantación de su identidad?
+ 
+35.           
+Con tal propósito, la Sala abordará
+el estudio del derecho fundamental al habeas data financiero y del principio de
+responsabilidad demostrada en el sistema jurídico colombiano para, con
+posterioridad, analizar el alcance de la protección del citado derecho cuando
+se trata de obligaciones crediticias inexistentes y se incurre en la conducta
+de suplantación de identidad. Por último, identificadas las subreglas y puestas en contraste con
+los hechos materiales del caso que se revisa, se dará respuesta al
+cuestionamiento atrás enunciado.
+ 
+El derecho fundamental al
+habeas data financiero
+ 
+36.           
+Una de las manifestaciones del
+derecho al habeas data se refiere a la protección de datos personales de
+contenido financiero. En efecto, la Carta Política garantiza, en su artículo
+15, el derecho fundamental de toda persona a conocer, actualizar y rectificar
+la información comercial, financiera y crediticia recopilada en centrales de
+información para determinar el riesgo financiero de una persona[57].
+Su regulación, en términos generales, se encuentra delimitada en la Ley
+Estatutaria 1266 de 2008[58],
+modificada y adicionada por la Ley 2157 de 2021[59],
+que desarrolla esta garantía constitucional y extiende su ámbito de aplicación
+a todos los datos de información personal registrados en un banco de datos,
+sean estos de naturaleza pública o privada. Por esta razón, la jurisprudencia
+constitucional ha caracterizado al habeas data financiero como un derecho
+fundamental específico, que se origina en la particular incidencia de las
+facultades previstas en el artículo 15 superior en el caso de las actividades
+de intermediación. 
+ 
+Concretamente,
+dicha garantía tiene como finalidad preservar los intereses del titular de la
+información ante el potencial abuso del
+poder informático, que para el caso particular ejercen las centrales de
+información financiera, destinada al cálculo del riesgo crediticio[60]. El ejercicio de este derecho se relaciona con (i)
+el interés general, que representa el sistema financiero, (ii) la
+democratización del crédito, (iii) los derechos de crédito de las
+personas naturales y jurídicas, y (iv) el derecho a la información de
+las entidades que conforman el sistema financiero[61].
+ 
+37.           
+De acuerdo con lo expuesto en la
+jurisprudencia constitucional en la materia, que fue sistematizada
+recientemente por la Sentencias SU-139 de 2021[62]
+y C-032 de 2021[63],
+el núcleo esencial del habeas data se encuentra conformado por los
+siguientes contenidos mínimos: a) el derecho a acceder a la información que se
+encuentra recogida en bases de datos; b) el derecho a incluir datos nuevos,
+para que exista una imagen completa del titular; c) el derecho a actualizar la
+información; d) el derecho a corregir la información contenida en una base de
+datos; y e) el derecho a excluir una información que se encuentra contenida en
+una base de datos.
+ 
+38.           
+A su vez, la garantía de este
+derecho se encuentra directamente asociada a un conjunto armónico e integral de
+principios de la administración de datos, consagrados en la normativa
+estatutaria y desarrollados por la jurisprudencia, que permiten la satisfacción
+de los derechos de los titulares[64],
+las fuentes de información[65],
+los operadores de las bases de datos[66]
+y los usuarios[67].
+Estos son: libertad, necesidad, veracidad, integridad, incorporación,
+finalidad, utilidad, circulación restringida, caducidad e individualidad.
+ 
+39.           
+De acuerdo con el principio de
+libertad, el tratamiento de los datos solo puede llevarse a cabo cuando exista
+un consentimiento libre, previo y expreso del titular, a no ser que esté de por
+medio una obligación legal o judicial, que no requiera de dicho consentimiento[68].
+Con este principio se pretende evitar que se recoja y divulgue información
+personal adquirida en forma ilícita, sin el consentimiento del titular, o sin
+una justificación legal o constitucional concreta[69].
+Además, este principio se refiere a la potestad con la que cuenta el titular de disponer de
+la información y conocer su propia identidad informática[70]. Lo anterior consiste, básicamente, en el
+conocimiento de la recopilación de los datos, estar informado acerca de la
+finalidad del tratamiento y contar con herramientas efectivas para su conocimiento,
+actualización y rectificación[71].
+ 
+Sobre el principio de veracidad, la Ley 1266 de 2008
+prevé que la información contenida en los bancos de datos debe ser veraz,
+completa, exacta, actualizada, comprobable y comprensible[72].
+Por ello, se prohíbe el registro y divulgación de datos parciales,
+incompletos, fraccionados o que induzcan a error[73],
+con lo cual se pretende asegurar que los datos reflejen situaciones reales, es
+decir, que sean ciertos, por lo que se encuentra prohibida la administración de
+datos erróneos[74].
+En este punto, la jurisprudencia constitucional ha advertido que la prohibición
+de divulgar datos parciales o fraccionados se encuentra comprendida en el
+principio de integridad de la información[75].
+En suma, la veracidad implica un deber de objetividad, esto es, que la
+información no debe ser presentada en forma inductiva, sesgada o sugestiva.
+Es una correspondencia entre el registro y las condiciones fácticas del sujeto cuya
+información personal es administrada en bases de datos, entre ellas las
+destinadas a la determinación del riesgo financiero.
+ 
+Por su parte, el principio de incorporación, cuyo
+alcance fue abordado con amplitud en las Sentencias C-282 de 2021[76]
+y C-032 de 2021[77],
+obliga al responsable del tratamiento a registrar en la base de datos toda la
+información que tenga una consecuencia favorable para el titular. En otras
+palabras, cuando la inclusión de la información personal comporte consecuencias
+negativas para una persona, la fuente y el operador tienen el deber de
+actualizar esta información con los comportamientos que incidan en la
+aplicación de estas consecuencias. El cumplimiento de ese deber implica, por
+ende, la satisfacción de los principios de incorporación y veracidad.
+ 
+Acerca del principio de finalidad, la Ley 1266 de 2008
+señala que la administración de los datos personales debe obedecer a una
+finalidad compatible con la Constitución. En este sentido, la jurisprudencia ha
+advertido de manera reiterada que para satisfacer este principio: (i)
+los datos deben ser procesados con un propósito específico y explícito; (ii)
+la finalidad de la recolección debe ser legítima de acuerdo con la Constitución
+y (iii) la recopilación de los datos debe tener un fin exclusivo, de tal
+manera que se encuentra prohibido el uso o
+divulgación de datos para una finalidad diferente a la inicialmente prevista[78].
+Asimismo, la Corte ha establecido que la recolección de datos debe estar acorde
+con el principio de utilidad. Ello quiere decir que el acopio, procesamiento e
+información de los datos personales debe tener una función determinada. De allí
+que quede proscrita la divulgación de datos que, al carecer de función, no
+obedezca a una utilidad clara y suficientemente determinable[79].
+ 
+En particular, esta Corporación ha llamado
+la atención de que el cálculo del riesgo crediticio es una finalidad
+constitucional legítima, que consiste en contar con la información necesaria
+para tener una adecuada distribución de los recursos de crédito, los cuales
+deben ser debidamente administrados al derivarse de los depósitos[80]. De esta manera se protege la
+estabilidad financiera y el ahorro público, que son actividades vinculadas al
+interés público como se encuentra previsto en el artículo 335 de la Constitución[81].
+ 
+40.           
+Ahora bien, los principios de
+veracidad, integridad, finalidad y utilidad se encuentran reflejados en las
+obligaciones que le impone la Ley 1266 de 2008 a la fuente, a los operadores de
+la información y a los usuarios. De esta suerte, la referida normativa prevé
+que el titular puede exigirle a la fuente: a) la rectificación de los
+datos contenida en la base e informarlo a los operadores; b) solicitar
+prueba de la autorización, cuando esta sea necesaria; c) que la
+información que suministre a los operadores de los bancos de datos sea veraz,
+completa, exacta, actualizada y comprobable. Además, la fuente tiene como
+obligaciones correlativas: a) reportar periódicamente las novedades de
+los datos que haya suministrado previamente al operador; b) adoptar las
+medidas pertinentes para actualizar la información; c) rectificar la
+información incorrecta e informarla a los operadores; d) solicitar
+cuando sea necesario el consentimiento del titular y certificarlo
+semestralmente[82];
+e) cuando se presente solicitud de rectificación informar al operador
+que determinada información se encuentra en discusión, para que se incluya una
+leyenda en este sentido, así como f) diseñar e implementar mecanismos
+eficaces para reportar la información al operador[83].
+ 
+Igualmente, el operador de la información debe, de
+acuerdo con el artículo 7º de la Ley 1266 de 2008: a) solicitarle a la
+fuente que certifique la existencia de la autorización otorgada por el titular
+para el tratamiento del dato; b) asegurar los registros para impedir su
+alteración, pérdida, alteración o uso no autorizado; c) actualizar el
+registro de la información cada vez que lo reporten las fuentes; d)
+tramitar las peticiones, consultas y reclamos formulados por el titular de la información;
+d) indicar cuando haya lugar a ello que determinada información se
+encuentra en discusión por parte de su titular cuando no haya finalizado el
+trámite[84].
+ 
+El
+principio de responsabilidad demostrada
+ 
+41.           
+Según lo expuesto en la Sentencia
+C-032 de 2021[85],
+el principio de responsabilidad demostrada consiste en el deber que le asiste al
+responsable del tratamiento de datos de demostrar ante la autoridad de datos que
+cuenta con la institucionalidad adecuada y los respectivos procedimientos internos
+para garantizar el efectivo goce del derecho al habeas data. Específicamente, debe
+evidenciar la vigencia del principio de libertad, las facultades de
+conocimiento, actualización y la rectificación del dato personal. En plena
+correspondencia con la Superintendencia de Industria y Comercio, este principio
+implica que las medidas adoptadas para cumplir con el referido derecho son
+útiles, pertinentes y eficientes[86].
+  
+Acerca del
+citado principio de responsabilidad demostrada también existen diferentes instrumentos
+internacionales que han ampliado su marco de aplicación. Por ejemplo, este fue
+incorporado en las directrices sobre datos personales de la Organización para
+la Cooperación y el Desarrollo Económico (OCDE) que fueron elaboradas en el año
+2013[87].
+Tales directrices, si bien no son una norma de derecho internacional público,
+sí configuran una doctrina relevante para la Corte, en la medida en que otorga
+argumentos para definir el contenido y alcance del principio de responsabilidad
+demostrada y su vínculo con los demás principios que integran el derecho
+fundamental al habeas data. Conforme con este documento, un controlador de
+datos es responsable de adoptar las medidas necesarias para cumplir con los
+principios de protección de datos. De esa manera, los controladores de datos habrán
+de cumplir con tres directrices[88]:
+ 
+En primer lugar, deben llevar a cabo: (a) un programa
+de control de datos acorde con la estructura, escala, volumen y sensibilidad de
+sus operaciones; (b) asegurar salvaguardas de evaluaciones de riesgo a la
+privacidad; (c) planes para responder a quejas e incidentes, que se actualice
+de acuerdo con su monitoreo y evaluación periódica. En segundo lugar, deben ser
+capaces de demostrar que su programa de administración de datos es apropiado.
+En particular, al atender solicitudes de la autoridad competente deberían
+demostrar que tienen un código de conducta para cumplir con sus obligaciones.
+Por último, deberían dar aviso, cuando ello resulte apropiado, a las
+autoridades competentes cuando exista una queja de seguridad seria que afecte
+los datos personales. Si la infracción afecta a los titulares del dato debería
+informarles[89].
+ 
+En el ordenamiento jurídico interno, la legislación ha
+establecido el principio de responsabilidad demostrada frente a las entidades
+estatales y organizaciones de carácter privado. El Decreto 1377 de 2013[90],
+que reglamentó la Ley 1581 de 2012[91],
+estableció este principio[92].
+En tal acto administrativo se previó que los responsables de los tratamientos
+de los datos deben demostrar, a solicitud de la Superintendencia de Industria y
+Comercio, que han implementado a cabalidad las medidas apropiadas y efectivas para
+cumplir las obligaciones reconocidas tanto en la referida ley como en el
+decreto recién mencionado[93].
+ 
+Más adelante, en el Decreto 1413 de 2017[94],
+se instituyó el principio de responsabilidad demostrada para las entidades que
+conforman la administración pública[95],
+en el interés de prestar servicios ciudadanos digitales[96].
+Así, quienes operen estos servicios deberán adoptar medidas apropiadas, efectivas y verificables que les permitan demostrar
+el correcto cumplimiento de las normas sobre tratamiento de datos personales[97]. En concreto, habrán de crear e implementar un Programa Integral de Gestión de
+Datos (PIGD), como mecanismo operativo para garantizar el debido tratamiento de
+los datos personales[98]. Este programa debe ser acorde con la guía del principio de
+responsabilidad demostrada elaborado por la Superintendencia de Industria y
+Comercio[99].
+Igualmente, según dispone el decreto en cita, para proteger la
+confidencialidad, integridad y disponibilidad de los datos, todas las entidades adoptarán políticas apropiadas,
+efectivas y verificables que permitan demostrar el cumplimiento de un modelo de
+gestión de seguridad de la información[100].
+ 
+Por su parte, la Ley Estatutaria 2157 de 2021, que
+modificó y adicionó la Ley 1266 de 2008, introdujo el principio de
+responsabilidad demostrada en la administración de las bases de datos de
+carácter financiero o crediticio[101].
+De acuerdo con esta normativa, los operadores, las fuentes y los usuarios deben
+demostrar que han implementado medidas apropiadas, efectivas y verificables
+para cumplir con las disposiciones de la Ley 1266 de 2008. Estas medidas
+deben ser proporcionales frente a: (i) la naturaleza jurídica del
+operador, la fuente o el usuario; (ii) el tamaño de la empresa; (iii)
+la naturaleza de los datos personales; (iv) el tipo de tratamiento; (v)
+los riesgos potenciales que se pueda causar a los derechos de los titulares.
+En líneas generales, las medidas organizacionales y técnicas implementadas para
+cumplir con el referido principio habrán de determinarse con base en una
+evaluación de las actividades de procesamiento y de los riesgos inherentes a
+estas.
+ 
+De ahí que para garantizar el principio de
+responsabilidad demostrada, en los precisos términos previstos en la Ley 2157
+de 2021[102],
+los operadores, las fuentes y los usuarios tienen la obligación de: (i)
+crear una organización administrativa para la adopción de políticas acordes con
+el marco normativo de protección de datos personales; (ii) adoptar
+mecanismos internos para poner en práctica esas políticas; y, (iii)
+establecer procesos para la atención de consultas, peticiones y reclamos de los
+titulares, relacionados con el tratamiento de los datos. Lo anterior, no solo
+con especial énfasis en la calidad, confidencialidad y seguridad de la
+información, sino también en acatamiento de la comunicación previa del reporte
+negativo y de la atención oportuna de consultas y reclamos de los titulares de
+los datos.
+ 
+42.           
+En síntesis, bajo el principio de
+responsabilidad demostrada, a los encargados del tratamiento de datos personales
+les asiste la obligación general de adoptar medidas apropiadas, efectivas y
+verificables para proteger el derecho fundamental de habeas data. Estas medidas
+deberán garantizar, como mínimo y en cualquier operación de procesamiento de
+datos personales: (i) una organización administrativa para cumplir con
+estas políticas; (ii) un mecanismo interno para hacerlas efectivas; y, (iii)
+un proceso adecuado de consultas, peticiones y reclamos que garantice la confidencialidad
+y seguridad de la información. Lo anterior, sin perjuicio de reconocer que,
+como sucede en otras latitudes, la manera específica de dar cumplimiento a las
+anteriores medidas depende por completo de los hechos y circunstancias
+concretas de cada caso particular[103].
+De hecho, el propio legislador previó que, al adoptar estas medidas, habrá de
+atenderse a distintas circunstancias tales como la naturaleza jurídica del
+responsable en el tratamiento de datos, el tamaño de la empresa, el tipo de
+datos involucrados y el posible daño que pueda causar una eventual divulgación
+de estos.
+ 
+La
+protección del derecho fundamental al habeas data en la jurisprudencia constitucional
+cuando se trata de obligaciones inexistentes
+ 
+43.           
+En materia de tutela, la Corte Constitucional
+ha protegido los derechos fundamentales al habeas data y al buen nombre de los
+titulares cuando se demuestra en el caso concreto que una fuente reporta ante
+los operadores información negativa sobre su presunto incumplimiento de
+obligaciones crediticias inexistentes. En estas decisiones, las diferentes Salas
+de Revisión han establecido que los requisitos para que proceda el reporte de
+un dato desfavorable son los siguientes: por un lado, (i) la veracidad acerca
+de la existencia de una obligación crediticia y, por otro, (ii) la
+autorización previa, escrita y expresa del titular para que se reporte el dato
+negativo.
+ 
+Así, por
+ejemplo, en la Sentencia T-847 de 2010[104],
+la Sala Novena de Revisión de esta Corporación estudió una acción de tutela promovida
+por una ciudadana en contra de un banco por remitir datos financieros negativos
+sin verificar la veracidad del crédito registrado en mora, ni la autorización
+de la titular. En aquella oportunidad, este Tribunal concluyó que la entidad
+bancaria violó los derechos fundamentales al habeas data y al buen nombre de la
+accionante, pues la fuente no solo no demostró el origen de la obligación
+crediticia, ni tampoco la existencia del crédito ni la mora reportada a las
+centrales de riesgo. Incluso, se concluyó que el operador ni siquiera acreditó
+la autorización de la titular para realizar el reporte del dato negativo. Por
+todo lo anterior, la referida Sala de Revisión ordenó el retiro de cualquier
+reporte, positivo o negativo, relacionado con la obligación controvertida por
+encontrarla inexistente, así como su respectiva eliminación de las bases de
+datos de las centrales de riesgo.
+ 
+Bajo idéntica
+postura, la Sala Cuarta de Revisión de la Corte Constitucional, en Sentencia
+T-017 de 2011[105],
+abordó el examen de un caso en el que una entidad bancaria desconoció el
+derecho de hábeas data de una persona por no eliminar el reporte de un dato
+negativo suyo por haber incurrido en mora, pese a haberle expedido de manera
+previa un paz y salvo de la obligación que había contraído inicialmente. En
+dicha ocasión, la Sala advirtió que la fuente que reportó la información violó
+los derechos al buen nombre y al habeas data del promotor del amparo, pues no
+existía un soporte que respaldara la veracidad de la obligación insoluta. Por
+este motivo, concluyó que la obligación era inexistente y, por ello, quedaba en
+entredicho el reporte negativo de la información a las centrales de riesgo. En esa
+medida, ordenó a la entidad bancaria demandada que retirara el reporte de la
+obligación que había efectuado frente al operador de la información.
+ 
+En un sentido
+similar, mediante la Sentencia T-658 de 2011[106],
+la Sala Séptima de Revisión de la Corte se pronunció acerca de una acción de tutela
+en la que se controvirtió el reporte negativo que se hizo ante una central de
+riesgo de una mujer madre cabeza de familia a la que se le impidió acceder a un
+crédito de una vivienda de interés social. En este asunto, la Corte evidenció
+que se habían desconocido los derechos fundamentales al buen nombre y al habeas
+data financiero de la actora, en la medida en que no se había demostrado la
+existencia de la presunta obligación de la que era titular. Además, no se
+demostró la autorización de esta a la fuente para reportar el dato negativo ni
+que el operador haya cumplido con la obligación de verificar su veracidad. En
+tal virtud, se ordenó a la entidad accionada que solicitara el retiro del dato
+negativo ante el operador de la información respecto de la obligación
+crediticia controvertida por encontrarla inexistente, así como la respectiva
+eliminación de sus bases de datos.
+ 
+De una
+lectura integral de la anterior línea jurisprudencial, se tiene que, por regla
+general, tanto la Ley Estatutaria 1266 de 2008 como la jurisprudencia
+constitucional establecen la posibilidad de toda persona de corregir sus datos
+personales contenidos en una base de datos por las centrales de riesgo. Esta
+garantía forma parte del núcleo esencial al habeas data y se encuentra
+protegida por los principios de veracidad, integridad e incorporación. Tales principios
+han sido aplicados jurisprudencialmente en casos en los que el reporte del dato
+negativo de obligaciones inexistentes se realiza sin el consentimiento de su
+titular, en detrimento de su derecho fundamental al habeas data.
+ 
+Protección de las autoridades de datos cuando se
+demuestra que ha acontecido una situación de suplantación de identidad
+ 
+44.   En el ordenamiento jurídico interno, la específica función
+de inspección, vigilancia y control de los agentes que intervienen en el proceso
+de administración de datos personales, se encuentra asignada a dos entidades:
+Por un lado, está la Superintendencia de Industria y Comercio y, por el otro, la
+Superintendencia Financiera de Colombia, siempre que la fuente, el operador o
+el usuario sean susceptibles de vigilancia por parte de esta entidad.
+ 
+Estas
+facultades se fundamentan en la Constitución. El Estado tiene un mandato de
+intervención en la economía, y debe impedir que se obstruya o restrinja la
+libertad económica[107].
+Además, tiene el deber de controlar cualquier abuso de la posición dominante en
+el mercado. Igualmente, la Carta prevé el deber del Estado de ejercer la
+inspección, vigilancia y control de la actividad financiera, bursátil y
+aseguradora, y cualquier otra relacionada con el manejo, aprovechamiento de los
+recursos captados del público[108].
+Para cumplir con esa finalidad, está prevista la Superintendencia Financiera.
+ 
+Con
+fundamento en lo anterior, la Ley 1266 de 2008 le atribuye a estos organismos
+administrativos las siguientes atribuciones: (i) impartir instrucciones
+y órdenes sobre la manera como deben cumplirse las obligaciones sobre
+protección de datos personales; (ii) velar porque los operadores y
+fuentes tengan un sistema de seguridad de los registros que prevengan su
+adulteración, pérdida, consulta o uso no autorizado; (iii) ordenar
+auditorías externas para verificar el cumplimiento de la ley; (iv)
+ordenar de oficio o a solicitud de parte la corrección, actualización o retiro
+de los datos personales; e (v) iniciar investigaciones administrativas
+para determinar si existe responsabilidad administrativa por el incumplimiento
+de la ley, o del incumplimiento de las órdenes impartidas por el organismo de
+vigilancia.
+ 
+Por lo que interesa al asunto de la referencia, dado
+que la controversia gira alrededor del reporte negativo de una persona que
+alega ser víctima de suplantación personal, esta Sala hará referencia a dos concretas
+decisiones de la Superintendencia de Industria y Comercio que abordan esta
+conducta, adoptadas con fundamento en la competencia que le es asignada por la
+Ley 1266 de 2008. Estas decisiones son ilustrativas del régimen de protección
+de datos cuando la fuente hace un reporte negativo por un producto crediticio
+en mora, aun a pesar de que tenía razones para considerar que el titular había
+sido víctima de suplantación personal.
+ 
+En la Resolución 12035 del 14 de marzo de 2022, la
+Superintendencia de Industria y Comercio resolvió sancionar a la sociedad
+Marketing Personal al haber reportado un dato negativo de la peticionaria,
+aunque esta alegó en su momento haber sido víctima de una suplantación de
+identidad y no haber tenido nunca una relación contractual con la fuente. A
+pesar de haber interpuesto la denuncia por la presunta comisión del delito de
+falsedad personal, el reporte del dato negativo se mantuvo. Tras estudiar el
+asunto, la Superintendencia advirtió que cuando la información no es veraz ni
+comprobable, la central de riesgo debe abstenerse de reportar la información a
+los operadores de la información. En estos casos, quienes conceden créditos,
+venden bienes o prestan servicios tienen la obligación de adoptar todas las
+medidas necesarias para establecer la verdadera identidad de sus clientes.
+ 
+En tal sentido, la resolución concluyó que la fuente
+violó el principio de veracidad, porque no suministró información completa,
+actualizada y comprobable a los operadores. También infringió el principio de
+libertad por no solicitarle al titular la autorización antes de entregar la
+información a la central de riesgo, de conformidad con lo dispuesto en la Ley
+1266 de 2008. Adicionalmente, en el mencionado acto administrativo, también se
+exhorta a la empresa sancionada a cumplir con el principio de responsabilidad
+demostrada en los términos de la Ley 2157 de 2021, de manera tal que garantice la
+calidad de la información, la comunicación previa para el reporte de
+información negativa, la confidencialidad y seguridad de esta, así como la
+debida y oportuna atención de las consultas o reclamos de los titulares de los
+datos.
+ 
+Seguidamente, en una decisión muy similar, la
+Superintendencia de Industria y Comercio impuso una sanción económica a la
+sociedad anónima Belstar[109].
+En este caso en particular logró demostrarse que la empresa efectuó un reporte
+negativo del titular del dato ante los operadores de la información. Esto  aunque
+el peticionario había interpuesto una denuncia por suplantación de datos
+personales ante la Fiscalía General de la Nación y había presentado una queja
+por estos mismos hechos ante la Superintendencia, la fuente se tardó cuatro
+meses para realizar la eliminación del reporte. Además, como la fuente no demostró
+la existencia de la obligación, se incumplió el deber de garantizar que el
+reporte a los operadores se fundamentará en información completa, exacta,
+actualizada y comprobable, acorde con el deber establecido en el numeral 1º del
+artículo 8 de la Ley 1266 de 2008, en concordancia con el literal a) del
+artículo 4 de la misma preceptiva.
+ 
+Estudio del caso concreto
+ 
+45.           
+Este caso tiene por objeto la
+protección de los derechos fundamentales al habeas data y al buen nombre del
+accionante Ismael Silva Rodríguez, al ser reportado ante Datacrédito por mora
+en el pago de varios productos financieros y mantenerse su dato negativo en
+dicha central de riesgo a pesar de denunciar oportunamente que fue víctima de
+suplantación de identidad. Al respecto, el demandante alega que le entregó
+copia de su cédula de ciudadanía y de sus huellas dactilares a dos personas que
+dijeron ser trabajadores de la empresa Saab Internet para todos, para contratar
+los servicios de internet y de televisión. Con posterioridad, el señor Silva
+apareció reportado como titular de tres productos adquiridos de manera virtual
+en el Banco Davivienda: una tarjeta de crédito, un crédito y una cuenta de
+ahorros. Por ello, solicitó en tres oportunidades una rectificación ante la
+entidad bancaria. Con posterioridad, a raíz de la mora en el pago de tales
+servicios financieros, fue reportado por el banco ante el operador de la
+información.
+ 
+Durante el trámite
+de tutela, el Banco Davivienda S.A., en su calidad de demandada, sostuvo dos
+posiciones. Inicialmente, ante la autoridad judicial de primera instancia y al
+responder las solicitudes previas de rectificación que hizo el actor, advirtió
+que este sí había solicitado la apertura de los tres productos mencionados, de
+manera digital, a través de la aplicación y sin la intervención de la entidad. Lo
+anterior, en principio, estaba demostrado porque el documento de identidad y
+las huellas, que fueron presentados como documentación de soporte para la apertura
+de los referidos productos, presentaban similitudes muy relevantes con las del
+accionante[110].
+Como consecuencia de la falta de pago, el accionante fue reportado a las
+centrales de riesgo[111].
+ 
+Sin embargo, al
+dar respuesta al auto de pruebas proferido en sede de revisión por esta Sala,
+esta entidad varió su postura. En efecto, afirmó que la investigación del banco
+concluyó que el actor suministró su información personal a terceros, quienes
+bajo engaño lograron registrar su cédula, registros biométricos e información
+personal para la apertura de los citados productos[112].
+Por tal motivo, advirtió que, en aplicación de lo dispuesto en el artículo 7º
+de la Ley 2157 de 2021, se decidió incluir en la información financiera
+reportada ante las centrales de riesgo, la leyenda víctima de falsedad
+personal. En los anexos de su comunicación se demuestra que reportó esta
+información a las centrales de riesgo Cifin y Datacrédito.
+ 
+En ese sentido, para la Sala es claro que la
+controversia acerca de la adquisición de los productos financieros cesó. Las
+partes concuerdan en que la cédula y los datos biométricos del señor Ismael
+Silva Rodríguez fueron utilizados fraudulentamente por terceros para adquirir
+los productos financieros ofrecidos por el Banco Davivienda S.A. En el
+expediente no existe ningún elemento de juicio que refute esta conclusión.
+ 
+46.           
+Como se consignó en el acápite de consideraciones
+de esta providencia, para determinar si el reporte negativo que se realiza de una
+persona que controvierte la existencia de la obligación crediticia que se
+predica incumplida, es necesario demostrar dos elementos, a saber: de un lado, la
+existencia de la obligación y, de otro, la respectiva autorización del titular
+del dato para reportar la supuesta mora ante los operadores de la información
+crediticia.
+ 
+En este asunto no se satisface ninguno de estos
+requisitos, porque: (i) como se advirtió previamente, los productos y/o
+servicios financieros en discusión no fueron adquiridos por el señor Ismael
+Silva Rodríguez. Esto se demostró a partir del momento en que la entidad
+bancaria concluyó, a través de una investigación interna, que los productos
+habían sido adquiridos mediante engaño. Tampoco se encuentra probado que el
+actor (ii) hubiese sido notificado previamente del reporte negativo hecho
+ante los operadores de la información financiera, tal y como lo exige la Ley
+1266 de 2008 y la jurisprudencia constitucional. En el expediente no obra prueba
+alguna que permita acreditar la notificación del reporte desfavorable al
+accionante.
+ 
+Ahora bien, en este punto interesa señalar que la
+entidad bancaria afirmó que en el caso bajo estudio no se había vulnerado el
+derecho fundamental al habeas data del actor, comoquiera que, con base en lo
+dispuesto en el artículo 7º de la Ley 2157 de 2021, se incluyó desde el pasado mes
+de agosto una leyenda en la que se indica víctima de falsedad personal.
+En efecto, conforme con las pruebas allegadas por el Banco Davivienda S.A.,
+desde agosto de 2022, el señor Ismael Silva Rodríguez aparece reportado en las
+centrales de riesgo de Datacrédito y Cifin con la leyenda reclamo en
+trámite, Víctima de Falsedad Personal.
+ 
+Para la Sala, este argumento no es de recibo. En este
+caso, las obligaciones crediticias controvertidas en un comienzo ya no son
+objeto de discusión alguna. Como lo afirma la propia entidad bancaria accionada,
+los productos crediticios no existen porque fueron adquiridos mediante engaño, tal
+y como se concluyó en una investigación que el mismo banco llevó a cabo. Ello
+como se deriva del principio general de interpretación jurídica, según el cual,
+del fraude no se genera derecho, en este caso derechos de créditos vinculados a
+los productos financieros irregularmente constituidos. En consecuencia, es
+contrario a los principios de veracidad e integridad del dato incluir esta
+leyenda, en cuanto es claro que el accionante no prestó su consentimiento para
+solicitar ni adquirir ninguno de los productos financieros anteriormente
+relacionados. En efecto, no tiene ningún sentido sostener simultáneamente la
+validez del reporte financiero desfavorable y, simultáneamente, afirmar la
+existencia de fraude en la constitución de los productos de crédito que
+originan el dato personal negativo. En este sentido, es importante recordar que
+un elemento esencial de los contratos es la existencia del consentimiento de
+cada una de las partes[113].
+Por estos motivos, la incorporación de la leyenda, que encuentra justificación
+atendible cuando la obligación es discutida por una de las partes involucradas
+y, además, esta ha puesto en consideración de las autoridades judiciales y
+administrativas la existencia de fraude, no es un motivo para concluir que no
+se produjo la vulneración de los derechos fundamentales al hábeas data y al
+buen nombre invocados por el actor.
+ 
+Por el contrario, la Sala de Revisión reconoce que en
+el presente asunto, el reporte que efectuó el Banco Davivienda S.A. a las
+centrales de riesgo sobre la existencia de los productos financieros supuestamente
+adquiridos por el actor, desconoce el derecho fundamental al habeas data. La
+violación a esta prerrogativa, solo se configuró a partir del momento en que 
+la entidad bancaria se enteró que los servicios se adquirieron de manera
+fraudulenta, y no adoptó ninguna medida para corregir la información.
+ 
+En efecto, la Sala advierte que en este caso se afectó
+el principio de veracidad, porque a partir de ese momento el banco tenía
+conocimiento que los datos no eran reales. Igualmente, considera que mantener
+su nombre como titular de dichos productos transgrede los principios de
+finalidad y de utilidad del dato, en cuanto no obedecen a una finalidad legítima.
+Incluso, la única razón que explicaba en su momento el tratamiento de los datos
+personales del señor Silva Rodríguez obedecía al cálculo del riesgo crediticio por
+la supuesta mora reportada frente al pago de los productos. Tal razón
+desapareció por completo debido a las circunstancias fácticas recién descritas
+y, adicionalmente, la aptitud del dato personal para la evaluación del riesgo
+crediticio, en la medida en que la información no da cuenta del comportamiento
+financiero del sujeto concernido sino, se insiste, del fraude que sustentó la
+apertura de los productos de crédito que resultaron luego en mora, lo que obra
+en abierta contradicción con el principio de finalidad de la administración de
+datos personales. Por último, interesa destacar que la entidad bancaria pasó
+por alto la aplicación del principio de incorporación, ya que omitió advertir
+al operador de la información que los productos crediticios no habían sido
+adquiridos por el demandante.
+ 
+47.           
+Sumado a lo anterior, esta Sala también
+debe resolver si en la presente oportunidad el referido banco violó el
+principio de responsabilidad demostrada por no adoptar medidas efectivas y
+comprobables para tramitar la solicitud de rectificación presentada por el
+señor Ismael Silva Rodríguez.
+ 
+En la
+respuesta al auto de pruebas dictado en sede de revisión, el Banco Davivienda
+S.A. advirtió que llevó a cabo una
+investigación interna que concluyó que el señor Ismael Silva suministró su información personal a terceros, quienes bajo engaños, lograron registrar la cédula,
+información personal y registros biométricos para la apertura de productos móviles[114]. En
+el proceso de tutela también adujo que para determinar si la identidad del
+reclamante fue suplantada hizo una validación con un experto en dactiloscopia y
+se analizó su cédula de ciudadanía. Este análisis concluyó que el documento era
+original, y las huellas correspondían a las mismas registradas en la aplicación
+móvil. El Banco también se refirió a las medidas técnicas que se adoptan para
+prevenir que las personas que abren los productos crediticios coincidan con el
+titular de los datos[115].
+
+ 
+48.           
+Cuando las entidades bancarias,
+crediticias o financieras reciban una queja en la que se advierta que existe un
+posible caso de suplantación de identidad deben llevar a cabo una investigación
+interna, con la finalidad de establecer si los productos fueron adquiridos
+mediante fraude. El deber de llevar a cabo esta investigación se justifica en
+el principio de responsabilidad demostrada abordado en la parte considerativa
+de esta providencia, que obliga a las fuentes, a los operadores y a los
+usuarios de la información a adoptar medidas para garantizar las obligaciones
+previstas en la Ley 1266 de 2008.  
+ 
+La obligación
+de conducir estas investigaciones se justifica en tres razones adicionales. En
+primer lugar, en los principios de veracidad, integridad, libertad e
+individualidad a los que se hizo referencia en esta providencia. Para preservar
+los derechos de los usuarios y la confiabilidad en el sistema financiero es
+indispensable garantizar datos que reflejen relaciones contractuales existentes.
+En segundo lugar, este deber se explica en la efectividad del derecho a la rectificación
+del dato personal. Para decidir si la rectificación de un dato es procedente la
+fuente tiene el deber de actuar de manera diligente para determinar si el
+reclamo es fundado o no. De lo contrario, esta garantía tendría un carácter
+meramente formal. En tercer lugar, la estabilidad, seguridad y confianza en las
+actividades comerciales exige que la eliminación de datos financieros esté
+respaldada en razones ciertas para garantizar los derechos de los usuarios y
+las entidades bancarias, para lo cual no basta la afirmación de la presunta
+víctima. 
+ 
+49.           
+Davivienda cumplió con su
+obligación de llevar a cabo una investigación interna, con la finalidad de esclarecer
+si la identidad del actor había sido suplantada. Sin embargo, la entidad
+bancaria no tomó medidas para garantizar  la efectividad de la investigación
+interna, de una manera acorde con el principio de responsabilidad demostrada, al
+menos por dos razones. La primera de ellas, porque su resultado, que reveló la
+existencia de un fraude para abrir los productos crediticios, no fue debidamente
+informado al accionante. Cabe mencionar que en ninguna de las respuestas a las
+comunicaciones presentadas por el señor Silva Rodríguez se le informó acerca de
+la existencia de una investigación en curso. Por el contrario, se insistió todo
+el tiempo en que aquel era el responsable de pagar las obligaciones crediticias.
+De hecho, la investigación interna únicamente fue expuesta como respuesta al auto
+de pruebas proferido por el magistrado sustanciador en sede de revisión. La
+segunda razón, consiste en que el Banco Davivienda S.A. sabía que los productos
+crediticios fueron adquiridos por medio de un engaño y, a pesar de ello,
+mantuvo el reporte negativo inalterado hasta la fecha. En esa medida, es claro
+que no demostró la existencia de medidas apropiadas para hacer efectiva su
+investigación interna.
+ 
+50.           
+La Sala advierte que el
+accionante interpuso una queja ante la Superintendencia Financiera el 28 de
+junio 2021[116].
+Esa actuación administrativa cesó porque esa entidad consideró que los hechos
+fueron esclarecidos por el Banco Davivienda en
+las comunicaciones del 6 y del 23 de agosto de 2021. 
+ 
+Como
+se advirtió en las consideraciones de esta decisión, la Superintendencia
+Financiera tiene la facultad de ordenar de oficio o a petición de parte la
+corrección de datos personales. Esta es una facultad subsidiaria, porque como
+lo prevé la Ley 1266 de 2008, cuando la solicitud provenga del interesado se deberá acreditar ante la
+Superintendencia que se surtió el trámite de un reclamo por los mismos hechos
+ante el operador o la fuente, y que el mismo no fue atendido o fue atendido
+desfavorablemente[117]. Pues
+bien, en este caso se encuentra probado que Davivienda resolvió de manera
+desfavorable las solicitudes del actor, como lo reconoció la Superintendencia
+en el curso de este proceso de tutela. Sin embargo, la entidad decidió archivar
+la queja, y no prosiguió con el proceso administrativo, aunque tenía la
+obligación legal de actuar para decidir si era procedente corregir, actualizar
+o retirar los datos del actor.   
+ 
+51.           
+En conclusión, el Banco Davivienda
+S.A. vulneró los derechos fundamentales al habeas data y al buen nombre del
+señor Ismael Silva Rodríguez, desde el momento en que tuvo conocimiento que los
+productos no fueron adquiridos por él. En efecto, la entidad bancaria reportó
+el dato negativo frente a las obligaciones crediticias adquiridas mediante
+engaño, infringió los principios de veracidad, integridad, incorporación,
+finalidad y utilidad. Además, desconoció el principio de responsabilidad
+demostrada, pues si bien demostró haber adelantado una investigación interna que
+permitió advertir la existencia de una suplantación de identidad, el demandante
+-en su calidad de titular de los datos personales- no conoció el resultado de
+ésta. En vista de lo anterior, esta medida tampoco resultó efectiva para evitar
+el reporte negativo del dato de una obligación que no fue consentida por el
+titular. 
+ 
+52.           
+Finalmente, la Sala considera
+necesario advertir que los ciudadanos deben ser especialmente cuidadosos y
+precavidos cuando decidan entregar sus datos personales a terceros, para
+prevenir fraudes y casos de suplantación como los que ocurrieron en el presente
+caso. Entregar datos biométricos, como las huellas dactilares, que tienen como
+finalidad validar la identidad de una persona puede facilitar la solicitud de
+créditos, la adquisición de servicios de comunicaciones, o la presentación de
+declaraciones de impuestos falsas. Estos comportamientos pueden afectar
+seriamente los derechos al buen nombre, al habeas data y a la propiedad
+privada, entre otras garantías constitucionales.   
+ 
+Remedios judiciales por emplear en el caso concreto
+ 
+53.           
+Como resultado de todo lo
+expuesto, la Sala Sexta de Revisión concederá la protección de los derechos
+fundamentales invocados. Por consiguiente, revocará el fallo de tutela de
+primera instancia del 22 de febrero de 2022, proferido por el Juzgado Promiscuo
+Municipal de Sabana de Torres, Santander. Como medidas de restablecimiento de
+tales prerrogativas, esta Sala adoptará los siguientes remedios judiciales:
+ 
+Primero. En
+el presente caso se demostró que los productos crediticios cuya titularidad se
+le atribuyen al señor Ismael Silva Rodríguez fueron adquiridos por terceros
+mediante engaño, por lo que la Sala ordenará al representante legal del Banco
+Davivienda S.A. que reporte a las centrales de riesgo, Cifin y Datacrédito, la
+novedad de la eliminación de la obligación de los productos financieros, y de cualquier información relacionada con éstos,
+por considerar que son inexistentes.
+ 
+Segundo. Para cumplir con lo dispuesto en la
+Ley 1266 de 2008 modificada
+y adicionada por la Ley 2157 de 2021, el Banco Davivienda deberá adoptar
+medidas para cumplir con el principio de responsabilidad demostrada y prevenir
+la repetición de hechos semejantes. Por esto, se ordenará que se notifique al
+titular del dato cuando se demuestre a través de una investigación interna que su
+identidad ha sido suplantada para obtener productos crediticios. Además, en
+esos casos, si ya hubiese hecho el reporte del dato ante los operadores de la
+información, deberá informar la novedad correspondiente. 
+ 
+Tercero. Por
+la misma razón prevista en la orden anterior, ordenará a la central de riesgo
+Experian Colombia S.A. -Datacrédito- que retire cualquier reporte positivo o
+negativo de los productos adquiridos, porque fueron obtenidos mediante fraude. Además, deberá recalcular el score o puntaje de
+Ismael Silva Rodríguez, el cual se vio afectado con el reporte negativo
+suministrado. 
+ 
+Cuarto. En
+el proceso de tutela se probó que los productos financieros no fueron
+adquiridos por Ismael Silva, sino por terceros que obtuvieron sus datos
+personales mediante engaño. Sin embargo, como se advirtió al resolver caso
+concreto, el banco no adoptó ninguna medida para notificar al actor de esta
+irregularidad. Por ello, la Sala le ordenará a la Superintendencia Financiera
+que en el marco de su función de vigilancia que adelante una investigación en
+la que se determine si existe o no responsabilidad administrativa del Banco
+Davivienda, y de ser pertinente imponer las medidas o las medidas que resulten
+pertinentes.  
+ 
+Quinto. En
+esta sentencia, la Sala de Revisión concluyó que Davivienda incurrió en una
+omisión que vulneró el derecho fundamental al habeas data de Ismael Silva, por
+no informarle que los productos que se encontraban a su nombre fueron
+adquiridos mediante engaño. Tampoco reportó este hecho a las centrales de
+riesgo. Estas conductas podrían configurar una responsabilidad administrativa
+del banco, por incumplir lo dispuesto en la Ley 1266 de 2008[118].
+En consecuencia, le ordenará a la Superintendencia Financiera que adelante una
+investigación, en el marco de su función de vigilancia, para que determine la
+existencia o no de esta responsabilidad, y si hay lugar a imponer las sanciones
+u otras medidas previstas en la ley. 
+ 
+Sexto. En
+este proceso de tutela Davivienda le informó a la Corte, con fundamento en una
+investigación interna, que los productos financieros fueron obtenidos por
+terceros que engañaron a Ismael Silva, para obtener sus datos personales. En el
+expediente no se encuentran de manera detallada los resultados de esa investigación,
+pero la afirmación del Banco tiene relevancia penal, porque indica la posible
+existencia de una conducta punible que debe ser investigada por la Fiscalía
+General de la Nación.  
+ 
+Las conclusiones de la investigación interna contrastan
+con los anexos del informe rendido por el Director de Asuntos Jurídicos de la
+Fiscalía.  En el expediente penal se encuentra una orden de archivo de la
+investigación penal proferida el 31 de enero de 2022, por la Fiscal Delegada
+ante los Jueces Penales Municipales del Circuito de Sabana de Torres, por atipicidad
+de la conducta punible de falsedad personal denunciada por el accionante[119].
+Por lo anterior, la Corte advierte que parecen existir evidencias nuevas en
+poder de Davivienda que no fueron consideradas en la indagación preliminar, que
+podrían permitir la reapertura de la investigación.  En este sentido, el inciso
+segundo del artículo 79 de la Ley 906 de 2004[120],
+prevé que cuando exista una orden de archivo si surgieren nuevos elementos
+probatorios la indagación se reanudará mientras no se haya extinguido la acción
+penal.
+ 
+En consecuencia, compulsará copias a la Fiscalía Única
+de Sabana de Torres para que, en el marco de sus competencias, decida si
+continúa con la indagación preliminar radicada con el número de noticia
+criminal No 680816000136202150427,
+correspondiente a la denuncia interpuesta por el ciudadano Ismael Silva Rodríguez[121].
+
+Síntesis de la decisión
+ 
+En
+este caso la Sala concluyó que el Banco Davivienda, desde el momento en que se
+demostró que la apertura de los productos crediticios fue realizada de manera
+fraudulenta reportó sin fundamento ante las centrales de riesgo a Ismael Silva
+Rodríguez. En efecto, una investigación interna de la entidad bancaria permitió
+establecer que los datos personales del accionante fueron obtenidos mediante
+engaño, por terceros que abrieron productos bancarios a su nombre. En este caso
+se cumplió con el requisito de subsidiariedad, porque el demandante agotó el
+requisito de procedibilidad de la acción de tutela de solicitarle al banco
+eliminar los datos negativos reportados ante las centrales de riesgo. Por eso,
+se cumplió con el requisito de subsidiariedad. 
+ 
+Al analizar el fondo del asunto, la Sala concluyó que
+se desconocen los principios de veracidad, integridad, incorporación y
+finalidad del derecho fundamental al habeas data, cuando la fuente conoce que
+el titular del dato no adquirió las obligaciones crediticias y pese a ello
+realiza un reporte negativo al operador de la información. En efecto, en este
+caso no existe controversia acerca de la inexistencia de la obligación, y el
+reporte de los productos crediticios ante los operadores de la información
+persiste. También se infringe el principio de responsabilidad demostrada que
+orienta el contenido del derecho fundamental al habeas data, cuando una entidad
+bancaria lleva a cabo una investigación interna que demuestra que los datos de
+un titular han sido suplantados e incurre en alguna de las siguientes
+omisiones: (i) no notifica al titular y (ii) no le solicita al
+operador de la información que elimine el reporte de los productos crediticios.
+En particular, el Banco Davivienda S.A. vulneró los derechos fundamentales de
+Ismael Silva Rodríguez al efectuar un reporte negativo, pese a que se demostró
+que las obligaciones crediticias que se alegaban incumplidas fueron adquiridas
+por un tercero mediante engaño.
+ 
+Para remediar estas violaciones profirió varias
+órdenes. Primero, ordenó a Davivienda que: (i) reporte a las centrales
+de riesgo Cifin y Datacrédito la novedad de los productos crediticios
+endilgados al accionante, (ii) cuando se demuestre a través de una investigación
+interna que ha sido suplantada su identidad para obtener productos crediticios
+deberán notificarlo al titular del dato y a los operadores de la información. Segundo, requirió a la central de riesgo Datacrédito que elimine de sus bases de datos
+los reportes sobre los productos que se discutieron en este proceso. Tercero,
+le ordenó a la Superintendencia Financiera que investigue si se configura la
+responsabilidad administrativa del Banco Davivienda por incumplir las
+obligaciones previstas en la Ley 1266 de 2008. Finalmente, compulsó copias a la
+Fiscalía Única de Sabana de Torres para
+que, en el marco de sus competencias, decida si resulta procedente continuar
+con la indagación preliminar, correspondiente a la denuncia interpuesta por el
+ciudadano Ismael Silva Rodríguez. 
+ 
+V.      DECISIÓN
+ 
+En
+mérito de lo expuesto, la Sala Sexta de Revisión de la Corte Constitucional,
+administrando justicia en nombre del pueblo y por mandato de la Carta Política,
+ 
+RESUELVE
+ 
+ 
+PRIMERO.- REVOCAR el
+fallo de tutela del 22 de febrero de 2022, proferido por el Juzgado Promiscuo
+Municipal de Sabana de Torres, Santander, dentro de la acción de tutela promovida
+por Ismael Silva Rodríguez en contra del Banco Davivienda S.A. En su lugar, CONCEDER
+el amparo invocado del derecho fundamental al habeas data.
+ 
+SEGUNDO.-
+ORDENAR al representante legal del Banco
+Davivienda S.A. que, dentro de las cuarenta y ocho (48) horas siguientes a la
+notificación de esta sentencia, proceda a reportar a las centrales de riesgo
+Cifin y Datacrédito la novedad de la eliminación de los productos financieros 0550488421288454, 4559860061965673,
+05902380800026597, y de cualquier información relacionada con éstos,  por
+considerar que son inexistentes.
+ 
+TERCERO.- ORDENAR al
+representante legal del Banco Davivienda S.A. que, en el término de dos (2) meses
+siguientes a la notificación de esta sentencia, adopte medidas y políticas
+internas, con el fin de que se notifique al titular del dato cuando se
+demuestre a través de una investigación interna que 
+su identidad ha
+sido suplantada para obtener productos financieros. Además, en esos casos, si
+ya hubiese hecho el reporte del dato ante los operadores de la información,
+deberá informar la novedad correspondiente.
+ 
+CUARTO.-
+ORDENAR a la central de riesgo Experian Colombia S.A-Datacrédito que,
+dentro de las cuarenta y ocho horas (48) siguientes a la notificación de esta
+sentencia, proceda a solicitar el retiro de cualquier reporte positivo o
+negativo, de los productos financieros 0550488421288454,
+4559860061965673, 05902380800026597, por considerar que son inexistentes.
+Además, deberá recalcular el score o puntaje de Ismael Silva Rodríguez.
+ 
+QUINTO.- ORDENAR a la Superintendencia Financiera para que,
+en el marco de sus competencias, investigue si el Banco Davivienda incurrió en
+conductas que configuran responsabilidad administrativa, de conformidad con lo
+dispuesto en la Ley 1266 de 2008. Lo anterior, debido a la falta de
+notificación al accionante, y a las centrales de riesgo, del resultado de la
+investigación interna, que concluyó que los productos financieros
+0550488421288454, 4559860061965673, 05902380800026597, fueron adquiridos por
+terceros que engañaron a Ismael Silva Rodríguez.
+ 
+SEXTO.-
+COMPULSAR COPIAS a la
+Fiscalía Única Legal de Sabana de Torres, Santander, para que, en el marco de
+sus competencias, y con fundamento en el inciso segundo del artículo 79 de la
+Ley 906 de 2004, decida si continúa con la indagación preliminar de la denuncia
+interpuesta por Ismael Silva Rodríguez, radicada bajo el número de noticia
+criminal 680816000136202150427.
+ 
+Notifíquese, comuníquese
+y cúmplase,
+ 
+ 
+ 
+HERNÁN CORREA CARDOZO
+Magistrado (E)
+ 
+ 
+ 
+CRISTINA PARDO
+SCHLESINGER
+Magistrada
+ 
+ 
+ 
+JOSE FERNANDO REYES
+CUARTAS
+Magistrado
+ 
+ 
+ 
+MARTHA VICTORIA SÁCHICA
+MÉNDEZ
+Secretaria General
+ 
+
+
+
+
+[1] La Sala de Selección de Tutelas
+Número Seis de la Corte Constitucional seleccionó el asunto para revisión por
+cumplir con el criterio objetivo referido a la exigencia de aclarar el
+contenido y alcance de un derecho fundamental, así como concretar el
+criterio subjetivo alusivo a la urgencia de proteger un derecho
+fundamental. El
+auto respectivo fue notificado el 15 de julio de 2022 por medio de estado No.
+12, publicado en la página web de la Secretaría General de esta Corporación.
+
+
+[2]
+Expediente digital T-8.727.419. Escrito de tutela folio 1.
+
+
+[3]
+Expediente digital T-8.727.419. Escrito de tutela folio 2.
+
+
+[4]
+Expediente digital T-8.727.419. Escrito de tutela folio 2.
+
+
+[5]
+Expediente digital T-8.727.419. Escrito de tutela folio 2. Radicada con el
+número de noticia criminal 680816000136202150427.
+
+
+[6] Expediente digital T-8.109.017, archivo 012.RespuestaDavivienda.
+[6]
+Expediente digital T-8.109.017, archivo 002Anexos.
+
+
+[7]
+Expediente digital T-8.109.017, archivo 012.RespuestaDavivienda.
+
+
+[8]
+Expediente digital T-8.109.017, archivo 002Anexos.
+
+
+[9] Expediente digital T-8.109.017, archivo 014ContestacionExperian-Datacredito.pdf.
+
+
+[10] Expediente digital T-8.109.017, archivo 005AutoAdmiteTutela.pdf.
+
+
+[11]
+Expediente digital T-8.727.419. Archivo 012RespuestaDavivienda.
+
+
+[12]
+Expediente digital T-8.727.419. Archivo 08RespuestaSuperfinanciera.
+
+
+[13]
+Expediente digital T-8.727.419. Archivo 011RespuestaSSAN-InternetParaTodos.
+
+
+[14] Expediente digital T-8.727.419. Archivo 014ContestacionExperian-Datacredito.pdf
+
+
+[15]
+por
+la cual se dictan las disposiciones generales del habeas data y se regula el
+manejo de la información contenida en bases de datos personales, en especial la
+financiera, crediticia, comercial, de servicios y la proveniente de terceros
+países y se dictan otras disposiciones.
+
+
+[16] Expediente digital T-8.727.419. Archivo 015Fallo.pdf.
+
+ 
+
+
+[17]
+Expediente digital T-8´727.419. Respuesta al oficio OPT
+A-415/2022.
+
+
+[18]
+Expediente digital T-8´727.419. Escrito del 2 de septiembre de
+2022
+
+
+[19]
+Expediente digital T-8´727.419. Respuesta al oficio OPT
+A-415/2022.
+
+
+[20]
+Expediente digital T-8´727.419. Observaciones a las pruebas
+recaudadas en sede de revisión. 
+
+
+[21]
+Expediente digital T-8´727.419. Respuesta al oficio OPT
+A-415/2022.
+
+
+[22]
+Expediente digital T-8´727.419. Respuesta al oficio OPT
+A-415/2022.
+
+
+[23]
+Expediente digital T-8´727.419. Observaciones a las pruebas
+recaudadas en sede de revisión, 9 de septiembre de 2022.
+
+
+[24]
+Cfr. Sentencias T-819 de 2001, T-531 de 2002, T-711 de 2003, T-212 de 2009,
+T-778 de 2010, T-495 de 2013, T-561 de 2013, T-679 de 2013, T-470 de 2014,
+T-540 de 2015, T-361 de 2017 y T-307 de 2018.
+
+
+[25]
+Por el cual se reglamenta la acción de tutela consagrada en el artículo 86
+de la Carta Política.
+
+
+[26]
+En relación con la acción de tutela, si bien es cierto que la informalidad es
+una de sus notas características, cuyo fundamento estriba precisamente en la
+aplicación del principio de prevalencia del derecho sustancial sobre las formas
+procesales, también lo es que ello no es óbice para que la misma se someta a
+unos requisitos mínimos de procedibilidad, dentro de los cuales se encuentra el
+atinente a la debida acreditación de la legitimación por activa -o la titularidad-
+para promover el recurso de amparo constitucional. Cfr. Sentencias T-464A de
+2006, T-493 de 2007 y C-483 de 2008.
+
+
+[27]
+La disposición en cita señala lo siguiente: ARTÍCULO 10.
+LEGITIMIDAD E INTERÉS. La acción de tutela podrá ser ejercida, en todo momento
+y lugar, por cualquiera persona vulnerada o amenazada en uno de sus derechos
+fundamentales, quien actuará por sí misma o a través de representante. Los
+poderes se presumirán auténticos. // También se pueden agenciar derechos ajenos cuando el titular de los
+mismos no esté en condiciones de promover su defensa. Cuando tal circunstancia
+ocurra, deberá manifestarse en la solicitud.//
+También
+podrán ejercerla el Defensor del Pueblo y los personeros municipales.
+
+
+[28]
+() la legitimación en la causa es una calidad subjetiva de las partes en
+relación con el interés sustancial que se discute en el proceso. Por tanto,
+cuando una de las partes carece de dicha calidad o atributo, no puede el juez adoptar
+una decisión de mérito y debe, entonces, simplemente declararse inhibido para
+fallar el caso de fondo. Sentencia T-416 de 1997.
+
+
+[29]
+El artículo 5º del referido decreto prevé que la acción de tutela procede
+contra toda acción u omisión de las autoridades públicas, que haya violado,
+viole o amenace violar cualquiera de los derechos de que trata el artículo 2º
+de esta misma disposición. También procede contra acciones y omisiones de
+particulares, de conformidad con lo establecido en el Capítulo III de este
+Decreto ().
+
+
+[30]
+El artículo 13 del referido decreto prevé que La acción se dirigirá contra
+la autoridad pública o el representante del órgano que presuntamente violó o
+amenazó el derecho fundamental. Si uno u otro hubiesen actuado en cumplimiento
+de órdenes o instrucciones impartidas por un superior, o con su autorización o
+aprobación, la acción se entenderá dirigida contra ambos, sin perjuicio de lo
+que se decida en el fallo. De ignorarse la identidad de la autoridad pública,
+la acción se tendrá por ejercida contra el superior.// Quien tuviere un interés
+legítimo en el resultado del proceso podrá intervenir en él como coadyuvante
+del actor o de la persona o autoridad pública contra quien se hubiere hecho la
+solicitud.
+
+
+[31]
+El artículo 42 del referido decreto prevé que La acción de tutela procederá
+contra acciones u omisiones de particulares en los siguientes casos: 1. Cuando
+aquél contra quien se hubiere hecho la solicitud esté encargado de la
+prestación del servicio público de educación para proteger los derechos
+consagrados en los artículos 13, 15, 16, 19, 20, 23, 27, 29, 37 y 38 de la
+Constitución. //2. Cuando aquél contra quien se hubiere hecho la solicitud esté
+encargado de la prestación del servicio público de salud para proteger los
+derechos a la vida, a la intimidad, a la igualdad y a la autonomía. //3. Cuando
+aquél contra quien se hubiere hecho la solicitud esté encargado de la
+prestación de servicios públicos domiciliarios. //4. Cuando la solicitud fuere
+dirigida contra una organización privada, contra quien la controla
+efectivamente o fuere el beneficiario real de la situación que motivó la
+acción, siempre y cuando el solicitante tenga una relación de subordinación o
+indefensión con tal organización. ().
+
+
+[32]
+Sentencias SU-075 de 2018, T-395 de 2018, T-391 de 2018, T-670 de 2017, T-451
+de 2017 T-320 de 2016. Reiteradamente, la Corte se ha referido a los conceptos
+de indefensión y subordinación, haciendo claridad en que, si bien los dos
+implican una dependencia, esta figura tiene origen en el primer caso en
+situaciones de naturaleza fáctica en cuya virtud la persona afectada en su
+derecho carece de defensa, entendida ésta como posibilidad de respuesta
+efectiva ante la violación o amenaza de que se trate. En el segundo de los
+casos implica una relación jurídica predicable, por ejemplo, de los trabajadores
+respecto de sus patronos, o de los estudiantes frente a sus profesores o ante
+los directivos del establecimiento al que pertenecen.
+
+
+[33]
+Sentencias T-129 de 2010, MP. Juan Carlos Henao Pérez y T-847 de
+2010, M.P Luis Ernesto Vargas Silva.
+
+
+[34]
+Sentencia T-847 de 2010, M.P Luis Ernesto Vargas Silva.
+
+
+[35]
+En este sentido, la Corte ha explicado: En este orden
+de ideas, la acción de tutela procede tanto por la violación al derecho de
+petición como por las vulneraciones que puedan emanar de una relación asimétrica
+como es la que se entabla entre una entidad financiera y los usuarios, al tener
+los bancos atribuciones que los colocan en una posición de preeminencia desde
+la cual pueden con sus acciones y omisiones desconocer o amenazar derechos
+fundamentales de las personas. Independientemente de su naturaleza pública,
+privada o mixta los bancos actúan con una autorización del Estado para prestar
+un servicio público por ello, los usuarios están facultados para utilizar los
+mecanismos de protección que garanticen sus derechos (...)// () En
+relación con las obligaciones que emanan de los contratos bancarios si algo
+debe saber el usuario, sin ninguna duda en forma expresa, diáfana y clara, es
+cuánto debe y por qué concepto, máxime si la entidad financiera emite
+comunicados contradictorios e ininteligibles. Sentencia C-134 de 1994. MP.
+Vladimiro Naranjo Mesa.
+
+
+[36]
+Sentencias T-129 de 2010, MP. Juan Carlos Henao Pérez y T-847 de
+2010, M.P Luis Ernesto Vargas Silva.
+
+
+[37]
+Cfr. Sentencias SU-108 de 2018, M.P. Gloria Stella Ortiz Delgado, T-038 de
+2017, M.P. Gloria Stella Ortiz Delgado y T-290 de 2011, M.P. Jorge Ignacio
+Pretelt Chaljub.
+
+
+[38] Expediente digital T-8.727.419. Archivo 005AutoAdmiteTutela.pdf .
+
+
+[39]
+Expediente digital T-8.109.017, Comunicación presentada al Banco Davivienda el
+31 de octubre de 2021, presentada por el Banco Davivienda en sede de revisión.
+
+
+[40]
+En relación con el principio de subsidiariedad de la acción de tutela pueden
+consultarse, entre otras, las Sentencias T-815 de 2000, SU-1052 de 2000, T-179
+de 2003, T-723 de 2010, T-063 de 2013 y T-346 de 2020.
+
+
+[41]
+Consultar, entre otras, las Sentencias SU-037 de 2009, T-212 de 2009, T-136 de
+2010, T-778 de 2010, T-114 de 2014, T-563 de 2014, T-708 de 2014, T-822 de
+2014, T-190 de 2015, T-441 de 2015, T-080 de 2016, T-399 de 2016 y T-691 de
+2016.
+
+
+[42]
+La Carta Política le impone a las autoridades de la República la obligación de
+proteger a todas las personas en sus derechos y libertades -C.P. art. 2º-, por
+lo que debe entenderse que los diversos mecanismos judiciales de defensa
+previstos en la ley, han sido estatuidos como instrumentos de carácter
+preferente a los que deben acudir las personas en búsqueda de la efectiva
+garantía de protección de sus derechos. Consultar, entre otras, las Sentencias
+T-106 de 1993, SU-544 de 2001, T-983 de 2001, T-514 de 2003, T-1017 de 2006, SU-037
+de 2009 y T-715 de 2009.
+
+
+[43] Esta disposición normativa fue declarada exequible por
+medio de la Sentencia C-018 de 1993.
+
+
+[44]
+Sentencia T-748 de 2015, M.P.  Gloria Stella Ortiz Delgado.
+
+
+[45]
+Ibídem
+
+
+[46]
+Ibídem. 
+
+
+[47]
+Ver entre otras las Sentencias T-883 de 2013 y T-129 de 2010
+
+
+[48]
+M.P.: Luis Guillermo Guerrero Pérez. 
+
+
+[49]
+Esta decisión advirtió: La acción de tutela también resulta procedente para
+proteger tanto el derecho de petición como los derechos fundamentales al
+buen nombre  y de habeas data, siempre que en relación con este último se
+haya agotado el requisito de procedibilidad señalado por la ley, consistente en
+que el actor haya efectuado solicitud previa a la entidad correspondiente, para
+corregir, aclarar, rectificar o actualizar el dato o la información que se
+tiene sobre él. // Ello, de conformidad con la Ley 1266 de 2008, que dicta las
+disposiciones generales relativas al derecho de habeas data y que regula el
+manejo de la información contenida en bases de datos personales. Al respecto,
+ señala  su artículo 16 que Los titulares de la información o
+sus causahabientes que consideren que la información contenida en su registro
+individual en un Banco de Datos debe ser objeto de corrección o actualización
+podrán presentar un reclamo ante el operador () en caso que el titular no se
+encuentre satisfecho con la respuesta a la petición, podrá recurrir al proceso
+judicial correspondiente dentro de los términos legales pertinentes para
+debatir lo relacionado con la obligación reportada como incumplida.
+
+
+[50]
+Expediente digital T-8.109.017, Comunicación dirigida por Davivienda a Ismael
+Silva el 6 de julio de 2021, presentada por el Banco Davivienda en sede de
+revisión. 
+
+
+[51]
+Expediente digital T-8.109.017, Comunicación dirigida por Davivienda a Ismael
+Silva el 30 de agosto de 2021, presentada por el Banco Davivienda en sede de
+revisión.
+
+
+[52]
+Expediente digital T-8.109.017, Comunicación con fecha del 31 de octubre de
+2021, presentada por el Banco Davivienda en sede de revisión. En una comunicación
+dirigida por Davivienda a Ismael Silva el 25 de noviembre de 2021, la entidad
+bancaria advirtió que esta había sido presentada el 3 de noviembre de 2021. 
+
+
+[53]
+Expediente digital T-8.109.017, Comunicación dirigida por Davivienda a Ismael
+Silva el 25 de noviembre de 2021, presentada por el Banco Davivienda en sede de
+revisión.
+
+
+[54]
+Al respecto. La ley 2157 previó en el artículo 7º: Las peticiones o
+reclamos deberán resolverse dentro de los quince (15) días hábiles siguientes a
+la fecha de su recibo. Prorrogables por ocho (8) días hábiles más, según lo
+indicado en el numeral 3, parte II, artículo 16 de la presente ley. Si en ese
+lapso no se ha dado pronta resolución, se entenderá, para todos los efectos
+legales, que la respectiva solicitud ha sido aceptada. Si no lo hiciere, el
+peticionario podrá solicitar a la Superintendencia de Industria Y. Comercio y a
+la Superintendencia Financiera de Colombia, según el caso, la imposición de las
+sanciones a que haya lugar conforme a la presente ley, sin perjuicio de que
+ellas adopten las decisiones que resulten pertinentes para hacer efectivo el
+derecho al habeas data de los titulares.  
+
+
+[55]
+Expediente digital T-8.109.017, archivo 002Anexos.
+
+
+[56]
+Expediente digital T-8.109.017, comunicación presentada la Superintendencia
+Financiera en sede de revisión, el 22 de agosto de 2022 en cumplimiento al oficio OPT-A-415-22.
+
+
+[57]
+El artículo 15 de la Carta Política establece que Todas las personas tienen
+derecho a su intimidad personal y familiar y a su buen nombre, y el Estado debe
+respetarlos y hacerlos respetar. De igual modo, tienen derecho a conocer,
+actualizar y rectificar las informaciones que se hayan recogido sobre ellas en
+bancos de datos y en archivos de entidades públicas y privadas. // En la
+recolección, tratamiento y circulación de datos se respetarán la libertad y
+demás garantías consagradas en la Constitución.
+
+
+[58]
+por la cual se dictan las disposiciones generales del habeas
+data y se regula el manejo de la información contenida en bases de datos
+personales, en especial la financiera, crediticia, comercial, de servicios y la
+proveniente de terceros países y se dictan otras disposiciones.
+
+
+[59]
+Por medio de la cual se modifica y adiciona la Ley Estatutaria 1266 de
+2008, y se dictan disposiciones generales del Habeas Data con relación a la
+información financiera, crediticia, comercial, de servicios y la proveniente de
+terceros países y se dictan otras disposiciones.
+
+
+[60]
+Sentencia C-1101 de 2008, M.P. Jaime Córdoba Triviño. Reiterado en la Sentencia
+C-282 de 2021, M.P. Alejandro Linares Cantillo. 
+
+
+[61]
+Sentencia C-282 de 2021, M.P. Alejandro Linares Cantillo. 
+
+
+[62]
+M.P. Jorge Enrique Ibáñez Najar.
+
+
+[63]
+M.P. Gloria Stella Ortiz Delgado.
+
+
+[64]
+De acuerdo con el artículo 3º a) de la Ley 1266 de 2008:  Es la persona
+natural o jurídica a quien se refiere la información que reposa en un banco de
+datos y sujeto del derecho de hábeas data y demás derechos y garantías a que se
+refiere la presente ley.
+
+
+[65]
+Según lo dispuesto en el artículo 3º b) de la Ley 1266 de 2008: Es la
+persona, entidad u organización que recibe o conoce datos personales de los
+titulares de la información, en virtud de una relación comercial o de servicio
+o de cualquier otra índole y que, en razón de autorización legal o del titular,
+suministra esos datos a un operador de información, el que a su vez los
+entregará al usuario final. Si la fuente entrega la información directamente a
+los usuarios y no, a través de un operador, aquella tendrá la doble condición
+de fuente y operador y asumirá los deberes y responsabilidades de ambos. La
+fuente de la información responde por la calidad de los datos suministrados al operador
+la cual, en cuanto tiene acceso y suministra información personal de terceros,
+se sujeta al cumplimiento de los deberes y responsabilidades previstas para
+garantizar la protección de los derechos del titular de los datos. 
+
+
+[66]
+De conformidad con lo dispuesto en el artículo 3º c) de la Ley 1266 de 2008: Se
+denomina operador de información a la persona, entidad u organización que
+recibe de la fuente datos personales sobre varios titulares de la información,
+los administra y los pone en conocimiento de los usuarios bajo los parámetros
+de la presente ley. Por tanto el operador, en cuanto tiene acceso a información
+personal de terceros, se sujeta al cumplimiento de los deberes y
+responsabilidades previstos para garantizar la protección de los derechos del titular
+de los datos. Salvo que el operador sea la misma fuente de la información, este
+no tiene relación comercial o de servicio con el titular y por ende no es
+responsable por la calidad de los datos que le sean suministrados por la fuente.
+
+
+[67]
+El artículo 3º d) establece: El usuario es la persona natural
+o jurídica que, en los términos y circunstancias previstos en la presente ley,
+puede acceder a información personal de uno o varios titulares de la
+información suministrada por el operador o por la fuente, o directamente por el
+titular de la información ().
+
+
+[68]
+Sentencia SU-139 de 2021. M.P. Jorge Enrique Ibáñez Najar.
+
+
+[69]
+Ibidem
+
+
+[70]
+Ibidem.
+
+
+[71]
+Sentencia C-139 de 2021, M.P. Gloria Stella Ortiz Delgado.
+
+
+[72]
+Artículo 4º a).
+
+
+[73]
+Ibidem.
+
+
+[74]
+Sentencia T-848 de 2008, M.P. Marco Gerardo
+Monroy Cabra.
+
+
+[75]
+Sentencia C-1011 de 2008, M.P. Jaime Córdoba Triviño.
+
+
+[76]
+M.P. Alejandro Linares Cantillo 
+
+
+[77]
+M.P. Gloria Stella Ortiz Quintero.  
+
+
+[78]
+Sentencias C-1011 de 2008, M.P. Jaime Córdoba Triviño y SU-139 de 2021. M.P.
+Jorge Enrique Ibáñez Najar.
+
+
+[79]
+Sentencias C-1011 de 2008, M.P. Jaime Córdoba Triviño y C-748 de 2011, Jorge
+Ignacio Pretelt Chaljub. 
+
+
+[80]
+Sentencias C-1011 de 2008, M.P. Jaime Córdoba Triviño y C-032 de
+2021, M.P. Gloria Stella Ortiz Delgado.
+
+
+[81]
+Esa disposición constitucional prevé: Las actividades financiera, bursátil,
+aseguradora y cualquier otra relacionada con el manejo, aprovechamiento e
+inversión de los recursos de captación a las que se refiere el literal d) del
+numeral 19 del artículo 150 son de interés público y sólo pueden ser
+ejercidas previa autorización del Estado, conforme a la ley, la cual regulará
+la forma de intervención del Gobierno en estas materias y promoverá la
+democratización del crédito.
+
+
+[82] Al respecto, la Sentencia 1101 de 2008 indicó: La obligación que tienen las fuentes de
+reportar al operador las novedades que se hayan presentado respecto de los
+datos es una herramienta indispensable para que la información concernida esté
+actualizada y, por ende, sea veraz. Así, en caso de  que se exonerara a
+las fuentes de esa información, no existiría herramienta alguna, distinta a los
+procedimientos de consulta, peticiones y reclamos, que garantizara la veracidad
+del dato personal.  Igualmente, la exigencia relativa a la certificación
+de la autorización del titular de la información es una expresión propia del
+principio de libertad, previsto expresamente en el artículo 15 C.P., que obliga
+a que las actividades de acopio, gestión y divulgación de datos personales
+estén precedidas del consentimiento libre, expreso y previo del sujeto
+concernido; de forma tal que se impida el acceso y circulación inconsulta y,
+por ende, ilegal.
+
+
+[83]
+Estas obligaciones se encuentran previstas en el artículo 8º de la Ley 1266 de
+2008.
+
+
+[84]
+Al analizar este deber, la Corte Constitucional advirtió en la Sentencia C-1011
+de 2008 que: El artículo 20 de la Carta dispone que en uso de las
+libertades de informar y de ser informados, la información que circula debe ser
+"veraz e imparcial", lo que equivale a afirmar que en todo dato,
+sobre todo si es negativo, el reporte debe incluir no sólo la versión de la
+fuente, sino la posibilidad de que el titular manifieste también su posición
+sobre el contenido de determinados datos, para que la información pueda
+considerarse acorde con el criterio de imparcialidad antes citado. Así
+entendido, el numeral se muestra ajustado a la Carta Política. // Divulgar
+la información personal a los usuarios dentro de los parámetros de ley, como lo
+propone el numeral 10, es un deber que se aviene el principio de circulación
+restringida, reconocido por la jurisprudencia constitucional y desarrollado por
+el legislador estatutario. Por ende, se muestra plenamente compatible con el
+contenido y alcance del derecho al habeas data.
+
+
+[85]
+M.P. Gloria Stella Ortiz Delgado.
+
+
+[86]
+Superintendencia de Industria y Comercio, Resolución 13016 de 17 de marzo de
+2022.
+
+
+[87]
+Este fundamento comprende una
+traducción libre del documento Guidelines Governing the Protection of Privacy
+and Transborder Flows of Personal Data. Disponible en: https://www.oecd.org/sti/ieconomy/privacy.htm  
+
+
+[88]
+Estas directrices se encuentran contenidas en el principio 15.
+
+
+[89]
+En este sentido, los Principios Actualizados sobre la
+Privacidad y la Protección de Datos Personales de la Organización de
+Estados Americanos (OEA) prevé en el Principio 10: Los
+responsables y encargados del tratamiento de da- tos deberían adoptar e
+implementar medidas técnicas y organizacionales que sean apropiadas y efectivas
+para asegurar y poder demostrar que el tratamiento se realiza en conformidad
+con estos Principios. Dichas medidas deberían ser auditadas y
+actualizadas periódicamente. El responsable o encargado del tratamiento y, en
+lo apli- cable, sus representantes, deberían cooperar, a petición, con
+las autoridades de protección de datos personales en el ejercicio de sus
+tareas.  Disponible en: https://www.oas.org/es/sla/cji/docs/Publicacion_Proteccion_Datos_Personales_Principios_Actualizados_2021.pdf
+
+
+
+[90]
+Por el cual se reglamenta parcialmente la Ley 1581 de 2012.
+
+
+[91]
+Por la cual se dictan disposiciones generales para la protección de datos
+personales.
+
+
+[92]
+Artículo 26.
+
+
+[93].
+Estas medidas deben ser adoptadas de manera proporcional a: 1. La
+naturaleza jurídica del responsable y, cuando sea del caso, su tamaño
+empresarial, teniendo en cuenta si se trata de una micro, pequeña, mediana o
+gran empresa, de acuerdo con la normativa vigente. // 2. La naturaleza de los
+datos personales objeto del tratamiento. // 3. El tipo de Tratamiento.// 4. Los
+riesgos potenciales que el referido tratamiento podrían causar sobre los
+derechos de los titulares.
+
+
+[94]
+Por el cual se adiciona el título 17 a la parte 2
+del libro 2 del Decreto Único Reglamentario del sector de Tecnologías de la
+Información y las Comunicaciones, Decreto 1078 de 2015, para reglamentarse
+parcialmente el capítulo IV del título III de la Ley 1437 de 2011 y el artículo
+45 de la Ley 1753 de 2015, estableciendo lineamientos generales en el uso y operación
+de los servicios ciudadanos digitales.
+
+
+[95]
+De acuerdo con el artículo 39 de la Ley 489 de 1998, integran la administración
+pública la Rama Ejecutiva del poder público y todos los organismos y entidades
+de carácter público que cumplen funciones administrativas. En esta categoría se
+encuentran comprendidos los ministerios, los departamentos administrativos y
+las superintendencias. También forman parte de la administración pública las
+gobernaciones, alcaldías, las secretarías y los departamentos a nivel territorial.
+
+
+[96]
+De acuerdo con el artículo 2.2.1.7.2 estos son el conjunto de servicios que
+brindan capacidades y eficiencias para optimizar y facilitar el adecuado acceso
+de los usuarios a la administración pública a través de medios electrónicos.
+Estos servicios se clasifican en básicos y especiales.
+
+
+[97]
+ Artículo 2.2.17.6.3.
+
+
+[98]
+Ibídem.
+
+
+[99]
+Ibídem.
+
+
+[100]
+Artículo 2.2.17.6.6.
+
+
+[101]
+Artículo 12, que adicionó a la Ley 1266 de 2008 el artículo 19A.
+
+
+[102]
+Artículo 13.
+
+
+[103] European Union, Working Party on the protection of individuals with
+regard to the processing of personal data, Opinion 3/2010 on the principle of
+accountability, 00062/10/EN WP 173, 13 July 2010.
+
+
+[104]
+M.P. Luis Ernesto Vargas Silva.
+
+
+[105]
+M.P. Gabriel Eduardo Mendoza Martelo.
+
+
+[106]
+M.P. Jorge Ignacio Pretelt Chaljub.
+
+
+[107]
+Sentencia C-1011 de 2008. M.P. Jaime Córdova Triviño. 
+
+
+[108]
+Sentencia C-1011 de 2008. M.P. Jaime Córdova Triviño. 
+[108]
+Artículo 150, numeral 8º.
+
+
+[109]
+Superintendencia de Industria y Comercio, Resolución 13016 de 17 de marzo de
+2022. 
+
+
+[110]
+Expediente digital
+T-8.109.017. Archivo 012RespuestaDavivienda.pdf.
+
+
+[111]De
+hecho, en la comunicación enviada al accionante el 25 de noviembre de 2021, se
+advierte que se llevó a cabo un análisis dactiloscópico y un informe técnico en
+el que se demuestra que las huellas y la cédula sí pertenecen al accionante. Expediente digital T-8.109.017.
+Archivo 012RespuestaDavivienda.pdf.
+
+
+[112]
+Expediente digital T-8.109.017, Respuesta al
+Oficio OPT-A-415-22.
+
+
+[113]
+En este sentido el artículo 15021 del Código Civil prevé: Para que una
+persona se obligue a otra por un acto o declaración de voluntad, es necesario:
+1o.) que sea legalmente
+capaz.
+2o.) que consienta en
+dicho acto o declaración y su consentimiento no adolezca de vicio.
+3o.) que recaiga sobre
+un objeto lícito.
+4o.) que tenga una causa
+lícita.
+La capacidad legal de
+una persona consiste en poderse obligar por sí misma, sin el ministerio o la
+autorización de otra.
+
+
+[114]
+Expediente digital T-8´727.419. Respuesta al oficio OPT
+A-415/2022.
+
+
+[115]
+Al respecto, Davivienda advirtió en su respuesta
+a la Corte Constitucional que: (i) se validó el documento de identidad a
+partir de un algoritmo de inteligencia artificial que halló una similitud con
+el documento registrado, (ii) se confirmó que el cliente está haciendo
+la solicitud a través del envío de un código OTP (One Time Password) al celular
+registrado por el cliente; (iii) se evaluó con base en un motor de
+riesgo de fraude, la solicitud transaccional con acciones del pasado, que
+entrega un resultado de fraude; (iv) se hizo un monitoreo transaccional,
+porque al ingresar los recursos del crédito se alerta la realización de
+movimientos transaccionales con bajo grado de similitud; (iv) se aplicó
+un análisis de hábito transaccional que permite evaluar el grado de similitud o
+anomalía de la transacción; y, (v) una vez se obtiene el resultado, se
+aplican políticas de seguridad transaccional para determinar si se permite, se
+autentica o se niega la transacción.
+ 
+
+
+[116]
+Expediente digital T-8´727.419. Respuesta al oficio OPT
+A-415/2022.
+
+
+[117]
+Artículo 17 numeral 5º. 
+
+
+[118]
+Al respecto la Ley 1266 de 2008 prevé en el
+numeral 6º del artículo 17 lo siguiente: La
+Superintendencia de Industria y Comercio ejercerá la función de vigilancia de
+los operadores, las fuentes y los usuarios de información financiera,
+crediticia, comercial, de servicios y la proveniente de terceros países, en
+cuanto se refiere a la actividad de administración de datos personales que se
+regula en la presente ley: () 6. Iniciar de oficio o a petición de parte
+investigaciones administrativas contra los operadores, fuentes y usuarios de
+información financiera, crediticia, comercial, de servicios y la proveniente de
+terceros países, con el fin de establecer si existe responsabilidad
+administrativa derivada del incumplimiento de las disposiciones de la presente
+ley o de las órdenes o instrucciones impartidas por el organismo de vigilancia
+respectivo, y si es del caso imponer sanciones u ordenar las medidas que
+resulten pertinentes.
+
+
+[119]
+Expediente digital T-8´727.419. Respuesta al oficio OPT
+A-415/2022.
+
+
+[120]
+ARTÍCULO 79. Archivo de las
+diligencias. Cuando la Fiscalía tenga conocimiento de un hecho
+respecto del cual constate que no existen motivos o circunstancias fácticas que
+permitan su caracterización como delito, o indiquen su posible existencia como
+tal, dispondrá el archivo de la actuación.
+Sin embargo, si surgieren
+nuevos elementos probatorios la indagación se reanudará mientras no se haya
+extinguido la acción penal.
+
+
+[121]
+La compulsa de copias es una obligación legal. Al respecto, el inciso segundo
+del artículo 67 de la Ley 906 de 2004 prevé: [e]l servidor público que
+conozca de la comisión de un delito que deba investigarse de oficio, iniciará
+sin tardanza la investigación si tuviere competencia para ello; en caso
+contrario, pondrá inmediatamente el hecho en conocimiento ante la autoridad
+competente.
+
+
+
+

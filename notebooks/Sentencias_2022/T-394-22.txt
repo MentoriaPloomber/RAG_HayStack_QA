@@ -1,0 +1,1133 @@
+  T-394-22  
+
+
+
+
+
+
+
+
+Sentencia-T-394/22
+ 
+DERECHO A LA HONRA Y BUEN NOMBRE FRENTE A
+LA LIBERTAD DE EXPRESIÓN EN INTERNET Y REDES SOCIALES-Improcedencia por incumplir requisitos de
+subsidiariedad e inmediatez
+ 
+(),
+no se acreditaron los requisitos de inmediatez y subsidiariedad. Lo anterior,
+por cuanto: (i) En atención al tiempo transcurrido desde la publicación del
+contenido objeto de reproche y la interposición de la acción de amparo
+equivalente a un término de casi 3 años, se consideró que el accionante no acreditó una debida diligencia para
+buscar el retiro de la publicación en los términos de las normas de comunidad,
+es decir, no se demostró una actuación razonable y prudente encaminada a
+salvaguardar sus derechos y (ii) No se acreditó una verdadera solicitud de retiro o enmienda ante
+el particular que hizo la publicación; no se le dio trámite a la reclamación por medio de los
+mecanismos previstos para la solución de conflictos de conformidad con las
+normas de comunidad de Wikipedia.org; y no se pudo constatar una relevancia
+constitucional del asunto.
+ 
+ACCION DE TUTELA PARA PROTEGER EL DERECHO
+A LA INTIMIDAD, AL BUEN NOMBRE Y A LA HONRA EN REDES SOCIALES-Improcedencia por incumplir requisito de
+relevancia constitucional
+ 
+ 
+Referencia: Expediente T-8.641.039
+ 
+Acción de tutela interpuesta por Juan Pablo Gallo Maya
+contra la Fundación Wikimedia.
+ 
+Magistrado ponente:
+ALEJANDRO LINARES CANTILLO
+ 
+ 
+Bogotá D.C., nueve (9) de noviembre de dos mil veintidós (2022)
+ 
+ 
+La Sala Tercera de Revisión de la Corte Constitucional, en ejercicio de
+sus atribuciones constitucionales, y una vez cumplidos los requisitos y
+trámites establecidos en el Decreto Ley 2591 de 1991, ha proferido la
+siguiente:
+ 
+SENTENCIA
+ 
+I.            
+ANTECEDENTES 
+ 
+A.         
+LA DEMANDA DE TUTELA 
+ 
+1. El señor Juan Pablo Gallo
+Maya (en adelante, el accionante), interpuso acción de tutela, el
+11 de enero de 2022[1], contra la Fundación Wikimedia que aloja la página web Wikipedia.org (en adelante, indistintamente Wikimedia o la accionada),
+por considerar que esta vulneró sus derechos fundamentales
+a la honra y al buen nombre, y por conexidad al debido proceso
+y a la presunción inocencia (i) al permitir la inclusión
+de contenido en el perfil del accionante en la página web Wikipedia basado en
+notas periodísticas; y, a su vez, (ii) la restricción de edición del contenido.
+El accionante hizo énfasis en el hecho de que en su perfil de Wikipedia.org aparece
+que fue suspendido de su cargo como alcalde del municipio de Pereira, hecho que,
+según el accionante, no corresponde a la realidad.
+ 
+2. En consecuencia, por
+medio de la acción de tutela solicita que le sean amparados los derechos
+fundamentales a la honra y buen nombre[2],
+y que como resultado de ello, se ordene a Wikimedia (i) establecer un
+procedimiento que le permita al accionante editar su perfil con neutralidad
+y respeto por otros derechos y principios constitucionales como el del debido
+proceso y la presunción de inocencia[3];
+y (ii) prever un protocolo de seguridad que restrinja la edición del perfil por
+parte de terceros[4].
+
+ 
+A.         
+HECHOS RELEVANTES
+ 
+3. Según el accionante, en el
+año 2019, el equipo de comunicaciones de la alcaldía del municipio de Pereira publicó
+la biografía del accionante en Wikipedia.org. Señaló que, además de incluir su
+trayectoria política, logros, reconocimientos y programas de gobierno, también
+se incluyó una sección de controversias. Dicha sección fue editada con el fin
+de distorsionar la realidad y con fines políticos[5]. 
+ 
+4. Alegó el accionante que la
+edición en el portal Wikipedia.org solo puede efectuarse por parte de quien
+creó el perfil, persona que desconoce y que ha modificado información sin contar
+con su consentimiento. Señaló que en el perfil de referencia se han hecho
+afirmaciones basadas en noticias de medios impresos y digitales, poco
+fiables[6]
+y enumeró las notas de prensa correspondientes que reprocha. 
+ 
+5. Dichas notas periodísticas
+se relacionan, entre otros, con los siguientes hechos (i) un supuesto conflicto
+de intereses por parte del accionante en su calidad de concejal del municipio
+de Pereira que resultó en la solicitud de ciertos ciudadanos dirigida a declarar
+la pérdida de investidura del accionante; (ii) una presunta suspensión en el
+año 2019 por la Procuraduría General de la Nación al accionante, por un período
+de 3 meses en su calidad de alcalde del municipio de referencia, por constreñimiento
+al elector; (iii) la supuesta apropiación de dineros durante la administración
+del accionante; y (iv) hechos relacionados con la celebración y adjudicación
+irregular de contratos con empresas para la administración de aplicaciones
+móviles utilizadas, para el constreñimiento del elector. 
+ 
+6. Sobre los hechos descritos
+anteriormente, el accionante alegó que (i) efectivamente perdió su investidura,
+pero pudo ejercer como alcalde hasta que fue suspendido temporalmente por
+hechos distintos; (ii) sobre un presunto constreñimiento al elector, sostuvo
+que no ha sido condenado penalmente por dicha actividad y que en sede
+disciplinaria el proceso se encuentra en etapa de apertura de la investigación,
+por lo que solicitó que se le aplique el principio de la presunción de inocencia;
+(iii) sobre la apropiación de recursos, indicó que la persona encargada del
+asunto de su administración daría respuesta; y (iv) respecto a la celebración y
+adjudicación irregular de contratos, señaló que la persona encargada del asunto
+de su administración respondió por el hecho y, por otro lado, se probó, en el
+marco de un proceso de nulidad electoral, la imposibilidad de obligar a una
+persona a votar por un candidato por medio de un elemento tecnológico. 
+ 
+7. Por lo anterior, manifestó
+el accionante que las aseveraciones publicadas en el perfil de Wikipedia.org tienen
+como fin asaltar su buen nombre y honra, y no se basan en un fallo judicial que
+se encuentre en firme. Ante las publicaciones de referencia, sostuvo que existe
+un conflicto de intereses en la medida en que quien editó su perfil en Wikipedia.org
+buscaba promocionar los intereses de ciertos individuos. 
+ 
+8. Señaló que su equipo y él solicitaron
+que se le permita editar el perfil con neutralidad para modificar dicha
+información y reseñar con las respectivas pruebas la realidad de los hechos
+acaecidos ()[7].
+No obstante, se le ha contestado que no tiene permiso para modificar la página.
+Para dichos efectos transcribió la respuesta negativa otorgada por la accionada
+en la cual se señala que (i) ha sido bloqueada por una persona de nombre Laura
+Fiorucci; (ii) se bloqueó la edición dado que la dirección IP ha sido usada
+recientemente por un usuario Abogadojoserestrepo con propósito particular;
+(iii) la fecha inicio del bloqueo fue el 5 de enero de 2022, y la fecha de
+caducidad del bloqueo fue el 6 de enero de 2022; y (iv) le dieron la
+posibilidad de contactar a la señora Fiorucci u otros administradores para
+discutir el bloqueo. 
+ 
+9. En concepto del accionante,
+la restricción de editar su perfil atenta contra su buen nombre y honra, indicando
+que (i) el único proceso que tiene en su contra es el identificado con el número
+de expediente E-2019-639409 el cual se encuentra en la etapa de apertura de
+investigación; (ii) es candidato al Senado de la República por el partido
+Liberal colombiano y los electores tienen el derecho de estructurar su juicio
+electoral con base en información objetiva y no subjetiva redactada por terceros
+que quieren afectar su proyecto; (iii) Es ilógico, injusto y alejado de la
+realidad, que si un ciudadano consulta mi perfil en Wikipedia.org, quede con la
+imagen errada que a la fecha estoy SUSPENDIDO cuando término máximo de una
+suspensión es de 3 meses de conformidad con lo dispuesto por la Ley 734 de 2002[8].
+ 
+10. Con base en lo anterior,
+sostuvo que el perjuicio que se le genera es incalculable en la medida en que
+se le afectan sus derechos fundamentales sin poder saber cuántas personas han
+accedido a visualizar su perfil y al estar restringido de aportar pruebas en
+contrario de las publicaciones plasmadas en su perfil de Wikipedia.org. 
+ 
+11. En consecuencia, interpuso
+la acción de tutela de la referencia (ver supra, numeral 1). Específicamente, manifestó que (i) se le
+vulnera el derecho a la honra y buena nombre, dado que Wikimedia habilita un
+conflicto de interés por parte del editor al permitirle que publique
+información desprovista de neutralidad, distorsionando la realidad de los
+hechos ()[9]
+y, por tanto, permitiendo que la comunidad genere un juicio frente a su persona
+que no se ajusta a la realidad; y (ii) se le vulneró el derecho al debido
+proceso y a la presunción de inocencia en la medida en que (a) el único órgano
+que puede efectuar las aseveraciones plasmadas en su perfil es la Procuraduría
+General de la Nación. Así, (b) considera que una página de alcance mundial como
+Wikipedia.org debe abstenerse de permitir publicaciones que vulneren la
+presunción de inocencia. Reiteró que (c) la vulneración es evidente por parte
+de Wikimedia al permitir señalar que se encuentra suspendido, lo cual resulta
+falso e ilógico dado que el término de la suspensión provisional es de 3 meses
+y dicha situación ocurrió en el año 2019. Finalmente, (d) sostuvo que su perfil
+en Wikipedia.org se deriva de información equivocada que, además, sugiere su
+responsabilidad respecto a la comisión de delitos y la infracción de normas
+disciplinarias por los cuales no ha sido condenado ni sancionado y que el
+proceso disciplinario de referencia no ha concluido. 
+ 
+B.          
+ADMISIÓN, REPARTO Y
+RESPUESTA DE LA ENTIDAD ACCIONADA
+ 
+Admisión de la demanda
+de tutela
+ 
+12. Mediante auto de fecha 12
+de enero de 2022 el Juzgado Octavo Civil Municipal de Pereira, admitió la
+acción de tutela de la referencia y ordenó correr traslado de la acción a Wikimedia[10].
+
+ 
+13. La notificación de
+admisión de la demanda a Wikimedia se efectuó por medio de los siguientes
+correos electrónicos: (i) info@wikimedia.org; (ii) donate@wikimedia.org;
+(iii) business@wikimedia.org; (iv) legal@wikimedia.org; y (v)
+wikimedia-co@lists.wikimedia.org. 
+ 
+14. A pesar de haber sido
+repartida la acción de tutela de referencia al Juzgado Octavo Civil Municipal
+de Pereira y admitida la demanda, este advirtió que la acción de tutela se
+dirigía en contra de un medio de comunicación. Por tanto, con el fin de evitar
+una nulidad, remitió por medio de auto de fecha 13 de enero de 2022, la demanda
+a la oficina judicial de reparto para que fuese repartida ante los jueces del
+circuito en los términos del artículo 37 del Decreto Ley 2591 de 1991. 
+ 
+15. Efectuado de nuevo el
+reparto, el día 18 de enero de 2022, le correspondió la acción de tutela al Juzgado Tercero Penal del Circuito de Pereira con Funciones de Conocimiento de Pereira quien admitió la tutela por
+medio de auto de fecha 19 de enero de 2022 y notificó su admisión el 20 de
+enero del mismo año[11].
+
+ 
+Respuesta de las entidades accionadas
+y oficiadas
+ 
+16. Wikimedia.
+De conformidad con el
+material probatorio en el expediente, la accionada no se pronunció sobre la
+acción de tutela de referencia. 
+ 
+17. Procuraduría
+General de la Nación. A raíz
+de un auto de fecha 24 de enero de 2022 proferido por el Juzgado Tercero Penal del Circuito de Pereira se pronunció de manera
+extemporánea. Por medio del auto de referencia se ofició a la Procuraduría General de la Nación para que
+certificara si el accionante tiene o ha tenido alguna suspensión
+provisional y si la registra de igual manera se sirva informar el periodo de
+dicha suspensión[12].
+ 
+18. A
+pesar de que la entidad de referencia acusó de recibo el auto de pruebas el día
+25 de enero de 2022, únicamente aportó las pruebas decretadas el 7 de febrero
+de 2022, es decir, 6 días después del fallo de primera instancia. 
+ 
+19. En
+el informe allegado por la entidad, aclaró que el sistema de información de
+certificados de antecedentes ordinario y especial con el que cuenta únicamente
+refleja a personas naturales y jurídicas que han sido efectivamente sancionadas.
+Por tanto, el sistema contiene anotaciones relativas a sanciones disciplinarias,
+penales, inhabilidades derivadas de las relaciones contractuales con el Estado,
+inhabilidades derivadas de responsabilidad fiscal, declaraciones de pérdida de
+investidura y sanciones impuestas en el ejercicio de profesiones liberales. Así,
+informó que tras revisar el Sistema de Información de Registro de Sanciones y
+Causas de Inhabilidad no existe a la fecha ningún tipo de sanción
+ejecutoriada, que haya sido reportada por autoridad competente a su nombre del
+ciudadano Juan Pablo Gallo Maya () por lo que no tenemos ninguna
+información al respecto, sobre antecedentes judiciales, ni inhabilidad, así
+como ninguna suspensión reportada a esta Dependencia de la Procuraduría General
+de la Nación[13]. Concluyó (i) sosteniendo que el accionante
+no presenta antecedentes; y (ii) aclaró que solamente cuentan con información
+recibida por las diferentes autoridades competentes, respecto a los fallos
+ejecutoriados[14]. 
+ 
+C.         
+DECISIÓN JUDICIAL OBJETO
+DE REVISIÓN
+ 
+Sentencia
+de primera instancia proferida por el
+Juzgado Tercero Penal del Circuito con funciones de Conocimiento de Pereira
+ 
+20. Por medio del fallo de fecha 1º de febrero de 2022[15], el juez de instancia indicó que el 24 de enero de 2022 se comunicó
+con la señora Mónica Bonilla, representante de Wikimedia Colombia. Señaló que
+la representante manifestó (i) haber sido notificada del traslado de la demanda
+y que se encontraba gestionando trámites internos para pronunciarse sobre la
+demanda; (ii) que la entidad que representaba no era la competente para
+resolver la pretensión del accionante, en la medida en que los únicos
+encargados y autorizados para realizar cambios o modificaciones en un perfil
+biográfico es Wikimedia Fundación en los Estados Unidos[16]; (iii) que Wikimedia Colombia es una entidad sin ánimo de lucro; y
+(iv) los términos de manejo de Wikipedia se encuentran en la misma plataforma y
+pueden ser visualizados por cualquier persona. 
+ 
+21. A punto seguido, el
+juzgado de referencia, tras hacer un recuento de los hechos y de jurisprudencia
+constitucional sobre los derechos a la libertad de expresión, buen nombre,
+honra en el marco de la era de internet, decidió negar el amparo interpuesto
+por el accionante. 
+ 
+22. En efecto, (i) describió
+la naturaleza de Wikipedia y su funcionamiento en materia de edición, señalando
+que dicha labor es efectuada por personas voluntarias que actualizan, vigilan y
+controlan el contenido; (ii) sostuvo que el derecho de información es un
+derecho fundamental que implica el derecho de informar y también de recibir
+información veraz e imparcial, el cual cobra mayor relevancia en el caso concreto
+al tratarse de información utilizada para formar un juicio para votar, o no,
+por un servidor público, por lo que consideró que personalidades públicas
+debían someterse al tipo de control político reflejado en el caso. 
+ 
+23. Así, señaló que (iii) la
+frase hasta suspensión en el año 2019 reprochada por el accionante no vulnera
+los derechos invocados dado que la plataforma de Wikimedia está publicando
+información cierta en la medida en que el accionante sí fue suspendido
+provisionalmente por la Procuraduría General de la Nación el 22 de octubre de
+2019. 
+ 
+24. Adicionalmente, con
+respecto a la solicitud de edición por parte del accionante dirigida a Wikimedia,
+sostuvo que (iv) la política de bloqueo fue expresada claramente por Wikimedia,
+particularmente sobre la causal de bloqueo en casos de propósitos particulares de
+publicación de información; (v) a pesar de haber sido instruido por parte de Wikimedia
+sobre el procedimiento para modificar su perfil, el accionante no demostró que
+intentó llevar a cabo el mismo; (vi) ni obra en el expediente una solicitud
+formal de edición del perfil por parte del accionante ante Wikimedia ni una solicitud
+de rectificación ante el medio de comunicación, en los términos de la
+jurisprudencia constitucional. 
+ 
+25. Concluyó el juzgado de
+referencia señalando que no se observaba una amenaza a derechos fundamentales
+que pudiese configurar un perjuicio irremediable dado que no se aportó ninguna
+prueba que demostrará alguna amenaza o perjuicio causado por Wikimedia, ni se
+advertía alguna vulneración a los derechos fundamentales a la honra y buen
+nombre del accionante; y el accionante debía adelantar una solicitud de
+rectificación formal ante Wikimedia. 
+ 
+D.         
+SELECCIÓN PARA REVISIÓN
+DEL EXPEDIENTE 
+ 
+26. Por medio de auto de fecha
+30 de junio de 2022, la Sala de Selección de Tutelas Número Seis decidió
+seleccionar el expediente de referencia con base en criterios objetivos de
+selección consistentes en (i) asunto novedoso; y (ii) la necesidad de
+pronunciarse sobre una determina línea jurisprudencial[17].[18][19]
+
+ 
+II.         
+CONSIDERACIONES
+ 
+A.         
+COMPETENCIA 
+ 
+27. La Sala Tercera de Revisión
+es competente para conocer de la presente acción de tutela en virtud de lo
+previsto en los artículos 86 y 241.9 de la Constitución Política, y los
+artículos 31 a 36 del Decreto 2591 de 1991. Asimismo, en virtud del auto del 30 de junio de 2022, mediante el cual la Sala de Selección de
+Tutela Número Seis de la Corte Constitucional decidió seleccionar para revisión
+el presente proceso.
+ 
+B.          
+CUESTIÓN PREVIA. PROCEDIBILIDAD DE LA ACCIÓN DE TUTELA
+ 
+28. En virtud de
+lo dispuesto en el artículo 86 de la Constitución Política, la reiterada
+jurisprudencia constitucional dictada sobre la materia[20] y los
+artículos concordantes del Decreto 2591 de 1991, la acción de tutela tiene un
+carácter residual y subsidiario, razón por la cual solo procede
+excepcionalmente como mecanismo de protección definitivo (i) cuando el
+presunto afectado no disponga de otro medio de defensa judicial, o (ii) cuando,
+existiendo ese medio este carece de idoneidad o eficacia para proteger de forma
+adecuada, oportuna e integral los derechos fundamentales, en las circunstancias
+del caso concreto. Así mismo, procederá como mecanismo transitorio
+cuando la acción se interponga para evitar la consumación de un perjuicio
+irremediable a un derecho fundamental. En el evento de proceder como mecanismo
+transitorio, el accionante deberá ejercer la acción principal en un término
+máximo de 4 meses a partir del fallo de tutela, y la protección se extenderá
+hasta tanto se produzca una decisión definitiva por parte del juez ordinario[21].
+ 
+29. Antes de
+realizar el estudio de fondo de la acción de tutela seleccionada, la Sala
+procederá a reiterar los presupuestos de procedibilidad de la acción de tutela
+en materia de libertad de expresión en internet, para con ello verificar si se
+cumplen dichos requisitos.
+ 
+Presupuestos de procedibilidad de la acción
+de tutela en materia del derecho a la libertad de expresión en internet y redes
+sociales[22].
+Análisis de procedibilidad del caso concreto 
+ 
+30. Legitimación
+por activa. El artículo 86 de la Constitución Política, determina que la
+acción de tutela es un mecanismo de defensa al que puede acudir cualquier
+persona para reclamar la protección inmediata de sus derechos fundamentales.
+Ello en concordancia con lo consagrado en el artículo 10° del Decreto Ley 2591
+de 1991, el cual establece que este amparo puede ser ejercido, en todo momento
+y lugar, por cualquiera persona vulnerada o amenazada en uno de sus derechos
+fundamentales, por sí misma o a través de representante.
+ 
+31. De esta
+manera, la Sala encuentra que el accionante al actuar en nombre propio se
+encuentra legitimado para formular la solicitud de amparo objeto de revisión e
+invocar la protección de sus derechos fundamentales a la honra y buen nombre,
+susceptibles de ser protegidos por vía de la acción de tutela. 
+ 
+32. Legitimación
+por pasiva. El
+artículo 5º del Decreto Ley 2591 de 1991 señala que la acción de tutela procede
+contra toda acción u omisión de las autoridades públicas que desconozcan o
+amenacen con vulnerar los derechos fundamentales de los accionantes. De manera
+excepcional, es posible ejercerla en contra de particulares si: (i) están
+encargados de la prestación de un servicio público; (ii) su conducta afecta
+grave y directamente el interés colectivo; o (iii) el accionante se encuentra
+en una situación de indefensión o de subordinación respecto de este. Respecto
+a una situación de indefensión o de subordinación del accionante, el artículo 42.9 del decreto en referencia
+específica que el amparo procede contra acciones u omisiones de particulares,
+entre otras circunstancias, cuando el accionante se encuentra en situación de
+subordinación o indefensión respecto del particular contra el cual se interpuso
+la acción de tutela[23].
+ 
+33. Según la jurisprudencia constitucional, los asuntos que se
+debaten en las acciones de amparo relacionadas con el ejercicio de la libertad
+de expresión en Internet, conciernen generalmente a pugnas entre particulares,
+por lo cual es preciso acreditar los requisitos de cara a la procedencia de la
+acción de amparo. Así, consideró que debe hallarse probada la situación de
+indefensión del peticionario, la cual no se activa automáticamente por tratarse
+de expresiones realizadas en una red social en contra del buen nombre u honra
+de un individuo, pues esto parte del estudio concreto que el juez realice en
+cada caso, a fin de constatar la legitimación en la causa por pasiva del
+particular accionado[24].
+ 
+34. A efectos de constatar la situación de indefensión, en el marco de casos
+de libertad de expresión en Internet, la jurisprudencia constitucional ha
+señalado que le corresponde al juez de tutela examinar la configuración de
+dicha situación bajo los siguientes criterios: (i) el impacto social que tienen
+las publicaciones denunciadas[25];
+(ii) la capacidad de difusión y popularidad del emisor[26]; y (iii) la
+posibilidad que tiene el afectado para controlar el contenido[27], esto es,
+restringir su acceso, suprimirlo de la red, o impedir su circulación o
+reproducción[28]
+empleando el mismo canal de comunicación[29]. 
+ 
+35. Con respecto al caso concreto y en los términos de los criterios
+jurisprudenciales descritos, la Sala considera que el accionante se encuentra en
+una situación de indefensión. Lo anterior, ya que (i) Wikipedia es una plataforma de amplia y frecuente consulta, de
+manera que es razonable concluir que la información sobre personas, incluyendo
+funcionarios públicos, que se publica allí tiene una amplia difusión y puede
+tener un alto impacto social; y (ii) el accionado, en principio[30], no tiene la
+posibilidad de restringir el acceso a su perfil, suprimirlo de la red, o
+impedir su circulación o reproducción. En este sentido, la Sala encuentra
+acreditado el cumplimiento del requisito de legitimación por pasiva. 
+ 
+36. Inmediatez. De conformidad con lo previsto en el artículo 86 de la Constitución
+Política y el alcance que le ha dado la jurisprudencia constitucional al
+principio de inmediatez, la acción de tutela debe ser interpuesta dentro de un
+término prudente y razonable respecto del momento en el que presuntamente se
+causa la vulneración[31].
+La razonabilidad del término no se valora en abstracto, sino que corresponde al
+juez de tutela evaluar, a la luz de las circunstancias de cada caso, lo que
+constituye un término razonable[32].
+ 
+37. En el caso concreto del internet,
+por la naturaleza de las publicaciones que se realizan en las mismas, que
+tienen una vocación de permanencia en el tiempo, no podrá el juez de tutela
+descartar la inmediatez asumiendo el término a partir del cual se divulgó, sino
+que deberá tenerse en cuenta (i) su permanencia; y (ii) la debida diligencia
+para buscar el retiro de la publicación (el tiempo que el agraviado ha usado
+para salvaguardar los derechos que considera vulnerados). 
+ 
+38. No obstante, la jurisprudencia
+constitucional ha advertido que el simple hecho de que la información todavía
+se encuentre publicada en el Internet no permite concluir necesariamente que
+exista un daño o una vulneración continuada[33]. Así, se ha señalado
+que, en estos casos, la razonabilidad del término de interposición debe
+valorarse a la luz de los siguientes criterios: (i) la existencia de razones
+que expliquen, de manera suficiente, la inactividad del actor; (ii) si el
+ejercicio tardío de la acción de tutela vulnera los derechos de terceros
+afectados con la decisión; (iii) la existencia de nexo causal entre el
+ejercicio inoportuno de la acción y la vulneración de los derechos de los interesados
+y, por último, (iv) la demostración del carácter permanente de la situación de
+amenaza o vulneración de los derechos fundamentales[34].
+
+ 
+39. De conformidad con el
+historial del perfil del accionante en Wikipedia, cuya accesibilidad es
+pública, se constató que desde (i) el 11 de marzo de 2019 (hora 15:12) se
+publicó contenido relacionado al presunto conflicto de interés incurrido por el
+accionante en el marco de su cargo como concejal del municipio en referencia[35];
+(ii) el 19 de octubre de 2019 (hora 2:14) se publicó contenido relacionado a
+los hechos que conllevaron a su suspensión provisional y a la publicación en su
+perfil de la ocurrencia de esta[36];
+(iii) desde el 1º de enero de 2020 (hora 16:50) se encontraba publicado contenido
+relacionado a (a) la supuesta apropiación de dineros
+destinados a adultos de la tercera edad durante la administración del
+accionante, y (b) hechos relacionados a la presunta celebración y adjudicación
+de contratos de manera irregular. Asimismo, se constató
+que (iv) la publicación del contenido relacionado a su suspensión como alcalde del
+municipio de Pereira en el año 2019, se dio el día 25 de octubre de 2019 (hora
+1:54)[37]
+en el capítulo denominado Controversias del perfil del accionante; y (ii) el
+día 14 de enero de 2020 (hora 00:37) en la introducción del perfil[38].
+
+ 
+40. En este
+sentido, dado que de la demanda se desprende que las publicaciones ubicadas en
+la introducción y en el capítulo de Controversias del perfil del accionante
+son las que son objeto de la impugnación, el análisis debe partir de la fecha
+de publicación de las mismas, es decir, desde el mes de marzo del año 2019. Así,
+dado que el primer contenido objeto de reproche se publicó desde marzo del año 2019
+y la acción de tutela bajo revisión se presentó hasta en enero del año 2022[39],
+la Sala encuentra que existe una falta de diligencia injustificada por parte del
+accionante a efectos de tutelar sus derechos fundamentales. Lo anterior, en la
+medida en que transcurrieron casi tres años entre el contenido objeto de
+reproche y la interposición de la tutela sin que el accionante haya presentado
+un motivo válido de su inacción. Incluso, si únicamente se partiera desde las
+publicaciones del contenido en la introducción su perfil de Wikipedia relacionado
+a la suspensión del accionante como alcalde, se evidencia, aun así, un
+transcurso de dos años de inacción por parte del actor. 
+ 
+41. En efecto,
+el accionante aduce que las publicaciones en cuestión lo perjudican por cuanto
+contienen información inexacta ‒e incluso falsa‒ sobre su trayectoria
+como funcionario público; la cual afecta sus derechos fundamentales. Sin
+embargo, no explica por qué sólo hasta ahora se ha percatado de la afectación
+que ello supone para sus derechos fundamentales, como tampoco ofrece alguna
+razón que justifique su reacción excesivamente tardía. Lo anterior, máxime si el propio accionante señala que ha conocido de
+la existencia del perfil desde el 2019[40].
+
+ 
+42. Particularmente,
+llama la atención de la Sala el hecho de que el accionante se limitó a señalar que
+(i) la última vez que le solicitó a la accionada permitir editar su perfil fue
+el día 4 de enero de 2022; y (ii) que la misma fue negada[41]. Lo anterior,
+ya que (a) no ofreció justificación alguna por el transcurso de casi 3 años
+entre la publicación del contenido impugnado y la presunta solicitud, y tampoco
+detalló las fechas de otras solicitudes o actuaciones emprendidas a efectos de
+salvaguardar sus derechos. Asimismo, (b) se constató que lo que el accionante
+denominó una solicitud a efectos de editar con neutralidad[42],
+en realidad no fue una solicitud a la accionada. Tal y como se explicará en el
+acápite de subsidiariedad a continuación, lo que intentó el propio accionante y
+su equipo fue editar el contenido de su perfil directamente y no acudir a los
+mecanismos de autocomposición previstos por la plataforma. 
+ 
+43. La Sala no
+ignora que (i) las publicaciones que
+se realizan en Wikipedia generalmente tienen una vocación de permanencia en el
+tiempo; y (ii) el contenido impugnado permanece en el perfil del accionante[43]. No obstante, de conformidad con
+la jurisprudencia constitucional[44], en la ausencia de argumentos
+mínimos para justificar la tardanza, no se encontraron motivos para
+flexibilizar el análisis del requisito de inmediatez en el caso concreto y, por
+lo tanto, no se acreditó su cumplimiento. En efecto, a juicio de la Sala, el
+accionante no justificó de forma alguna las razones que conllevaron a buscar la
+salvaguarda de sus derechos fundamentales, al haber transcurrido más de dos
+años desde la última publicación. 
+ 
+44. Subsidiariedad. La jurisprudencia
+constitucional ha señalado que antes de pretenderse la defensa por vía de
+tutela, el interesado debe buscar la protección a través de otros medios
+judiciales que resulten eficaces y que estén disponibles, por cuanto la acción
+de tutela no tiene la virtud de poder desplazar mecanismos previstos en la
+normatividad vigente, pues de lo contrario se estaría haciendo un uso indebido
+de este mecanismo que conllevaría un desgaste innecesario de la justicia
+constitucional y una paulatina desarticulación de las competencias asignadas a
+determinadas autoridades jurisdiccionales[45]. 
+ 
+45. Sin perjuicio
+de lo anterior, en materia de
+acciones de tutela por presuntas vulneraciones derivadas de la libertad de
+expresión en Internet, la Corte ha considerado necesario fijar unas reglas
+diferenciadas a partir de la calidad del accionante, es decir, según sean
+personas naturales o personas jurídicas. Así, cuando se trate de
+personales naturales[46],
+únicamente procede la acción de tutela cuando quien considere vulnerado haya
+agotado los siguientes requisitos, a saber: (i) solicitud de retiro o enmienda ante el particular que hizo la
+publicación. Esto por cuanto la regla general en las relaciones sociales, y
+especialmente en internet y las redes sociales, es la simetría por lo que la
+autocomposición se constituye en el método primigenio para resolver el
+conflicto y la acción de tutela es el mecanismo residual; (ii) reclamación ante la página o plataforma
+donde se encuentra alojada la publicación, siempre y cuando en las reglas de la
+comunidad se habilite para ese tipo de ítem una posibilidad de reclamo; y (iii)
+constatación de la relevancia constitucional del asunto, aun cuando existen la
+acción penal y civil para ventilar este tipo de casos, no se predica su
+idoneidad y eficacia cuando así lo demuestre el análisis de contexto en que se
+desarrolla la afectación. 
+ 
+46. A efectos de verificar la relevancia constitucional del asunto, se deben
+analizar las siguientes circunstancias, a saber: (i) -quién comunica- esto es, el emisor del
+contenido, es decir, si se trata de un perfil anónimo o es una fuente
+identificable, para lo cual deberán analizarse las cualidades y el rol que
+ejerce en la sociedad, esto es, si se trata de un particular, funcionario
+público, persona jurídica, periodista, o pertenece a un grupo históricamente
+discriminado; (ii) -respecto
+de quién se comunica-, es
+decir, la calidad del sujeto afectado, para lo cual debe verificarse si se
+trata de una persona natural, jurídica o con relevancia pública[47];
+y (iii) -cómo se comunica a partir de la carga difamatoria de las
+expresiones-, donde se debe valorar (a) el contenido del mensaje: la calificación de la
+magnitud del daño no depende de la valoración subjetiva que de la manifestación
+realice el afectado, sino de un análisis objetivo, neutral y contextual, entre
+otros. (b) El medio o canal a través del cual se hace la afirmación; y (c) el
+impacto respecto de ambas partes (número de seguidores; número de
+reproducciones, vistas, likes o similares; periodicidad y reiteración de
+las publicaciones).
+ 
+47. Así, a partir de dicho análisis de
+contexto, es dable determinar la falta de idoneidad y eficacia de la acción
+penal y civil, de manera que el amparo constitucional se erige como mecanismo
+eficaz para la protección de los derechos fundamentales mencionados conculcados
+mediante el ejercicio de la libertad de expresión en internet y/o redes
+sociales.
+ 
+48. Con respecto
+al caso concreto en materia de subsidiariedad, la Sala encuentra que no se
+cumple el requisito de procedibilidad en referencia. Lo anterior, dado que, de
+conformidad con el material probatorio que obra en el expediente: (i) no se
+acreditó una verdadera solicitud
+de retiro o enmienda ante el particular que hizo la publicación; (ii) no se le
+dio trámite a la reclamación
+por medio de los mecanismos previstos para la solución de conflictos de
+conformidad con las normas de comunidad de Wikipedia; y (iii) no se pudo
+constatar una relevancia constitucional del asunto. 
+ 
+49. En efecto, con
+relación a la acreditación de una solicitud de retiro, de conformidad con el
+material probatorio aportado por el accionante, se evidencia que en realidad no
+se efectuó una solicitud de dicha naturaleza. De la información transcrita por
+el propio accionante[48],
+resulta evidente que, contrario a solicitar el retiro o modificación de la
+información, el propio accionante intentó editar directamente el contenido de
+su perfil. Tal y como se desprende del mensaje que aportó el accionante, (i) dicho
+mensaje no expresó una denegación de una solicitud del accionante ante quien
+publicó el mensaje, sino que (ii) (a) comunicó la restricción de editar
+directamente el contenido de su perfil por haber violado las normas de la comunidad[49],
+y (b) la plataforma le señaló a quién debía dirigir su solicitud[50].
+No obstante haber sido informado con respecto a quién debía dirigir su
+solicitud, el accionante no aportó ninguna prueba de haber intentado
+contactarse con las personas correspondientes ni justificó la omisión de la
+solicitud. 
+ 
+50. Adicionalmente,
+a pesar del abanico de mecanismos para la
+solución de conflictos sobre el contenido entre usuarios y/o editores que prevé
+la plataforma, incluyendo mecanismos para la resolución de conflictos en casos
+de urgencia, el accionante no acreditó ningún intento a efectos de poner en
+funcionamiento dichos mecanismos. Tampoco acreditó la intención de acudir
+ante la plataforma para velar por el acatamiento de las normas de la comunidad,
+particularmente, a efectos de hacer respetar dichas normas por medio de los
+mecanismos de autocomposición previstos. 
+ 
+51. No
+obstante, en este punto la Sala resalta que, contrario a lo señalado por el
+juez de instancia, no procedía una solicitud de rectificación ante la accionada
+por parte del accionante, en la medida en que la misma funge como intermediario
+en el Internet y, por lo tanto, no
+tiene la capacidad de pronunciarse más allá de la violación de las normas de la
+comunidad. En efecto, tal y como lo ha reiterado la jurisprudencia
+constitucional, la solicitud de retiro o enmienda
+en referencia es un requisito diferente e independiente de la solicitud de
+rectificación prevista por el artículo 20 de la Constitución y el artículo 42.7
+del Decreto 2591 de 1991[51].
+ 
+52. De todos modos, para la Sala es diáfano, de conformidad con
+el material probatorio obrante en el expediente, que el accionante, previo a la
+interposición de tutela bajo revisión, no acudió a
+ninguno de los mecanismos de autocomposición idóneos y eficaces previstos por
+Wikipedia a fin de lograr dirimir las diferencias suscitadas por el contenido
+publicado en su perfil[52]. Finalmente, el hecho de no haber
+acudido a los mecanismos mencionados se agrava en la medida en que lo que
+solicita se circunscribe a (i) establecer un
+procedimiento que le permita al accionante editar su perfil con neutralidad
+y respeto por otros derechos y principios constitucionales como el del debido
+proceso y la presunción de inocencia[53];
+y (ii) prever un protocolo de seguridad que restrinja la edición del perfil por
+parte de terceros. Así, la Sala constata que las pretensiones del accionante se
+identifican precisamente con las reglas de la comunidad de Wikipedia y con las
+soluciones que prevén los distintos mecanismos previstos para el acatamiento de
+dichas reglas, a los cuales como consta en el expediente no acudió el accionante.
+
+ 
+53. Por último, la
+Sala tampoco constató que el asunto revistiera de relevancia constitucional. Lo
+anterior, ya que, de conformidad con el material probatorio obrante en el
+expediente, (i) respecto a quién comunicó, son particulares y
+usuarios concretos e identificables[54]
+quienes han editado el perfil del accionante con base en notas periodísticas
+que han publicado los hechos objeto de reproche, por lo que el derecho a la
+libertad de expresión debe analizarse de manera amplia. 
+ 
+54. (ii) Respecto
+de quién se comunicó, la Sala considera que, al estar ante una persona de
+relevancia pública con amplio reconocimiento social, en los términos de la
+jurisprudencia constitucional[55],
+la esfera de protección de los
+derechos presuntamente vulnerados se reduce. Lo anterior,
+especialmente para los altos funcionarios del Estado y quienes aspiran a estos
+cargos. Se resalta que, al momento de interponer la demanda, el accionante había
+sido concejal y alcalde de Pereira y se encontraba en campaña para obtener un
+escaño en el senado de la República, y actualmente ejerce el cargo de senador.
+ 
+55. Visto lo anterior, dado que el accionante
+había ejercido, entre otros cargos públicos, como concejal y alcalde, y tenía trayectoria
+y proyección en la vida pública al momento de interponer la acción de tutela, podría
+serle exigible en términos de la jurisprudencia constitucional, el deber de
+tolerar una mayor carga de reproche social, es decir, de ser afectado por
+críticas u opiniones adversas; de tal forma que no se encuentra superado el
+presente criterio, debido a que, en principio, se trata de una relación
+simétrica entre emisor y receptor.
+ 
+56. (iii) Sobre
+cómo se comunicó, a pesar de que la Sala
+advierte (a) acreditado el criterio de comunicabilidad, pues las afirmaciones fueron expresadas en un lenguaje
+claro, sencillo y de fácil comprensión para los destinatarios; y (b) que el
+medio a través del cual se publicó el contenido permite la difusión amplia del
+mismo y permiten su ubicación de manera sencilla (elementos de buscabilidad y
+encontrabilidad), (c) respecto al impacto del contenido publicado,
+el accionante no demostró siquiera sumariamente cómo las publicaciones
+reprochadas afectaron la audiencia correspondiente. En esta medida, a partir
+del análisis de lo expuesto, la Sala no puede establecer que, en el caso
+concreto, la acción de tutela es el mecanismo adecuado para la protección de los derechos
+que se consideran vulnerados por el accionante. 
+ 
+57. En
+definitiva, la Sala considera que la presente acción de tutela no supera el
+principio de subsidiariedad, debido a que, revisado el contexto de los hechos
+que dieron lugar a la interposición de la presente acción de tutela, no se
+logra determinar la concurrencia de todos los parámetros que otorgan la relevancia
+constitucional de naturaleza iusfundamental necesaria para abordar el análisis
+de fondo. 
+ 
+58. Así, teniendo en cuenta que el incumplimiento de los
+requisitos de inmediatez y subsidiariedad -incluyendo la falta de relevancia
+constitucional-, no permite satisfacer la procedencia de la acción de tutela en
+el presente caso y, en consecuencia, pronunciarse de fondo. Por lo cual, la
+Sala revocará la decisión proferida el 1º de febrero
+de 2022 por el Juzgado Tercero Penal del Circuito con funciones de Conocimiento de
+Pereira y, en su lugar,
+declarará la improcedencia del amparo solicitado.
+ 
+C.         
+SÍNTESIS DE LA DECISIÓN
+ 
+59. La Sala Tercera de Revisión analizó la acción
+de tutela interpuesta por el ciudadano Juan Pablo Gallo Maya en contra de la Fundación Wikimedia que aloja la página web Wikipedia.org por
+considerar que esta vulneró sus derechos fundamentales a la honra, buen
+nombre, y por conexidad el debido proceso y la presunción inocencia,
+(i) al permitir la inclusión de contenido en el perfil del accionante en la
+página web Wikipedia.org basado en notas periodísticas; y, a su vez, (ii) la
+restricción de edición por parte del accionante de dicho contenido. El accionante
+hizo énfasis en el hecho de que en su perfil de Wikipedia.org aparece que fue
+suspendido de su cargo como alcalde del municipio de Pereira, hecho que, según
+el accionante, no corresponde a la realidad.
+ 
+60. Antes de realizar el estudio de fondo
+de la acción de tutela seleccionada, la Sala procedió a reiterar los
+presupuestos de procedencia de la acción de tutela en materia de libertad de
+expresión en Internet, y verificar si en el caso concreto se cumplieron dichos
+requisitos. En el marco de dicha verificación, la Sala constató que a pesar de
+que se encontraron acreditados los requisitos de legitimación por activa y por
+pasiva, no se acreditaron los requisitos de inmediatez y subsidiariedad. Lo
+anterior, por cuanto: 
+ 
+(i)         
+En atención al tiempo transcurrido desde la
+publicación del contenido objeto de reproche y la interposición de la acción de
+amparo equivalente a un término de casi 3 años, se consideró que el accionante no acreditó una debida
+diligencia para buscar el retiro de la publicación en los términos de las
+normas de comunidad, es decir, no se demostró una actuación razonable y
+prudente encaminada a salvaguardar sus derechos. 
+ 
+(ii)       
+No se acreditó una verdadera solicitud de retiro o enmienda ante el
+particular que hizo la publicación; no se le dio trámite a la reclamación por medio de los
+mecanismos previstos para la solución de conflictos de conformidad con las
+normas de comunidad de Wikipedia.org; y no se pudo constatar una relevancia
+constitucional del asunto.
+ 
+61. En consecuencia, la Sala revocará la decisión proferida el 1º de febrero de 2022
+por el Juzgado
+Tercero Penal del Circuito con funciones de Conocimiento de Pereira y, en su
+lugar, declarará la
+improcedencia del amparo solicitado.
+ 
+III.      DECISIÓN
+ 
+En mérito de lo expuesto, la Sala Tercera de Revisión de la Corte
+Constitucional, administrando justicia en nombre del Pueblo y por mandato de la
+Constitución,
+ 
+RESUELVE
+ 
+ 
+Primero.- REVOCAR por las razones expuestas en esta
+providencia, el fallo proferido por el Juzgado Tercero Penal del Circuito con funciones de
+Conocimiento de Pereira el día 1º de febrero de 2022 por medio del cual se
+negaron las pretensiones de la acción de tutela presentada por Juan Pablo Gallo
+Maya y, en su lugar, DECLARAR IMPROCEDENTE el amparo constitucional
+solicitado.
+ 
+Segundo.- LÍBRENSE las comunicaciones de que trata el
+artículo 36 del Decreto 2591 de 1991 para los efectos allí
+contemplados.  
+ 
+Notifíquese, comuníquese y cúmplase.
+ 
+ 
+ 
+ALEJANDRO LINARES CANTILLO
+Magistrado
+ 
+ 
+ 
+ANTONIO JOSÉ LIZARAZO OCAMPO
+Magistrado
+ 
+ 
+ 
+PAOLA ANDREA MENESES MOSQUERA
+Magistrada
+ 
+ 
+ 
+MARTHA VICTORIA SÁCHICA MÉNDEZ
+Secretaria General
+
+
+
+
+[1] Expediente digital: 04ConstanciaRecibido.pdf, página 1. 
+
+
+[2] Expediente digital: 01EscritoTutela (1), pág. 12. 
+
+
+[3] Ibid. 
+
+
+[4] Ibid. 
+
+
+[5] Ibid., pág. 2.  
+
+
+[6] Ibid., pág. 3. 
+
+
+[7] Ibid., pág. 5. 
+
+
+[8] Ibid., pág. 6. 
+
+
+[9] Ibid. 
+
+
+[10] Expediente digital: 05AutoAdmiteTutela.pdf, págs. 1-2. 
+
+
+[11] La notificación se hizo utilizando las
+siguientes direcciones electrónicas:  juanpablogallomaya@gmail.com
+<juanpablogallomaya@gmail.com>;  Hugo Sanin Jimenez Chicangana
+<hsjimenez@procuraduria.gov.co>;
+donate@wikimedia.org<donate@wikimedia.org>; business@wikimedia.org
+<business@wikimedia.org>;  business@wikimedia.org
+<business@wikimedia.org>;  legal@wikimedia.org<legal@wikimedia.org>; 
+wikimedia-co@lists.wikimedia.org <wikimedia-co@lists.wikimedia.org>; 
+wikimedia-co@lists.wikimedia.org <wikimedia-co@lists.wikimedia.org>;
+donate@wikimedia.org <donate@wikimedia.org>; info@wikimedia.org info@wikimedia.org.
+
+
+
+[12] Expediente digital: 12Auto Solicita prueba procuraduría acción tutela
+2021-0004- Juan Pablo Gallo Maya Vs Wikimedia (Wikipedia).pdf, pág. 1. 
+
+
+[13] Expediente digital: 17InformacionProcuraduriaTutela20220004.pdf,
+pág., 4. 
+
+
+[14] Ibid. 
+
+
+[15] Expediente digital: 15Fallo 20220004 Juan Pablo
+Gallo Maya Vs Wikimedia - (Wikipedia) No tutelar-no vulnera derechos.pdf, pág.
+1. 
+
+
+[16] Ibid. 
+
+
+[17] Adicionalmente, se señala que, de conformidad con el auto de
+referencia, los magistrados Lizarazo Ocampo y Reyes Cuartas presentaron
+insistencias para la selección del expediente. El magistrado Lizarazo sostuvo que,
+si bien la Corte Constitucional ha establecido reglas generales sobre la
+responsabilidad de intermediarios de internet, dada la naturaleza y fin
+particular de Wikipedia como enciclopedia libre, estima que habría lugar para precisar
+la aplicación de la jurisprudencia constitucional. Lo anterior, en relación con
+la responsabilidad de los usuarios de las plataformas y posibles vulneraciones
+que podrían a causar a derechos fundamentales. 
+Por su parte, tras efectuar un recuento
+de los antecedentes del caso, el magistrado Reyes señaló que el caso permite
+pronunciarse sobre un asunto novedoso al tratarse del papel de administradores
+sobre los contenidos que reposan en páginas web. Sostiene que, a pesar de múltiples
+pronunciamientos sobre la materia, la Corte no se ha referido expresamente
+al papel que desempeñan los host por los contenidos que reposan en las páginas
+web que administran. Asimismo, señaló que el asunto podría requerir de protección
+urgente de los derechos fundamentales del accionante dado que aseguró que el
+accionante no cuenta con herramientas para ello.  
+
+
+[18] Se señala que el 30 de octubre de 2022, la Secretaría General de esta
+corporación informó al magistrado sustanciador que la señora Ana Bejarano Ricaurte
+allegó (i) un memorial de contestación en representación de Wikimedia
+Foundation, Inc. solicitando declarar improcedente la acción de tutela; y, en
+los términos del artículo 77 del Código General del Proceso, (ii) un memorial
+sobre la sustitución de poder del abogado Emmanuel Vargas Penagos en favor de
+la abogada Bejarano y la abogada Lucía Yepes Bonilla para actuar en
+representación judicial de la accionada. 
+
+
+[19] Adicionalmente, se señala que el 1 de noviembre de 2022, la Secretaría General de esta corporación informó al magistrado
+sustanciador de que la Fundación Karisma allegó una intervención expresando
+observaciones sobre la acción de tutela sin efectuar ninguna solicitud concreta
+dirigida a la Sala. La Sala estima pertinente reiterar que, de conformidad con los
+artículos 10 y 13 del Decreto 2591 de 1991, dicha intervención no legitima a la
+fundación en referencia como parte, coadyuvante o amicus curiae. En
+efecto, la tutela es una acción pública y su proceso es inter partes, lo
+que supone que al litigio constitucional comparecen las personas que
+manifiestan la vulneración de sus derechos fundamentales, y otras a quienes se
+imputa dicha transgresión; así como terceros que acrediten tener interés
+legítimo en los resultados del proceso. La fundación en mención no acreditó encontrarse
+en algún supuesto previsto en el artículo 123 del Código General del Proceso,
+su calidad de sujeto procesal, ni tener interés legítimo dentro del proceso de
+tutela de la referencia en los términos previstos por el régimen jurídico
+especial de la acción de tutela. Por último, se deja constancia de que la
+Fundación Karisma no efectuó ninguna solicitud expresa respecto al caso
+concreto, incluyendo el decreto de pruebas o elaboración de conceptos sobre la
+materia. 
+
+
+[20] Corte Constitucional, sentencias T-119 de 2015, T-250 de 2015, T-446
+de 2015, T-548 de 2015, y T-317 de 2015.
+
+
+[21] Decreto 2591 de 1991, artículo 8. La tutela como mecanismo
+transitorio. Aun cuando
+el afectado disponga de otro medio de defensa judicial, la acción de tutela
+procederá cuando se utilice como mecanismo transitorio para evitar un perjuicio
+irremediable. En el caso del inciso anterior, el juez señalará expresamente en
+la sentencia que su orden permanecerá vigente sólo durante el término que la
+autoridad judicial competente utilice para decidir de fondo sobre la acción
+instaurada por el afectado. En todo caso el afectado deberá ejercer dicha
+acción en un término máximo de cuatro (4) meses a partir del fallo de tutela.
+().
+
+
+[22] Los presupuestos expuestos a continuación, así como referencias a la
+jurisprudencia constitucional reiteran los fundamentos y las reglas fijadas por
+la Corte en la sentencia SU-420 de 2019, reiterada en la sentencia T-445 de
+2021, T-229 de 2020, T-342 de 2020, T-373 de 2020, T-446 de 2020, entre otras. 
+
+
+[23] La Corte Constitucional ha determinado que la indefensión hace referencia a una situación relacional que
+implica la dependencia de una persona respecto de otra, por causa de una
+decisión o actuación desarrollada en el ejercicio irrazonable, irracional o
+desproporcionada de un derecho del que el particular es titular. En desarrollo
+de este concepto también se ha advertido que esta circunstancia se configura
+cuando una persona se encuentra en un estado de debilidad manifiesta frente a
+otra, de modo que, por el conjunto de circunstancias que rodean el caso, no le
+es posible defenderse ante la agresión de sus derechos. Ver, asimismo, Corte Constitucional, sentencias T-361 de 2020 y
+T-283 de 2020. 
+
+
+[24] Corte Constitucional, sentencia T-229 de 2020. 
+
+
+[25] Corte Constitucional, sentencia T-102 de 2019. 
+
+
+[26] Corte Constitucional, sentencia T-320 de 2021. 
+
+
+[27] Corte Constitucional, sentencia T-031 de 2020. 
+
+
+[28] Corte Constitucional, sentencia T-155 de 2019. 
+
+
+[29] Corte Constitucional, T-031 de 2020. 
+
+
+[30] La Sala ahondará en el análisis del requisito de subsidiariedad sobre
+la necesidad de agotar, en primer lugar, los mecanismos de autocomposición
+previstos en las normas de la comunidad de la plataforma correspondiente, en
+caso de existir. 
+
+
+[31] Corte Constitucional, sentencia C-543 de 1992.
+
+
+[32] Dado que no existe un plazo perentorio para interponer la acción de
+tutela, el término debe ser analizado por el juez en cada caso, atendiendo a
+las particulares circunstancias fácticas y jurídicas del asunto, de ahí que si
+este lapso es prolongado, deba ponderar si: (i) existe motivo válido para la
+inactividad de los accionantes, (ii) la inactividad justificada vulnera el
+núcleo esencial de los derechos de terceros afectados con la decisión, (iii)
+existe nexo causal entre el ejercicio tardío de la acción y la vulneración de
+los derechos fundamentales, y (iv) el fundamento de la acción surgió después de
+acaecida la actuación violatoria de derechos fundamentales de cualquier forma
+en un plazo no muy alejado de la fecha de interposición.
+
+
+[33] Corte Constitucional, sentencia T-320 de 2021. 
+
+
+[34] Sobre este último punto, se ha señalado
+que debe constatarse que después de la primera publicación, se presentaron
+hechos que actualizan, amplifican o intensifican los efectos de la publicación
+en los derechos fundamentales.
+
+
+[35] Ver https://es.wikipedia.org/w/index.php?title=Juan_Pablo_Gallo&action=history&offset=20200604001125%7C126642459&limit=500
+
+
+[36]Tal y como se evidencia en los siguientes enlaces: (i) https://es.wikipedia.org/w/index.php?title=Juan_Pablo_Gallo&action=history&offset=20191128044253%7C121638044&limit=100;
+y (ii) https://es.wikipedia.org/w/index.php?title=Especial:Contribuciones/Lcgarcia&target=Lcgarcia&offset=&limit=250
+
+
+[37]Ver https://es.wikipedia.org/w/index.php?title=Juan_Pablo_Gallo&action=history&offset=20191128044253%7C121638044&limit=100.
+
+
+[38] Ver
+https://es.wikipedia.org/w/index.php?title=Juan_Pablo_Gallo&action=history&dir=prev&offset=20191128041426%7C121637690.
+Aunque desde la primera publicación en la introducción del perfil sobre la
+suspensión del accionante se ha modificado la redacción, el primer contenido establecía
+lo siguiente: Juan Pablo Gallo Maya (Pereira, 31 de enero de 1979) es un economista colombiano.
+Fue Alcalde de Pereira en el período 2016  2019, no terminó su mandato ya que
+fue suspendido por la Procuraduría General de la Nación Por presunta
+participación en política, la Procuraduría General de la Nación le abrió
+investigación disciplinaria y ordenó la suspensión provisional por tres meses
+sin derecho a remuneración. La determinación fue tomada tras la grabación dada
+a conocer por Caracol Radio en la cual se escucha al dirigente en diálogo con
+un contratista apoyando la candidatura de Carlos Maya y de varios aspirantes al
+Concejo.
+
+
+[39] Expediente digital: 03ActaReparto.pdf, pág. 1. 
+
+
+[40] Expediente digital: 05AutoAdmiteTutela.pdf, pág. 2. 
+
+
+[41] Expediente digital: 01EscritoTutela.pdf, pág. 5. 
+
+
+[42] Expediente digital: 01EscritoTutela.pdf, pág. 5.
+
+
+[43] Ver https://es.wikipedia.org/wiki/Juan_Pablo_Gallo
+
+
+[44] Corte Constitucional, sentencia T-250 de 2020. Sobre la flexibilización
+del requisito de inmediatez ver, entre otras, Corte Constitucional sentencias T-521 de 2013, T-246 de 2015, SU-428 de
+2016, SU-588 de 2016 y T-407A de 2018 , T-031 de 2020 y T-320 de 2021. 
+
+
+[45] Corte Constitucional, sentencias T-571 de 2015 y T-060 de 2019, entre
+otras. 
+
+
+[46] O cuando sea una persona jurídica alegando la afectación respecto de
+una persona natural. Ver, entre otras, Corte Constitucional, sentencias T-229
+de 2020, T-339 de 2020 y T-446 de 2020. 
+
+
+[47] Exceptuando los eventos que se
+describen en el literal c) siguiente sobre periodicidad y reiteración de las
+publicaciones que puedan constituirse en hostigamiento o acoso
+
+
+[48] El mensaje aportado por el accionante se
+transcribe a continuación: No tienes permiso para
+modificar esta página, por la siguiente razón: Tu dirección IP ha sido
+bloqueada automáticamente porque fue utilizada por otro usuario, que resultó
+bloqueado por Laura Fiorucci. El motivo dado es el siguiente: Has sido
+bloqueado automáticamente porque tu dirección IP ha sido usada recientemente
+por «Abogadojoserestrepo». El motivo por el que se bloqueó a
+Abogadojoserestrepo es «Cuenta con propósito particular». Inicio del bloqueo:
+04:58 5 ene 2022, Caducidad del bloqueo: 04:58 6 ene 2022, Bloqueo destinado a:
+181.52.18.130. Puedes contactar con Laura Fiorucci o con otro de los
+administradores para discutir el bloqueo. Puedes utilizar la función «Enviar un
+mensaje de correo a este usuario» si hayas registrado una dirección de correo
+electrónico válida en tus preferencias y la función no
+haya sido también bloqueada. Tu
+dirección IP actual es 181.52.18.130, y el identificador del bloqueo es n.º
+1532355. Incluye todos los datos aquí mostrados en cualquier consulta que hagas.  Ver
+Expediente digital 01EscritoTutela.pdf, págs. 5-6. 
+
+
+[49] Ibid. De conformidad con el mensaje aportado, el accionante utilizó un
+perfil para intereses particulares, lo cual resulta en contra de las normas de
+comunidad de la plataforma de Wikipedia. 
+
+
+[50] Ibid. De conformidad con el mensaje aportado, el accionante debió
+dirigir su solicitud a Laura Fiorucci o a otro de los administradores.
+
+
+[51] Corte Constitucional, sentencia T-275 de 2021. 
+
+
+[52] De conformidad con el análisis realizado sobre las normas y políticas
+de la comunidad de Wikipedia las cuales se encuentran publicadas en la misma
+plataforma, se evidencia que dicha plataforma cuenta con un abanico de
+políticas en materia de edición de contenido, incluyendo un conjunto de normas
+de comunidad desarrollado a efectos de solucionar conflictos suscitados por
+ciertas actuaciones de editores, por el contenido publicado y también para
+casos de bloqueo de edición, entre otros. Incluso, las normas de comunidad de
+Wikipedia proveen y detallan las opciones en materia de mecanismos de
+autocomposición para la solución de conflictos a los cuales pueden acudir los
+usuarios y/o editores. Entre las formas de solución de conflictos sobre
+contenido entre usuarios y/o editores que prevé la plataforma, se encuentran,
+en el marco de la autocomposición; (i) la comunicación directa entre las partes
+facilitado por la misma plataforma; (ii) la activación de la opinión de un
+tercero; (iii) mediación de las partes por miembros de la comunidad no
+relacionados al conflicto; (iii) convocatoria a una junta de revisión (noticeboard)
+compuesta por editores no relacionados al debate en caso de que el conflicto
+surja de la presunta aplicación inadecuada de una política o guía de la
+plataforma; y (iv) convocatoria a una junta de resolución de conflictos por
+medio de la cual el conflicto es resuelto por editores no relacionados con el
+asunto que tienen experiencia en resolución de conflictos. Por último, por
+fuera del marco de la autocomposición, se prevé el arbitraje ante un tribunal
+de arbitramento compuesto por un panel de editores. Adicionalmente, la
+plataforma accionada prevé mecanismos para la resolución de conflictos de
+urgencia sobre asuntos relacionados a (i) la eliminación de contenido; (ii)
+supuestos bloqueos y rutas para el correspondiente desbloqueo; (iii)
+vandalización de contenido; (iv) uso abusivo de cuentas para promocionarse y/o
+a partes relacionadas; (v) ataques personales; y (vi) problemas relativos a la
+edición de perfiles por parte de otros usuarios.
+
+
+[53] Ibid. 
+
+
+ 
+
+
+ 
+
+
+
+
