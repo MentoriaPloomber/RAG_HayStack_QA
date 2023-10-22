@@ -1,0 +1,2970 @@
+  T-471-22  
+
+
+
+
+
+
+
+
+NOTA DE RELATORÍA. Mediante Auto 1852 de 2023 de la Sala Quinta de Revisión de
+la Corte Constitucional, el cual se anexa en la parte final, se dispuso aclarar
+el término "devolución de los saldos" contenido en el numeral tercero
+del resuelve de la presente providencia, en el entendido que se refiere a los
+aportes realizados por el accionante en el período indicado en dicho
+numeral. 
+ 
+ 
+Sentencia T-471/22
+ 
+ACCIÓN DE TUTELA CONTRA
+PROVIDENCIAS JUDICIALES PARA EL RECONOCIMIENTO DE LA PENSIÓN DE VEJEZ-Incompatibilidad
+entre la indemnización sustitutiva pagada y las cotizaciones posteriores
+realizadas por el accionante 
+ 
+() no se configuró un defecto fáctico
+en la sentencia , proferida por la Sala Laboral
+del Tribunal Superior del Distrito de Bogotá, pues dicho estrado
+judicial decidió con base en las pruebas allegadas al proceso, de las que
+razonablemente se infiere que el accionante (i) no cumple con los requisitos
+para acceder a una pensión de vejez, y (ii) no es plausible acceder a la
+solicitud de que sean tenidos en cuenta los tiempos cotizados, liquidados y
+pagados en la indemnización sustitutiva de vejez que se le reconoció el 29 de
+julio de 1994.
+ 
+ACCION DE TUTELA PARA RECONOCIMIENTO DE
+PRESTACIONES PENSIONALES-Procedencia excepcional
+ 
+(), múltiples pronunciamientos de
+esta corporación han señalado que tratándose de accionantes en condiciones de
+debilidad manifiesta, ya sea por su condición económica, física o mental, han
+permitido flexibilizar el requisito de subsidiariedad, siempre y cuando se
+encuentre acreditada la amenaza, vulneración o grave afectación de derechos
+fundamentales y no se puedan proteger a través del proceso judicial natural, ya
+que puede resultar aún más gravoso o lesivo a los derechos.
+ 
+ACCION DE
+TUTELA CONTRA PROVIDENCIAS JUDICIALES-Requisitos
+generales y especiales de procedibilidad
+ 
+DEFECTO
+FACTICO-Configuración/DEFECTO FACTICO-Dimensión negativa y positiva 
+ 
+DERECHO AL RECONOCIMIENTO
+PENSIONAL-Regla general de incompatibilidad entre prestaciones del Sistema
+de Seguridad Social   
+ 
+DERECHO AL RECONOCIMIENTO
+PENSIONAL-Excepciones a la regla general de incompatibilidad entre
+prestaciones del Sistema de Seguridad Social (pensión de vejez)
+ 
+() es
+posible que a un afiliado al que se le reconoció una indemnización sustitutiva
+de vejez o una devolución de saldos, acceda posteriormente a una pensión de
+vejez, solo si su situación se ajusta en alguno de los tres supuestos
+desarrollados por la ley y la jurisprudencia: (a) el afiliado causó el derecho
+pensional antes de que se reconociera la indemnización; (b) el fondo pensional
+empleó un requisito inconstitucional o una norma sustantiva inaplicable al
+momento de realizar el estudio pensional; y (c) el afiliado siguió cotizando al
+sistema después del reconocimiento de la indemnización hasta cumplir con los
+requisitos para acceder a la pensión. En esta última situación, si el afiliado
+cobró la indemnización no se tendrán en cuenta las semanas que le fueron pagadas
+en dicha prestación; pero, si decidió no cobrarla, podrán tenerse en cuenta en
+el cálculo de las semanas para el reconocimiento de la pensión.
+ 
+SISTEMA DE PENSIONES EN
+COLOMBIA-Desarrollo de la seguridad social/PENSION DE VEJEZ-Requisitos
+según Acuerdo 049 de 1990, aprobado
+por el Decreto 758 de 1990
+ 
+REGIMEN
+PENSIONAL CON POSTERIORIDAD A LA ENTRADA EN VIGENCIA DE LA LEY 100/93
+ 
+PENSION DE VEJEZ Y REGIMEN DE
+TRANSICION PREVISTO EN LA LEY 100/93-Reiteración de jurisprudencia
+ 
+ 
+ 
+Referencia: Expediente T-7.977.326
+ 
+Acción de tutela interpuesta por Héctor Villarreal Morillo
+en contra de la Sala Laboral del Tribunal Superior de Bogotá.
+ 
+Magistrado ponente:
+ALEJANDRO LINARES CANTILLO
+ 
+ 
+Bogotá D.C., diecinueve
+(19) de diciembre de dos mil veintidós (2022)
+ 
+ 
+La Sala Tercera de
+Revisión de la Corte Constitucional, integrada por la magistrada Paola Andrea
+Meneses Mosquera y los magistrados Antonio José Lizarazo Ocampo y Alejandro
+Linares Cantillo, quien la preside, en ejercicio de sus competencias
+constitucionales y legales, ha proferido la siguiente:
+ 
+SENTENCIA
+ 
+En el trámite de
+revisión de los fallos de la Sala Laboral y Sala Penal de la Corte Suprema de
+Justicia, en primera y segunda instancia respectivamente, dentro de la acción
+de tutela presentada por Héctor Villarreal Morillo en contra de la Sala Laboral
+del Tribunal Superior de Bogotá.
+ 
+I.            
+ANTECEDENTES
+ 
+A.         
+LA
+DEMANDA DE TUTELA
+ 
+El 18 de noviembre de 2019, Héctor Villarreal Morillo (en
+adelante, HVM) interpuso acción de tutela[1] contra la Sala Laboral del Tribunal Superior de Bogotá. A
+su criterio, la accionada vulneró sus derechos fundamentales
+al debido proceso y a la seguridad social al revocar la decisión de primera
+instancia, en la que se ordenó el reconocimiento y pago de una pensión de vejez
+a su favor, en el proceso ordinario laboral que instauró en contra de Colpensiones.
+HVM considera cumplir con los requisitos para acceder a la pensión de vejez
+consagrados en el artículo 12 del Acuerdo 049 de 1990.
+ 
+B.          
+HECHOS
+RELEVANTES
+ 
+1.           
+El accionante nació el 12
+de abril de 1927[2]. Afirmó en el trámite de tutela[3], encontrarse en una situación de alta
+vulnerabilidad por su estado de pobreza al no poseer ingresos de ninguna clase[4].
+ 
+2.           
+El 6 de agosto de 1992,
+HVM reclamó ante el Instituto de Seguros Sociales, hoy Colpensiones, el
+reconocimiento de una pensión o indemnización por vejez[5] (subrayas fuera del texto original) al
+considerar que cumplió con los requisitos exigidos por el artículo 12 del
+Acuerdo 049 de 1990[6].
+ 
+3.           
+El 25 de enero de 1993, el
+Instituto de Seguros Sociales (en adelante, ISS) profirió la Resolución 000209
+de 1993, por medio de la cual se negó el reconocimiento de la pensión o
+indemnización de HVM. Frente a la pensión de vejez, señaló que no cumple con
+los requisitos exigidos por el Acuerdo 049 de 1990 ya que de las 505
+semanas cotizadas, solamente 488 fueron dentro de los últimos 20 años
+anteriores al cumplimiento de la edad mínima indicada[7]. La indemnización sustitutiva de pensión
+también fue negada por cuanto la acción para su reconocimiento prescribió
+al transcurrir más de un año entre la fecha de causación del derecho y la
+presentación de la solicitud[8].
+ 
+4.           
+El 10 de febrero de 1994,
+HVM solicitó el reconocimiento de la pensión de jubilación y manifestó
+que dicha petición la realizaba a raíz de la negación de dicha Pensión e
+Indemnización según Resolución No. 0000209 de 1993 del I.S.S ()[9] (subrayas fuera del texto original).
+ 
+5.           
+El 29 de julio del mismo
+año, el ISS profirió la Resolución 011690 de 1994, por medio de la cual negó el
+reconocimiento de la pensión y con base en lo establecido en el Acuerdo 049 de
+1990, concedió la indemnización sustitutiva de la pensión por vejez por un
+valor de $1.711.710. En el artículo tercero, se estableció que una vez
+recibida la indemnización concedida por ésta resolución, el(a) asegurad(o) no
+podrá inscribirse nuevamente en el Seguro de IVM [10].
+ 
+6.           
+Durante el 1º de febrero
+de 1998 hasta el 30 de abril de 2007, HVM siguió trabajando y cotizando al
+sistema de seguridad social.
+ 
+7.           
+El 24 de mayo de 2010, HVM
+pidió[11] al ISS el desarchivo de su carpeta
+pensional y la realización de un nuevo estudio para el
+reconocimiento de una pensión de vejez, al considerar que cumple con los
+requisitos del artículo 7 de la Ley 71 de 1988 para obtener la prestación.
+Mediante la Resolución 036370 del 10 de octubre de 2011, el ISS negó una vez más
+la solicitud del accionante por no cumplir los requisitos legales para acceder
+a su pretensión[12].
+ 
+8.           
+El 12 de mayo de 2017, HVM[13] solicitó por tercera vez ante Colpensiones,
+un nuevo estudio para el reconocimiento y pago de la pensión de vejez, esta vez
+conforme a lo estipulado en el Acuerdo 224 de 1966 y el Acuerdo 016 de 1983.
+Dicha solicitud fue resuelta de manera desfavorable al no acreditarse los
+requisitos exigidos en esos acuerdos para el reconocimiento de la pensión a
+través de la Resolución SUB-145679 del 31 de julio de 2017[14].
+ 
+9.           
+El 6 de abril de 2018, HVM
+interpuso demanda ordinaria laboral contra Colpensiones con la pretensión de
+que se le reconozca y pague una pensión de vejez al considerar que cumple con
+los requisitos de los Acuerdos 224 de 1966, 016 de 1983 o 049 de 1990 para el
+reconocimiento de la prestación. La demanda fue repartida en primera instancia
+al Juzgado 20 Laboral del Circuito de Bogotá.
+ 
+10.       
+ El 12 de septiembre de
+2018, el juez accedió a las pretensiones del HVM y condenó a la demandada a
+reconocer y pagar una pensión de vejez[15]. Concluyó que si bien el demandante no cumple con los
+requisitos para el reconocimiento de la pensión con base en los Acuerdos 224 de
+1966 y 016 de 1983, sí cumplió con los requisitos de tiempo y edad que exigen
+el Acuerdo 049 de 1990, toda vez que en múltiples pronunciamientos la
+honorable Corte Suprema de Justicia Sala Laboral, ha manifestado que recibir
+una indemnización sustitutiva o la devolución de los aporte no elimina el
+derecho a recibir una pensión[16] por lo que Colpensiones debió contabilizar las semanas que
+le fueron reconocidas a través de la indemnización sustitutiva de vejez. HVM[17] y Colpensiones[18] apelaron la decisión.
+ 
+11.       
+El 28 de mayo de 2019, la
+Sala Laboral del Tribunal Superior de Bogotá revocó la decisión de primera
+instancia al considerar que HVM no cumplió con las 1000 semanas exigidas por el
+Acuerdo 049 de 1990. A su criterio, el artículo 6 del Decreto 1730 de 2001 y la
+jurisprudencia de la Corte Suprema de Justicia prohíben que en el caso concreto,
+se contabilicen las semanas que le fueron reconocidas y pagadas en la
+indemnización sustitutiva de vejez en 1994. En consecuencia, el estudio
+pensional debe realizarse a partir del periodo cotizado entre 1º de febrero de
+1998 y 30 de abril de 2007[19]. Contra esta decisión no se instauró recurso
+extraordinario de casación.
+ 
+12.       
+El 18 de noviembre de
+2019, HVM interpuso acción de tutela contra la Sala Laboral del Tribunal
+Superior de Bogotá. Señaló el accionante que la decisión vulneró sus derechos
+fundamentales al debido proceso y a la seguridad social,
+pues asegura que sí cumple con las exigencias del Acuerdo 049 de 1990 para acceder
+a la pensión de vejez. Al respecto refirió que (i) no obra prueba en el
+expediente del proceso que demuestre que reclamó una pensión o indemnización sustitutiva
+de vejez; (ii) la solicitud que realizó el 10 de febrero de 1994 fue
+para solicitar el reconocimiento de la pensión de jubilación; y (iii) ni
+el cobro de la indemnización avala la legalidad del reconocimiento prestacional
+por no estar precedido de una solicitud ni de la desafiliación definitiva del
+sistema y más bien se constituye en un pago de lo no debido que se soluciona
+con la devolución de la suma pagada[20].
+ 
+C.         
+RESPUESTA
+DE LA ENTIDAD ACCIONADA Y TERCEROS VINCULADOS
+ 
+13.       
+En el trámite de la acción
+de tutela se vinculó al Juzgado 20 Laboral del Circuito de Bogotá, a la
+Administradora Colombiana de Pensiones y demás partes intervinientes del
+proceso laboral. Sin embargo, ninguno respondió en término a la acción[21].
+ 
+D.         
+DECISIONES
+JUDICIALES OBJETO DE REVISIÓN
+ 
+Primera instancia: Sentencia proferida por la
+Sala Laboral de la Corte Suprema de Justicia[22]
+ 
+14.       
+El 27 de noviembre de
+2019, la Sala Laboral de la Corte Suprema de Justicia declaró improcedente el amparo de los derechos
+fundamentales solicitados. Señaló
+que no se cumple con el requisito de subsidiariedad toda vez que HVM no
+interpuso el recurso extraordinario de casación contra la decisión atacada y no
+se observa la ocurrencia de un perjuicio irremediable que permitiera la
+intervención del juez constitucional[23].
+ 
+Impugnación[24]
+ 
+15.       
+El 22 de enero de 2020, la
+apoderada de HVM impugnó la decisión de primera instancia. A su juicio, la Sala
+Laboral de la Corte Suprema de Justicia desconoció que, debido a los 92 años
+del accionante, el recurso extraordinario de casación se torna ineficaz ya que
+HVM se ubica en la condición de debilidad manifiesta () [y] si está
+enfrentado a la eventual consumación de un perjuicio irremediable, su deceso[25].
+ 
+Segunda
+instancia: Sentencia proferida por la Sala Penal de la Corte Suprema de
+Justicia[26]
+ 
+16.       
+El 10 de marzo de 2020, la
+Sala Penal de la Corte Suprema de Justicia confirmó el fallo recurrido, pero
+con distintos argumentos. Refirió que sí se cumple con el requisito de
+subsidiariedad ya que HVM es un sujeto de especial protección constitucional
+debido a su edad y a su estado de debilidad manifiesta económica. Sin embargo, consideró
+que la decisión atacada es conforme a la jurisprudencia aplicable al caso
+concreto y las pruebas allegadas.
+ 
+E.          
+ACTUACIONES ADELANTADAS POR LA CORTE
+CONSTITUCIONAL Y PRUEBAS RECAUDADAS EN SEDE DE REVISIÓN
+ 
+17.       
+El 30 de noviembre de
+2020, la Sala de Selección de Tutelas Número Seis dispuso la selección para
+revisión del presente asunto y se le asignó la sustanciación a la Sala Tercera
+de Revisión, presidida por el Magistrado Alejandro Linares Cantillo.
+ 
+18.       
+Con ocasión de la
+emergencia sanitaria ocasionada por la pandemia derivada por el COVID-19, el
+Consejo Superior de la Judicatura suspendió los términos desde el 16 de marzo
+de 2020[27] hasta el 30 de julio de ese año[28], los cuales volvieron a correr a partir de
+esta última fecha.
+ 
+19.       
+El 15 de abril de 2021, con el fin de contar con nuevos elementos de
+juicio y de conformidad con lo dispuesto en el artículo 64 del Acuerdo 02 de
+2015[29], la Sala de Revisión suspendió los términos
+del proceso por () tres (3) meses y requirió a las partes a responder
+lo siguiente:
+ 
+PRIMERO-. Por Secretaría
+General de esta Corte, REQUERIR al accionante, señor Héctor Villarreal
+Morillo, para que dentro de los tres (3) días hábiles siguientes a la
+comunicación del presente auto, se sirva:
+(i) Informar al despacho la
+conformación de su grupo familiar, especialmente si tiene hijos, qué edades
+tienen y si habitan en la misma vivienda;
+(ii) Manifestar si recibe de
+alguno de sus hijos, en caso de tenerlos, aportes económicos, en dinero o en
+especie, para su subsistencia;
+(iii) Hacer una breve
+relación de ingresos y gastos y explicar las condiciones económicas asociadas a
+la atención de sus necesidades;
+(iv) Manifestar si para el
+momento de comunicación del presente auto sigue recibiendo el auxilio de adulto
+mayor referido en el proceso de tutela;
+(v) Manifestar si es
+propietario de bienes sujetos a registro;
+(vi) Manifestar si reclamó o
+cobró alguna indemnización sustitutiva a él reconocida por alguna de las
+entidades que componen el Sistema General de Seguridad Social en pensiones;
+(vii) Manifestar si después
+del mes de abril de 2007 ha realizado alguna cotización al Sistema General de
+Seguridad Social en pensiones;
+(viii) Manifestar si se
+inició el trámite de casación respecto del reconocimiento pensional solicitado
+(interposición del recurso, sustentación, etc.) y en caso negativo, las razones
+por las cuales no se adelantó.
+ 
+SEGUNDO. Por Secretaría General de
+esta Corte, REQUERIR a la Administradora Colombiana de Pensiones
+Colpensiones, para que dentro de los tres (3) días hábiles siguientes a la
+comunicación del presente auto, se sirva:
+(i) Informar al despacho
+sustanciador si ella o las entidades que la antecedieron reconocieron al
+accionante, señor Héctor Villarreal Morillo, una indemnización sustitutiva;
+(ii) En caso afirmativo,
+explicar cómo el reconocimiento de tal prestación habría sido solicitado por el
+accionante, aportando los documentos que sustenten su afirmación;
+(iii) En caso afirmativo,
+manifestar si el señor Héctor Villarreal Morillo reclamó o cobró la
+indemnización sustitutiva y cuándo lo habría hecho, explicando cómo se realizó
+el desembolso y pago de los recursos correspondientes.
+ 
+Respuestas
+suministradas por el accionante[30]
+ 
+20.       
+El 27 de abril de 2021,
+HVM dio contestación a lo solicitado. Manifestó que su núcleo familiar se
+compone por sus dos hijos[31], de los que recibe un aporte económico aproximado
+de $350.000. Asimismo, es beneficiario de los subsidios del programa
+Colombia Mayor y la devolución del IVA; y sus gastos son $200.000 en
+arriendo de la habitación y el saldo lo distribuy[e] entre alimentación
+y transporte. Aseveró que sí cobró la indemnización sustitutiva de pensión
+de vejez, aunque nunca la solicitó. Por último, señaló que no siguió cotizando
+porque para abril de 2007 ya había cumplido las 1000 semanas y que
+desconoce los motivos por los cuales su abogada decidió no presentar el recurso
+de casación.
+ 
+Información
+suministrada por Colpensiones[32]
+ 
+21.       
+El 25 de marzo de 2021, el
+Gerente de Defensa Judicial de Colpensiones dio respuesta al requerimiento[33]. Primero, informó respecto de las actuaciones
+que ha realizado HVM ante el ISS y ante la entidad. Al respecto, resaltó que el
+accionante no negó haber reclamado o cobrado la indemnización sustitutiva
+de vejez por lo que en principio no sería procedente tener en cuenta
+las cotizaciones realizadas con posterioridad al reconocimiento de dicha
+prestación. Segundo, detalló las razones por las que HVM no cumple
+con ninguno de los requisitos establecidos en los Acuerdos 224 de 1966 y 049 de
+1990. Por último, solicitó confirmar el fallo de tutela de segunda instancia al
+considerar que está ajustado al ordenamiento jurídico.
+ 
+II.         
+CONSIDERACIONES
+ 
+A.         
+COMPETENCIA
+ 
+22.       
+La Sala Tercera de
+Revisión es competente para conocer de la presente acción de tutela, de
+conformidad con lo establecido en los artículos 86 y 241 numeral 9 de la
+Constitución Política, en los artículos 31 a 36 del Decreto 2591 de 1991, y en
+virtud del Auto del 14 de febrero de 2020 proferido por la Sala de Selección de
+Tutelas Número Seis.
+ 
+B.          
+CUESTIÓN
+PREVIA: PROCEDIBILIDAD DE LA ACCIÓN DE TUTELA CONTRA PROVIDENCIAS JUDICIALES. REITERACIÓN
+JURISPRUDENCIAL
+ 
+22.           
+La acción de tutela tiene un carácter residual y subsidiario[34],
+razón por la cual solo procede excepcionalmente como mecanismo de protección definitivo
+en los casos que (i) el posible afectado no disponga de otro medio de
+defensa judicial y (ii) cuando existiendo, ese medio carece de idoneidad
+o eficacia para proteger de forma adecuada, oportuna e integral los derechos
+fundamentales. De otro lado, procede como mecanismo transitorio para
+evitar un perjuicio irremediable, extendiéndose la protección hasta que se
+produzca una decisión por parte del juez natural del asunto[35].
+ 
+23.           
+Sin embargo, si la
+afectación de los derechos fundamentales es consecuencia de una providencia
+judicial, la Corte Constitucional ha precisado que la tutela procede con base
+en el artículo 86 de la Constitución[36], pero tal posibilidad debe evitar que la acción se
+transforme en un mecanismo ordinario o instancia adicional a los procesos
+judiciales, pues con ello se afectaría la autonomía e independencia judicial de
+los jueces y la seguridad del ordenamiento jurídico.
+ 
+24.           
+Por lo anterior, al
+momento de estudiar la procedibilidad de la acción de tutela instaurada en
+contra de una providencia judicial, la jurisprudencia constitucional desarrolló
+unos requisitos generales y unas causales específicas que de no cumplirse,
+tornarían improcedente el amparo.
+ 
+25.           
+Los requisitos generales de procedibilidad[37] de
+la acción de tutela contra providencias judiciales son los
+siguientes:
+ 
+(i)         
+Que exista legitimación en la causa, tanto por activa como
+por pasiva. 
+(ii)       
+Que exista un término razonable y proporcionado entre la
+interposición de la tutela y el hecho que originó la vulneración, cumpliendo
+así el requisito de inmediatez.
+(iii)    
+Que cumpla con el carácter subsidiario de la acción, es
+decir, que se hayan agotado todos los medios de defensa judicial al alcance del
+afectado, salvo que se trate de evitar un perjuicio irremediable.
+(iv)     
+Que la cuestión discutida tenga relevancia constitucional,
+lo que exige establecer objetivamente qué asuntos competen al fallador del
+amparo y cuáles son de conocimiento de los jueces ordinarios, por lo que el
+debate planteado debe girar en torno al contenido, alcance y goce de los
+derechos fundamentales.
+(v)        
+Que el
+accionante cumpla con las cargas
+argumentativas y explicativas mínimas, que permita identificar los derechos
+fundamentales afectados y los hechos que generan la vulneración. 
+(vi)     
+Que no se trate de sentencias de tutela, sentencias de control abstracto
+de constitucionalidad de la Corte Constitucional, ni sentencias de nulidad por
+inconstitucionalidad del Consejo de Estado. 
+(vii)   
+En los casos que se trate de una irregularidad procesal, debe precisarse que la misma conlleva
+un efecto decisivo o determinante en la sentencia que se impugna y que afecta
+los derechos fundamentales de la parte actora.
+ 
+26.           
+Adicional
+a estos requisitos generales, la tutela contra providencia judicial debe
+cumplir con, al menos, una de las causales específicas denominadas por
+la jurisprudencia como defectos:
+ 
+
+
+
+
+
+Defectos de providencias
+   judiciales[38]
+
+
+
+
+
+Defecto orgánico
+
+
+Este
+  defecto se configura cuando una persona o un asunto son juzgados por un juez que
+  carece de manera absoluta de competencia para ello, conforme a lo previsto en
+  las normas procesales prexistentes.
+
+
+
+
+Defecto procedimental absoluto
+
+
+Este
+  defecto ocurre cuando el funcionario judicial se aparta por completo del
+  procedimiento legalmente establecido, bien sea porque sigue un trámite ajeno
+  al pertinente -y en esa medida equivoca la orientación del asunto-, o porque
+  omite etapas del procedimiento establecido.
+
+
+
+
+Defecto procedimental por exceso ritual
+  manifiesto
+
+
+Este
+  defecto se genera cuando el funcionario utiliza o concibe los procedimientos
+  como un obstáculo para la eficacia del derecho sustancial, de tal suerte que
+  sus actuaciones devienen en una denegación de justicia.
+
+
+
+
+Defecto fáctico
+
+
+Este
+  defecto ocurre tanto en dimensión negativa, como positiva. El
+  primer caso se presenta cuando el juez carece de apoyo probatorio que permita
+  aplicar los argumentos legales en los que sustenta la decisión, valora de
+  forma absolutamente irrazonable la prueba recaudada o rehúsa ilegítimamente
+  el decreto de alguna prueba crucial para alguna de las partes. El segundo
+  escenario se presenta cuando se decide con base en pruebas inexistentes, se
+  valoran pruebas ilícitas o se decretan otras de manera irregular.
+
+
+
+
+Defecto material o
+  sustantivo
+
+
+Este
+  defecto se configura en aquellos casos en los cuales el juez decide con base
+  en normas inexistentes o inexequibles, o cuando las providencias judiciales
+  presenten una evidente y grosera contradicción entre la norma aplicada y la decisión.
+
+
+
+
+Error inducido o vía de hecho por
+  consecuencia
+
+
+Este
+  defecto acaece cuando, a pesar del obrar razonable y ajustado a derecho del
+  juez, su decisión se afecta por el engaño de terceros, por fallas
+  estructurales en la Administración de Justicia o por ausencia de colaboración
+  entre los órganos del poder público.
+
+
+
+
+Decisión sin motivación
+
+
+Este
+  defecto sucede en los casos que el juez incumple su deber de dar cuenta de
+  los fundamentos fácticos y jurídicos que soportan su decisión, o habiendo
+  motivado la providencia, los argumentos presentados no corresponden con la
+  decisión efectivamente adoptada.
+
+
+
+
+Desconocimiento del precedente
+
+
+Este
+  defecto aparece en los casos que la Corte establece el alcance de un derecho
+  fundamental y el juez aplica la ley limitando de manera sustancial dicho
+  alcance, se desconocen providencias de unificación de las altas cortes o
+  sentencias con efectos erga omnes.
+
+
+
+
+Violación directa de la Constitución
+
+
+Este
+  defecto se realiza cuando el juez da alcance a una disposición normativa
+  contraria a la Constitución, o cuando el juez no ejerce el control de
+  constitucionalidad difuso, vía excepción de inconstitucionalidad, a pesar de
+  ser evidente la inconstitucionalidad de la norma aplicable y a que lo haya
+  solicitado alguno de los sujetos procesales.
+
+
+
+
+ 
+Procedencia de la acción de tutela  Caso concreto
+ 
+27.           
+Legitimación
+por activa: El
+artículo 86 de la Constitución y el artículo 10 del Decreto 2591 de 1991
+permiten que la tutela sea instaurada en todo momento y lugar, por cualquier
+persona directamente afectada o amenazada en uno de sus derechos fundamentales.
+En el caso concreto, HVM está legitimado en la causa por activa ya que ejerció
+la acción a través de apoderada con el propósito de proteger sus derechos
+fundamentales al debido
+proceso y a la seguridad social[39].
+ 
+28.           
+Legitimación por
+pasiva: Esta corporación ha señalado[40] que para satisfacer el requisito de
+legitimación en la causa por pasiva es necesario acreditar dos elementos: (i)
+que se trate de uno los sujetos respecto de los cuales procede el amparo; y (ii)
+que la conducta que genera la vulneración o amenaza del derecho se pueda
+vincular, directa o indirectamente, con su acción u omisión. En el caso que nos
+ocupa, se observa que se cumple con este requisito dado que la acción se
+instauró en contra de la Sala Laboral del Tribunal Superior del Distrito de
+Bogotá, autoridad pública[41] a la que se acusa de vulnerar los derechos de
+HVM por revocar la decisión que le reconoció una pensión de vejez.
+ 
+29.           
+Inmediatez: El artículo 86 de la Constitución dispone que la tutela podrá ser ejercida en todo
+momento. Sin embargo, la jurisprudencia constitucional precisó que aunque no es
+posible consagrar un plazo o término para su instauración[42] dada la vocación de la acción para ser una
+respuesta inmediata a una violación o amenaza del derecho, este término debe
+ser un tiempo prudente y razonable a partir la existencia del hecho que amenaza
+o vulnera los derechos[43]. Así,
+al no existir un término de caducidad, la Corte consideró que en las tutelas
+contra providencia judicial un término de seis (6) meses podría
+resultar suficiente para declarar la tutela improcedente[44].
+ 
+30.           
+En el caso bajo
+examen se observa que entre el 28 de mayo de 2019, día que la Sala Laboral del
+Tribunal Superior de Bogotá profirió la sentencia de segunda instancia; y el 18
+de noviembre de 2019, día en el que HVM interpuso la acción de tutela,
+transcurrieron 5 meses y 18 días, plazo que se considera razonable para el
+cumplimiento del requisito de inmediatez.
+ 
+31.           
+Subsidiariedad:
+De conformidad con los artículos 86 de la Constitución y 6° del
+Decreto 2591 de 1991, la tutela es improcedente si existe un mecanismo de
+defensa idóneo y eficaz para resolver el problema jurídico sometido a decisión
+y no existe el riesgo de que opere un perjuicio irremediable respecto de los
+derechos alegados. A esta regla general, se adicionan dos hipótesis específicas
+que se derivan de la articulación de los citados conceptos, conforme a las
+cuales: (i) el amparo es procedente de forma definitiva,
+si no existen medios judiciales de protección que sean idóneos y eficaces para
+resolver el asunto sometido a consideración del juez; y, por el contrario, (ii)
+es procedente de manera transitoria, en el caso en que la persona
+disponga de dichos medios, pero exista la posibilidad de que se configure un
+perjuicio irremediable[45], situaciones
+en las que la protección se extenderá hasta tanto se produzca una decisión
+definitiva por parte del juez ordinario.
+ 
+32.           
+En las
+situaciones de tutela contra providencias judiciales, la jurisprudencia
+constitucional ha señalado que la tutela es improcedente cuando es utilizada
+como mecanismo alterno a los procesos judiciales ordinarios o cuando se
+pretende reabrir términos procesales por no haberse interpuesto oportunamente
+los recursos de ley o no haberse utilizado los procedimientos correspondientes
+al interior del proceso. En síntesis,
+es requisito del accionante agotar todas las instancias, solicitudes y recursos
+que tiene a su disposición dentro del ordenamiento jurídico.
+ 
+33.           
+Una vez aplicada la
+metodología de tasación[46] del interés jurídico de la Sala de Casación
+Laboral para determinar la procedencia del recurso extraordinario de casación
+contra la sentencia del 28 de mayo de 2019 de la Sala Laboral del Tribunal
+Superior de Bogotá, la Sala concluyó que en el presente caso, la sentencia sí
+era susceptible de dicho recurso al superar la cuantía establecida en el
+artículo 86 del Código Procesal del Trabajo y de la Seguridad Social[47]. No obstante, HVM no agotó el mencionado
+recurso ya que: (i) no realizó ninguna manifestación en la audiencia en la que se dictó la
+sentencia cuando se le preguntó sí tenía alguna discordancia con la decisión; y
+(ii) tampoco allegó por escrito alguna solicitud posterior[48].
+ 
+34.           
+A pesar de lo anterior, debido
+a sus particularidades, la Sala considera satisfecho el principio de
+subsidiariedad. En efecto, múltiples pronunciamientos de esta corporación han
+señalado que tratándose de accionantes en condiciones de debilidad manifiesta,
+ya sea por su condición económica, física o mental, han permitido flexibilizar
+el requisito de subsidiariedad, siempre y cuando se encuentre acreditada la
+amenaza, vulneración o grave afectación de derechos fundamentales y no se puedan
+proteger a través del proceso judicial natural, ya que puede resultar aún más
+gravoso o lesivo a los derechos[49].
+ 
+35.           
+En el caso concreto, la
+Sala encuentra que el recurso extraordinario de casación no es un medio eficaz[50] para la
+protección de los derechos de HVM. Si bien, la edad de las personas no
+constituye per se razón suficiente para la procedencia de la
+tutela, las especiales circunstancias de HVM hacen que esta acción sea el mejor
+medio para proteger sus derechos fundamentales. Esto con base en lo siguiente:
+ 
+36.           
+Primero, HVM es un sujeto de especial protección
+constitucional debido a su edad. A la fecha que instauró la tutela tenía 91
+años, es decir, había superado por más de 12 años la esperanza de vida al nacer[51] de los hombres en Colombia. Su avanzada edad
+supone que la obligación de agotar el recurso extraordinario de casación
+resultaría desproporcionada, teniendo en cuenta la duración que dicho trámite
+supondría.
+ 
+37.           
+Segundo, HVM también está en situación de
+vulnerabilidad por su situación económica, ya que hace parte del grupo de
+pobreza moderada según el SISBEN 4 y sus
+ingresos mensuales no alcanzan a medio salario mínimo.
+ 
+38.           
+Por último, para esta Sala es claro que HVM desplegó un
+grado mínimo de diligencia con el fin de proteger sus derechos al mínimo vital
+y a la seguridad social. Esto se evidencia con las múltiples peticiones que ha
+presentado a Colpensiones con el fin de solicitar el reconocimiento pensional, además
+de haber acudido a la jurisdicción ordinaria en su especialidad laboral, con el
+fin de obtener la misma prestación.
+ 
+39.           
+En ese orden ideas, la
+Sala advierte que la acción de tutela interpuesta por HVM cumple con el
+requisito de subsidiariedad, pues por las circunstancias ya expuestas, no
+resulta razonable ni proporcionado exigirle al accionante acudir al recurso
+extraordinario de casación laboral. En este caso, la espera podría agravar su
+situación y aumentar el riesgo de afectación de sus derechos fundamentales.
+ 
+40.           
+Tipo de decisión
+judicial cuestionada en la tutela: En principio, la acción de tutela no procede contra tres
+tipos de providencias: (i) las que resuelven otra acción de tutela; (ii) las que se den en el marco de control abstracto de
+constitucionalidad de la Corte; y (iii) las
+que deciden una acción de nulidad por inconstitucionalidad por parte del
+Consejo de Estado. El asunto bajo estudio cumple este requisito, en la medida
+que la tutela de HVM cuestiona una sentencia proferida por la Sala Laboral del
+Tribunal Superior de Bogotá en el marco de un proceso ordinario laboral.
+ 
+41.           
+Relevancia constitucional: La Sala Plena[52] de
+esta corporación ha establecido tres criterios que ayudan a determinar sí una
+tutela contra providencia judicial cumple con el requisito de relevancia
+constitucional: (i) la controversia debe versar sobre un asunto
+constitucional y no meramente legal y/o económico; (ii) el debate
+jurídico debe girar en torno al contenido, alcance y goce de algún derecho
+fundamental; y (iii) la acción no puede utilizarse como una instancia o
+recurso adicional para reabrir debates legales.
+ 
+42.           
+Al aplicar estos tres criterios al caso bajo examen, la Sala advierte
+que también se cumple el requisito de relevancia constitucional ya que: (i) la
+controversia de la tutela versa sobre un asunto constitucional que es el
+reconocimiento de una pensión de vejez a un adulto mayor que afirma tener
+derecho; (ii) el debate jurídico, además de apuntar a la violación del
+debido proceso, también refiere a una posible vulneración de los derechos a la
+seguridad social y mínimo vital del accionante: y (iii) la tutela versa
+sobre un posible defecto fáctico y, prima facie, no se presenta como una
+instancia adicional para reabrir el debate probatorio.
+ 
+43.           
+Cargas argumentativas y explicativas mínimas: En
+los casos de tutela contra providencia judicial, corresponde a la parte
+accionante cumplir una carga argumentativa mínima que permita identificar de
+manera razonable los derechos fundamentales afectados y los hechos que generan
+tal vulneración[53]. En
+esta ocasión, HVM señaló con claridad los presupuestos fácticos del caso, así
+como las razones en las cuales sustenta la afirmación de que le fueron
+vulnerados sus derechos fundamentales.
+ 
+44.           
+En concreto, HVM considera que no existe prueba en el expediente
+que demuestre que reclamó una pensión o indemnización sustitutiva de vejez ante
+el ISS, por lo que el Tribunal accionado erró al concluir que él había
+solicitado la indemnización que el ISS le reconoció y pagó a través de la
+Resolución 011690 del 29 de julio
+de 1994.
+ 
+45.           
+Irregularidad procesal:
+En el asunto objeto de
+estudio este presupuesto no es aplicable, por cuanto, los yerros que se
+endilgan a la sentencia cuestionada son de carácter fáctico.
+ 
+46.           
+Una vez acreditados los requisitos generales de procedencia de la
+tutela contra providencia judicial, la Sala procederá entonces a continuar con
+el análisis del caso.
+ 
+C.         
+PLANTEAMIENTO
+DEL PROBLEMA JURÍDICO, MÉTODO Y ESTRUCTURA DE LA DECISIÓN
+ 
+47.           
+Acorde con los fundamentos
+fácticos expuestos en la Sección I anterior de esta providencia, le corresponde
+a la Sala Tercera de Revisión determinar si en el presente asunto: ¿Incurrió la
+Sala Laboral del Tribunal Superior del Distrito de Bogotá en un defecto fáctico
+que vulneró los derechos fundamentales al debido proceso y a la seguridad
+social del accionante, al no valorar adecuadamente el material probatorio
+allegado al proceso ordinario laboral y determinar que no es posible tener en
+cuenta en el estudio pensional, las semanas cotizadas que le fueron liquidadas
+y pagadas a HVM en la Resolución 11690 de 1994, por medio de la cual se le
+reconoció una indemnización sustitutiva de vejez?
+ 
+48.           
+Con el fin de resolver el problema
+jurídico planteado por la Sala, en primer lugar, se procederá a: (i) caracterizar
+el defecto fáctico, (ii) señalar la incompatibilidad general de la
+pensión de vejez con la indemnización sustitutiva o devolución de saldos y sus
+excepciones, e (iii) identificará los requisitos para acceder a la
+pensión de vejez con base en los Acuerdos 224 de 1966, 016 de 1983, 049 de 1990
+y la Ley 100 de 1993. Por último, procederá (iv) a resolver el caso
+concreto con base en estas consideraciones.
+ 
+D.         
+CARACTERIZACIÓN
+DEL DEFECTO FÁCTICO. Reiteración de jurisprudencia
+ 
+49.           
+ En múltiples
+pronunciamientos en sede de unificación[54], la Corte Constitucional ha señalado
+que el defecto fáctico surge cuando se evidencia que el apoyo probatorio en que
+se fundamentó un juez para resolver determinado asunto es irrazonable,
+insuficiente o inadecuado[55]. En ese sentido, no se trata
+de un simple error, pues éste debe ser ostensible y determinante para la
+decisión objeto de análisis.
+ 
+50.           
+Ahora
+bien, la misma jurisprudencia ha identificado dos tipos de dimensiones en las
+que se puede configurar el defecto fáctico: una dimensión negativa y otra
+positiva.
+ 
+51.           
+Dimensión negativa del
+defecto fáctico: Hace
+referencia a las situaciones en las que es evidente que el juez incurrió en una
+omisión o descuido en las etapas probatorias del proceso. Por ejemplo, en los
+casos que: (i) sin justificación alguna, no se valoran las pruebas
+existentes en el proceso, con las cuales se soluciona el caso en concreto, por
+lo cual resulta evidente que de haberse realizado su análisis y valoración, la
+solución del asunto jurídico debatido variaría sustancialmente; (ii) se adopta
+una decisión sin contar con las pruebas suficientes que la sustentan; (iii) no
+se piden pruebas de oficio, lo cual tiene como consecuencia impedir la debida
+conducción al proceso de ciertos hechos que resultan indispensables para la
+solución del asunto; o (iv) se valora la prueba de manera arbitraria,
+irracional y caprichosa o, en otras palabras, se incurre en una valoración
+probatoria defectuosa[56].
+ 
+52.           
+Dimensión positiva del
+defecto fáctico: Se configura
+cuando el juez admite y valora pruebas que no debieron ser aceptadas en el
+proceso. Algunos ejemplos son cuando: (i) la providencia cuestionada se
+fundamentó en pruebas ilícitas, ya sea por ilegal o inconstitucional; (ii)
+se decide con pruebas que, por disposición de la ley, no demuestra el hecho
+objeto de la decisión; o (iii) se dan por probados supuestos de hecho
+sin que exista prueba de ellos[57].
+ 
+53.           
+Por último, el defecto
+fáctico también debe ser ostensible, flagrante, manifiesto e incidir de forma
+directa en la decisión. Esto implica que el juez de tutela no puede convertirse
+en una instancia de revisión de la forma en que los jueces efectúan la
+valoración probatoria, ya que la valoración que hace el juez ordinario es libre
+y autónoma y no puede ser revocada ante la simple variación del criterio que
+presente el juez constitucional. En esa medida, las diferencias de estimación
+que puedan surgir en la apreciación de una prueba no pueden considerarse ni
+calificarse, por sí solos, como errores fácticos.
+ 
+E.          
+INCOMPATIBILIDAD
+GENERAL DE LA PENSIÓN DE VEJEZ CON LA INDEMNIZACIÓN SUSTITUTIVA O DEVOLUCIÓN DE
+SALDOS Y SUS EXCEPCIONES. Reiteración de jurisprudencia
+ 
+54.           
+El derecho a la seguridad
+social comprende, en el ordenamiento vigente, el amparo del riesgo por vejez a
+través de dos prestaciones diferenciadas y, en principio, excluyentes, que
+buscan brindar un apoyo económico a quienes cumplan los requisitos establecidos
+en la Ley 100 de 1993[58]. Así, el sistema reconoce el derecho
+pensional, tanto en el régimen de ahorro individual con solidaridad[59], como en el de prima media[60], pero también dispone que cuando no se logre
+cumplir los requisitos para el acceso al mismo, el afiliado tendrá la
+posibilidad de solicitar una prestación alternativa: la devolución de saldos,
+en el caso del ahorro individual[61], y la indemnización sustitutiva, en el caso del régimen de
+prima media[62].
+ 
+55.           
+Como se puede apreciar,
+tanto la pensión de vejez como la devolución de saldos o la indemnización
+sustitutiva de vejez, resultan ser prestaciones diferenciadas, pero que cubren
+el mismo riesgo de vejez. De ello ha derivado una interpretación, que se
+verifica en el artículo 6º del Decreto 1730 del 2001[63], que indica que el reconocimiento concomitante de ambas
+prestaciones la pensión, por un lado, y la indemnización sustitutiva o la
+devolución de saldos, por otro- resultaría inviable. Sin embargo, esta Corte ha
+sido más amplia al considerar la situación, y ha identificado escenarios en los
+que el reconocimiento de una indemnización no puede ser una barrera para que
+las administradoras de fondos pensionales estudien de fondo y, de ser procedente,
+reconozcan posteriormente pensiones de vejez[64]. En efecto, tanto la Corte Constitucional[65] como la Corte Suprema de Justicia[66] han avalado tesis que permiten el
+reconocimiento de una pensión de vejez, en casos en los cuales se había
+reconocido previamente una indemnización sustitutiva o una devolución de
+saldos, aceptando excepciones a la regla general de incompatibilidad entre las
+mencionadas prestaciones.
+ 
+56.           
+Así, para las distintas
+Salas de Revisión de la Corte[67], esta incompatibilidad no es absoluta, pues
+se han identificado situaciones jurídicas particulares en las que no sería
+posible aplicar la regla general de incompatibilidad, lo cual no significa que
+se desconozca de manera alguna la interpretación teleológica del artículo 6º
+del Decreto 1730 de 2000, que refiere de manera concreta a la imposibilidad
+de que los aportes cotizados al sistema financien simultáneamente dos
+prestaciones sociales que aseguran un mismo riesgo[68]. En ese orden de ideas, a pesar del reconocimiento de una
+indemnización sustitutiva de vejez o una devolución de saldos por igual
+concepto a un afiliado del sistema general de pensiones, es posible que se le
+reconozca de manera posterior, una pensión de vejez. Sin embargo, esta regla es
+excepcional y solo procedería en tres situaciones, tal como se indica a
+continuación:
+ 
+57.           
+El afiliado causó el
+derecho pensional antes de que se reconociera la indemnización sustitutiva de
+vejez o una devolución de saldos[69]. En
+efecto, al momento de estudiar una solicitud de reconocimiento de pensión de
+vejez posterior a la existencia de una indemnización sustitutiva o una
+devolución de saldos, se debe analizar sí a la fecha en que se reconoció esta
+última, el accionante ya había causado el derecho pensional. De ser procedente
+el reconocimiento de la pensión de vejez y con el fin de evitar la afectación
+de la sostenibilidad financiera del sistema general de pensiones, la Corte ha ordenado
+en estos casos deducir de las mesadas pensionales a que se tenga derecho, el
+monto pagado por concepto de indemnización sustitutiva de una manera que no
+afecte el mínimo vital del beneficiario.
+ 
+58.           
+El fondo pensional empleó
+un requisito inconstitucional o una norma sustantiva inaplicable al momento de
+realizar el estudio pensional[70]. Esta situación se da cuando el fondo pensional emplea una
+norma inaplicable o inconstitucional que deriva en el reconocimiento de una
+indemnización sustitutiva de vejez. Las administradoras de pensiones deberán
+estudiar las nuevas solicitudes con base en los requisitos legales aplicables al
+caso concreto y de ser cumplidos, se podrá reconocer la pensión de vejez. Al
+igual que en el primer caso, es necesario que el afiliado realice la devolución
+de lo pagado en la indemnización sustitutiva con el propósito de no afectar la
+sostenibilidad financiera del sistema.
+ 
+59.           
+El afiliado siguió
+cotizando después del reconocimiento de la indemnización sustitutiva y nunca
+cobró el monto reconocido por concepto de indemnización sustitutiva o
+devolución de saldos. En esta
+situación, existe un factor fundamental que determina el cálculo de los tiempos
+cotizados en los estudios pensionales posteriores al reconocimiento de la
+indemnización. El factor es comprobar si el beneficiario cobró o no la
+indemnización.
+ 
+60.           
+Así, si se demuestra que
+el afiliado realizó el cobro de la indemnización y de manera extraordinaria siguió
+cotizando al sistema general de pensiones[71], no deben tenerse en cuenta las cotizaciones reconocidas y
+pagadas en la indemnización sustitutiva. Esto tiene sustento en la
+incompatibilidad establecida en el artículo 6º del Decreto 1730 de 2001 que
+prohíbe que las cotizaciones consideradas en el cálculo de la indemnización
+sustitutiva no podrán volver a ser tenidas en cuenta para ningún otro efecto y en
+la jurisprudencia de la Sala Laboral de la Corte Suprema de Justicia, que se
+encamina en idéntica dirección[72].
+ 
+61.           
+Por el contrario, si el afiliado
+decidió por voluntad propia no realizar el cobro de la indemnización
+sustitutiva y en su lugar, siguió cotizando al sistema hasta cumplir con los tiempos
+requeridos para acceder a la pensión de vejez, las semanas liquidadas en la
+indemnización podrán ser sumadas a la totalidad de tiempos cotizados. Esto es
+en razón al carácter subsidiario y residual que tiene la indemnización
+sustitutiva[73] que ha sido desarrollado a través de la
+jurisprudencia de esta corporación, y a que en las disposiciones de la Ley 100
+de 1993 se reconocería la posibilidad del afiliado de no optar por las
+indemnizaciones o devoluciones, sino continuar cotizando para la obtención de
+su pensión[74].
+ 
+62.           
+En conclusión, se tiene
+que: (i) el Decreto 1730 de 2001 y la Ley 100 de 1993 prohíben la
+compatibilidad simultánea entre una pensión de vejez y una indemnización
+sustitutiva o una devolución de saldos. Sin embargo, (ii) el
+reconocimiento de una indemnización sustitutiva de vejez o una devolución de
+saldos no es impedimento absoluto para que los fondos pensionales estudien
+nuevamente solicitudes pensionales de vejez. En consecuencia, (iii) es
+posible que a un afiliado al que se le reconoció una indemnización sustitutiva
+de vejez o una devolución de saldos, acceda posteriormente a una pensión de
+vejez, solo si su situación se ajusta en alguno de los tres supuestos
+desarrollados por la ley y la jurisprudencia: (a) el afiliado causó el
+derecho pensional antes de que se reconociera la indemnización; (b) el
+fondo pensional empleó un requisito inconstitucional o una norma sustantiva
+inaplicable al momento de realizar el estudio pensional; y (c) el
+afiliado siguió cotizando al sistema después del reconocimiento de la
+indemnización hasta cumplir con los requisitos para acceder a la pensión. En
+esta última situación, si el afiliado cobró la indemnización no se tendrán en
+cuenta las semanas que le fueron pagadas en dicha prestación; pero, si decidió
+no cobrarla, podrán tenerse en cuenta en el cálculo de las semanas para el reconocimiento
+de la pensión.
+ 
+F.          
+REQUISITOS PARA
+ACCEDER A LA PENSIÓN DE VEJEZ EN LOS ACUERDOS 224 DE 1966, 016 DE 1983, 049 DE
+1990 Y LA LEY 100 DE 1993. Reiteración de jurisprudencia
+ 
+63.           
+Antes de la expedición de
+la Constitución Política de 1991 y de la Ley 100 de 1993, no había un sistema
+integral de pensiones, sino que coexistían múltiples regímenes administrados
+por diferentes entidades de seguridad social y una multiplicidad de normas que
+buscaron reglamentar el asunto según la vinculación que mantuviera el
+trabajador. En particular, la presente Sala traerá a colación los requisitos
+establecidos para acceder a la pensión de vejez de tres normas anteriores a la
+expedición de la Ley 100 de 1993, los cuales el accionante exigió que fueran
+analizados en las múltiples solicitudes que realizó al ISS y a Colpensiones.
+Además, las pretensiones de su demanda dentro del proceso ordinario laboral
+objeto de la presente tutela, estaban encaminadas a que se le diera aplicación
+a alguno de estos regímenes y así, se le reconociera la pensión de vejez.
+ 
+64.           
+Requisitos del Acuerdo 224
+de 1966, aprobado por el Decreto 3041 del mismo año. En su artículo 11, el acuerdo establece que
+tendrán derecho a la pensión de vejez, los asegurados que reúnan los siguientes
+requisitos: (i) Tener 60 años o más si es hombre y 55 o más sí es mujer;
+y (ii) haber acreditado 500 semanas de cotización pagadas durante los
+últimos 20 años anteriores al cumplimiento de las edades mínimas o acreditar
+1000 semanas sufragadas en cualquier tiempo.
+ 
+65.           
+Requisitos del Acuerdo 016
+de 1983, aprobado por el Decreto 1900 del mismo año. Este acuerdo aprobó el acuerdo 029 del 16 de
+junio de 1983 que modificó el contenido y el alcance del artículo 11 del
+acuerdo 224 de 1966. En ese orden de ideas, los requisitos para acceder a la
+pensión de vejez quedaron así: (i) Tener 60 años o más si es hombre y 55
+o más sí es mujer; y (ii) haber acreditado 500 semanas de cotización
+pagadas durante los últimos 20 años anteriores a la fecha de la solicitud o
+acreditar 1000 semanas sufragadas en cualquier tiempo.
+ 
+66.           
+Requisitos del Acuerdo
+049 de 1990, aprobado por el Decreto 758 del mismo año. Con este acuerdo, se volvió a los requisitos
+establecidos inicialmente en 1966. Así, en su artículo 12 se determinó que
+tendrán derecho a la pensión de vejez[75] las personas que reúnan los siguientes
+requisitos: (i) Tener 60 años o más si es hombre y 55 o más sí es mujer;
+y (ii) haber acreditado un mínimo de 500 semanas de cotización pagadas
+durante los últimos 20 años anteriores al cumplimiento de las edades mínimas o
+acreditar 1000 semanas sufragadas en cualquier tiempo.
+ 
+67.           
+Ahora bien, el artículo 14
+del Decreto 758 de 1990 desarrolló la figura de la indemnización sustitutiva de
+la pensión de vejez. Así, se estipuló que las personas que habiendo cumplido
+con las edades mínimas exigidas para adquirir el derecho a la pensión de vejez,
+no acrediten el número mínimo de semanas de cotización para la causación del
+derecho y decidieran no seguir cotizando al sistema, tendrán derecho en calidad
+de sustitución una indemnización equivalente a las semanas cotizadas. Para
+conceder esta indemnización se requería que no haya transcurrido más de 10 años
+entre el período a que corresponde la última cotización y la fecha de
+cumplimiento de las edades para adquirir el derecho a la pensión de vejez, y
+que el asegurado hubiera acreditado al menos 100 semanas de cotización.
+ 
+68.           
+Requisitos de la Ley
+100 de 1993. Debido a la
+dispersión normativa, la desarticulación institucional y la expedición de la
+nueva constitución política en la que se dispuso a la seguridad social como un
+derecho irrenunciable que se garantiza a todos los colombianos, el legislador
+expidió la Ley 100 de 1993, por medio de la cual se creó el Sistema de
+Seguridad Social Integral (SSSI), el cual tiene por objeto garantizar los
+derechos irrenunciables de la persona y la comunidad para obtener () [una] ()
+calidad de vida acorde con la dignidad humana, mediante la protección de las
+contingencias que la afecten[76]. Para tal fin, dispuso que el sistema integral estaría
+formado por los regímenes generales en (i) pensiones, (ii) salud,
+(iii) riesgos laborales y (iv) por los servicios sociales
+complementarios[77]. 
+ 
+69.           
+Inicialmente, para acceder
+a la pensión de vejez, la Ley 100 de 1993 exigió dos requisitos generales: El
+primero, es que el beneficiario debe haber cumplido 55 años si es mujer, o 60
+años si es hombre y el segundo, es haber cotizado un mínimo de 1000 semanas en
+cualquier tiempo. Además, a partir del 1º de enero de 2014, las edades para
+acceder a la pensión serán de 57 años sí es mujer y 62 años sí es hombre[78]. Estos requisitos fueron modificados por el
+artículo 9 de la Ley 797 de 2003, el cual determinó que a partir del 1º de
+enero del 2005, el número de semanas se incrementará en 50 y a partir del 1º de
+enero de 2006, se incrementará en 25 cada año hasta llegar a 1.300 semanas mínimas
+en el 2015.
+ 
+70.           
+Sin embargo, en el
+artículo 36 de la Ley 100 de 1993 el legislador creó un régimen de transición
+para aquellas personas que al 1º de abril de 1994, día que entró en vigor el
+Sistema General de Pensiones, tuvieran 35 o más años si son mujeres o 40 o más años
+si son hombres; o 15 o más años de servicios cotizados. Para estas personas,
+los requisitos de edad y tiempos de cotización para acceder a la pensión serían
+los establecidos en el régimen anterior al cual se encontraban afiliados. El régimen
+fue modificado por el Acto Legislativo 01 de 2005, que limitó su extensión más
+allá del 31 de julio de 2010; excepto para los trabajadores que estando en el
+régimen de transición, hubieran cotizado al menos 750 semanas o su equivalente
+en tiempo de servicios a la entrada en vigencia del Acto Legislativo, es decir,
+el 22 de julio de 2010. Para estos últimos, se les mantuvo hasta 2014.
+ 
+G.         
+SOLUCIÓN
+AL CASO CONCRETO
+ 
+71.           
+Una vez
+expuesto lo anterior, procede la Sala Tercera de Revisión de la Corte
+Constitucional a analizar si la Sala Laboral del Tribunal Superior del Distrito de Bogotá, actuando en
+calidad de juez de segunda instancia dentro del proceso ordinario laboral instaurado
+por HVM contra Colpensiones, incurrió en un defecto fáctico que hubiese vulnerado
+los derechos fundamentales al debido proceso y a la seguridad social del actor
+al momento de revocar la decisión de primera instancia que le había reconocido
+una pensión de vejez.
+ 
+72.           
+Para el Tribunal de
+segunda instancia, no era posible contabilizar en el estudio pensional, las
+semanas liquidadas y pagadas a HVM a través de la Resolución 11690 de 1994, por
+medio de la cual se le reconoció una indemnización sustitutiva de vejez a su
+favor. Sin embargo, HVM y su apoderada consideran que el Tribunal incurrió en
+un error que puede ser enmarcado en un defecto fáctico ya que a su criterio: (i)
+no existe prueba de que HVM realizó la solicitud de indemnización
+sustitutiva de vejez[79]; y (ii) el cobro de la
+indemnización avala la legalidad del reconocimiento prestacional por no estar
+precedido de una solicitud ni de la desafiliación definitiva del sistema y más
+bien se constituye en un pago de lo no debido que se soluciona con la
+devolución de la suma pagada.
+ 
+73.           
+Para comenzar, esta Sala constata
+que en el expediente se tiene probado lo siguiente:
+ 
+(i)         
+HVM nació el 12 de
+abril de 1927[80].
+ 
+(ii)       
+El resumen de la
+historia laboral de HVM es el siguiente:
+ 
+
+
+
+
+
+Semanas cotizadas por HVM[81]
+
+
+
+
+Periodo
+
+
+Desde
+
+
+Hasta
+
+
+Total de
+   semanas
+
+
+
+
+
+Antes
+  de la indemnización
+
+
+01/01/1967
+
+
+31/10/1975
+
+
+460,86
+
+
+
+
+10/07/1978
+
+
+04/10/1978
+
+
+12,43
+
+
+
+
+05/11/1979
+
+
+15/12/1979
+
+
+5,86
+
+
+
+
+27/01/1984
+
+
+30/07/1984
+
+
+26,57
+
+
+
+
+16/06/1993
+
+
+21/12/1993
+
+
+27
+
+
+
+
+Después
+  de la indemnización 
+
+
+01/02/1998
+
+
+28/02/1998
+
+
+4,29
+
+
+
+
+01/03/1998
+
+
+31/12/1998
+
+
+42,86
+
+
+
+
+01/01/1999
+
+
+31/12/1999
+
+
+51,43
+
+
+
+
+01/01/2000
+
+
+31/12/2000
+
+
+51,43
+
+
+
+
+01/01/2001
+
+
+31/12/2001
+
+
+51,43
+
+
+
+
+01/01/2002
+
+
+31/12/2002
+
+
+51,43
+
+
+
+
+01/01/2003
+
+
+31/12/2003
+
+
+51,43
+
+
+
+
+01/01/2004
+
+
+31/12/2004
+
+
+51,43
+
+
+
+
+01/01/2005
+
+
+31/05/2005
+
+
+21,43
+
+
+
+
+01/07/2005
+
+
+30/09/2005
+
+
+12,86
+
+
+
+
+01/10/2005
+
+
+31/12/2005
+
+
+12,86
+
+
+
+
+01/01/2006
+
+
+31/12/2006
+
+
+51,43
+
+
+
+
+01/01/2007
+
+
+30/04/2007
+
+
+17,14
+
+
+
+
+Total de semanas
+
+
+1004,14
+
+
+
+
+ 
+(iii)    
+El 6 de agosto de
+1992, HVM elevó una solicitud de pensión o indemnización por vejez[82] ante el ISS. Ante la negativa de la entidad
+por reconocer cualquiera de las prestaciones solicitadas, el accionante se
+dirigió a la entidad el 10 de febrero de 1994, controvirtiendo la negación
+de dicha Pensión e Indemnización según Resolución 0000209 de 1.993 del I.S.S.[83].
+ 
+(iv)     
+El 29 de julio 1994,
+el ISS profirió la Resolución 011690[84], por medio de la cual reconoció una indemnización
+sustitutiva de vejez por un valor de $1.711.710 a HVM. Dicha indemnización fue
+cobrada por HVM[85].
+ 
+(v)        
+Posteriormente, el 24
+de mayo de 2010, 12 de mayo de 2017 y otras dos fechas más, HVM realizó
+solicitudes ante el ISS y/o Colpensiones para el reconocimiento de una pensión
+de vejez. Sin embargo, todas fueron resueltas de manera desfavorable al no
+acreditarse los requisitos legales para acceder a la prestación[86].
+ 
+(vi)     
+El 6 de abril de 2018,
+HVM interpuso demanda ordinaria laboral contra Colpensiones con la pretensión que
+se ordenara el reconocimiento pensional. En primera instancia se accedió a sus
+pretensiones al concluir que se cumplió con los requisitos del Acuerdo 049 de
+1990 para acceder a la prestación. En segunda instancia, se revocó la decisión
+al considerar que el a quo no puede tener en cuenta en la
+contabilización de las semanas que fueron reconocidos y pagados a HVM en la
+indemnización sustitutiva de vejez.
+ 
+74.           
+Una vez analizado el
+material probatorio, la Sala Tercera de Revisión
+advierte que no se configuró un defecto fáctico en la providencia adoptada
+por la Sala Laboral del Tribunal Superior del Distrito Bogotá como se explicará
+a continuación. La decisión se tomó con base en que la Resolución 011690 de
+1994 del ISS reconoció una indemnización sustitutiva de vejez por un valor de
+$1.711.710, la cual fue cobrada por HVM, según lo afirmado por él en Sede de
+Revisión[87].
+ 
+75.           
+Lo primero a señalar es
+que, a diferencia de lo afirmado por la apoderada del accionante, esta Sala concluye
+que sí obran en el expediente, pruebas de que HVM solicitó ante el ISS el
+reconocimiento de la indemnización sustitutiva de vejez. En efecto, el 6 de
+agosto de 1992, HVM realizó una solicitud de pensión o indemnización por
+vejez[88] ante el ISS, la cual fue negada mediante la
+Resolución 209 de 1993. De igual forma, del segundo párrafo de la petición del
+10 de febrero de 1994 en el que solicitó le sea concedida [su] pensión de
+Jubilación[89] a raíz de la negación de dicha Pensión e
+Indemnización según Resolución 0000209 de 1.993 del I.S.S., se infiere que
+HVM era consciente de que había realizado la solicitud de la indemnización
+sustitutiva de vejez en 1992 y que mediante su nueva solicitud objetaba el no
+reconocimiento de ambas prestaciones.
+ 
+76.           
+Además, llama
+la atención de la Sala que en el expediente, no obra prueba de que el
+demandante realizó reparo alguno en contra de la Resolución 011690 de 1994, por
+medio de la cual el ISS estudió la solicitud del 10 de febrero de ese año y
+concluyó que no tenía derecho a la pensión de vejez y reconoció la
+indemnización sustitutiva de vejez. En efecto, contra la mencionada resolución
+procedía recurso de reposición y apelación de conformidad con lo dispuesto por
+el Código Contencioso Administrativo[90] de la época. No obstante,
+HVM no los agotó y tampoco expuso las razones por las que decidió guardar
+silencio frente a un acto administrativo que resolvió su solicitud de
+reconocimiento de pensión de jubilación como una solicitud de pensión
+o indemnización por vejez.
+ 
+77.           
+Con base
+en la situación fáctica anterior, la Sala concluye que es razonable el análisis
+del acervo probatorio que realizó la Sala Laboral del Tribunal Superior del
+Distrito Bogotá, a partir del cual determinó como improcedente el
+reconocimiento de la pensión de vejez.
+ 
+78.           
+Ahora
+bien, resta estudiar sí en el asunto objeto de revisión, se está ante alguna de
+las excepciones a la regla general de incompatibilidad entre indemnización
+sustitutiva y pensión de vejez y en consecuencia, es posible realizar el
+reconocimiento de una pensión de vejez al accionante. Para esto, se retomarán
+las consideraciones desarrolladas en
+los fundamentos jurídicos 58
+y siguientes de esta decisión.
+ 
+79.           
+Primera
+situación: El
+afiliado no causó el derecho pensional antes de que se reconociera la
+indemnización sustitutiva de vejez. El
+estudio del cumplimiento de esta situación se realizará con base los requisitos
+expuestos en el apartado F de la parte considerativa de esta providencia.
+ 
+80.           
+Requisitos del Acuerdo
+224 de 1966, aprobado por el Decreto 3041 del mismo año. Para acceder a la pensión de vejez con este
+acuerdo, se debe cumplir 60 años si se es hombre y acreditar 500 semanas de
+cotización pagadas durante los últimos 20 años anteriores al cumplimiento de
+las edades mínimas o 1000 semanas en cualquier tiempo. En el presente caso, se
+tiene que HVM cumplió 60 años el 12 de abril de 1987. En esa fecha acreditó un
+total de 505.72 semanas de cotización, de las cuales, 484.86 se cotizaron
+durante los 20 años anteriores, esto es, entre el 12 de abril de 1967 y 11 de
+abril de 1987. Por consiguiente, HVM no cumplió con los requisitos.
+ 
+81.           
+Requisitos del Acuerdo
+016 de 1983, aprobado por el Decreto 1900 del mismo año. Este acuerdo fijó como requisitos, tener 60
+años o más para los hombres y acreditar 500 semanas de cotización pagadas
+durante los últimos 20 años anteriores a la fecha de la solicitud o 1000
+semanas en cualquier tiempo. En el caso concreto, se tiene que HVM realizó su
+primera solicitud de reconocimiento pensional el 6 de agosto de 1992, fecha en
+la que acreditaba 505,72 semanas de cotización de las cuales, 213,36 fueron
+cotizadas durante los últimos 20 años anteriores, esto es, entre el 6 de agosto
+de 1972 y 5 de agosto de 1992. En ese orden de ideas, HVM tampoco cumplió con
+los requisitos del acuerdo.
+ 
+82.           
+ Requisitos del Acuerdo
+049 de 1990, aprobado por el Decreto 758 del mismo año. Este acuerdo exigió
+tener 60 años o más si es hombre y acreditar un mínimo de 500 semanas de
+cotización pagadas durante los últimos 20 años anteriores al cumplimiento de
+las edades mínimas o 1000 semanas en cualquier tiempo. Sin embargo, se observa
+que HVM cumplió 60 años el 12 de abril de 1987, fecha en la que acreditó un
+total de 505,72 semanas de cotización, de las cuales, 484,86 semanas se
+cotizaron durante los 20 años anteriores, esto es, entre el 12 de abril de 1967
+y 11 de abril de 1987. En consecuencia, HVM incumplió con los requisitos para
+acceder al reconocimiento de la pensión de vejez.
+ 
+83.           
+Ley 100 de 1993. En el caso objeto de examen, no es necesario
+realizar el estudio de los requisitos de la Ley 100 de 1993, toda vez que HVM fue
+beneficiario del régimen de transición dispuesto en su artículo 36 y por lo
+tanto, las exigencias para acceder al reconocimiento de la pensión de vejez
+para él, en la fecha que se realizó el reconocimiento de la indemnización
+sustitutiva de vejez, eran los establecidos en el régimen anterior al cual se
+encontraba afiliado, es decir, el Acuerdo 049 de 1990.
+ 
+84.           
+En ese orden de ideas, para
+la Sala queda demostrado que al 29 de julio de 1994, día en el que el ISS le
+reconoció una indemnización sustitutiva de vejez a HVM, este último no cumplió
+con ningún requisito legal para causar su pensión de vejez.
+ 
+85.           
+Segunda situación:
+El fondo pensional no empleó un requisito inconstitucional o una norma
+sustantiva inaplicable al momento de realizar el estudio pensional. En el asunto analizado, la Sala señala que esta excepción
+no se configura. En efecto, al momento de dar solución a las solicitudes
+pensionales de HVM de 1992 y 1994, el ISS aplicó la norma vigente de la época,
+es decir, el Acuerdo 049 de 1990 y, en las solicitudes más recientes,
+Colpensiones aplicó los requisitos legales actuales, que son los consagrados en
+la Ley 100 de 1993.
+ 
+86.           
+Tercera situación: El afiliado siguió cotizando después del
+reconocimiento de la indemnización sustitutiva, pero cobró la indemnización
+sustitutiva. En el presente caso se está ante esta
+situación, dado que el ISS le reconoció el 29 de julio de 1994 una
+indemnización sustitutiva de vejez y HVM cotizó al sistema general de pensiones
+en el periodo comprendido entre el 1 de febrero de 1998 hasta el 30 de abril de
+2007. Sin embargo, el nuevo estudio no debe tenerse en cuenta las semanas
+reconocidas y liquidadas a través de la Resolución 011690 del 29 de julio de
+1994, ya que como quedó demostrado, HVM cobró dicha indemnización de manera
+libre, voluntaria y consciente, materializando así su derecho a la seguridad
+social. De ser contabilizados estos tiempos, se afectaría el principio de
+sostenibilidad financiera del Sistema y se violaría la incompatibilidad
+establecida en el artículo 6º del Decreto 1730 de 2001.
+ 
+87.           
+Por
+consiguiente, es claro que la decisión que adoptó la Sala Laboral del Tribunal Superior
+de Bogotá en calidad de juez de segunda instancia en el proceso ordinario
+laboral que instauró HVM contra Colpensiones, se encuentra ajustada a la
+normativa aplicable al caso concreto, ya que como se expuso, no es posible que
+en el cálculo de los periodos cotizados por HVM se tenga en cuenta las semanas
+que fueron liquidadas con la indemnización sustitutiva de vejez que se le
+reconoció a través de la Resolución 011690 del 29 de julio de 1994 y que fue
+efectivamente cobrada por el solicitante.
+ 
+88.           
+Por
+último, la Sala considera necesario advertir a Colpensiones para que a futuro y
+en la medida de lo posible, haga uso de los mecanismos que tenga a su alcance para
+impedir que sigan cotizando al riesgo de vejez dentro del Sistema de Seguridad
+Social aquellos afiliados a los que se les materializó el derecho a la
+seguridad social a través del reconocimiento de una indemnización sustitutiva
+de vejez de manera libre, voluntaria y consciente.
+ 
+89.           
+Órdenes
+por impartir.
+Visto lo anterior, la Sala Tercera de Revisión procederá a revocar la decisión de segunda instancia y de primera
+instancia de tutela en la que se decidió confirmar la improcedencia, para, en
+su lugar, negar la protección constitucional solicitada por los argumentos
+expuestos en esta providencia.
+ 
+90.           
+Para concluir, debido a la
+avanzada edad del accionante, la Sala ordenará a Colpensiones a que, en en el término de setenta y dos (72) horas
+contadas a partir de la notificación de la presente sentencia, se comunique con
+él para efectos de iniciar la devolución de los saldos correspondientes a las
+semanas cotizadas entre el 1º de
+febrero de 1998 hasta el 30 de abril de 2007, bajo condiciones de modo, tiempo y lugar razonables para
+ambas partes.
+ 
+H.         
+SÍNTESIS
+DE LA DECISIÓN
+ 
+91.           
+ A la Sala Tercera de Revisión de la Corte Constitucional le correspondió
+conocer una acción de tutela instaurada por Héctor Villarreal Morillo en contra
+de la Sala Laboral del Tribunal Superior del Distrito de Bogotá, en la
+que se alegó la vulneración de los derechos fundamentales al debido proceso y a
+la seguridad social del actor. Como resultado de las sub-reglas
+jurisprudenciales analizadas en la parte motiva de esta providencia, observa la
+Sala lo siguiente:
+ 
+92.           
+Primero, la Sala determinó que la tutela era
+procedente, pues HVM es un sujeto de especial protección constitucional, el
+cual se encuentra en situación de vulnerabilidad para quien, por su avanzada
+edad, resultaba desproporcionado agotar el recurso extraordinario de casación. Por
+ende, para su caso particular, dicho mecanismo resultaba ineficaz. Adicionalmente,
+se vio que el accionante desplegó un grado mínimo de diligencia dirigido a
+salvaguardar los derechos invocados, y cumplió con las cargas mínimas
+explicativas exigidas en las tutelas contra providencias judiciales.
+ 
+93.           
+Segundo, la Sala explicó la caracterización del
+defecto fáctico con base en la jurisprudencia constitucional. Con
+posterioridad, extrajo las reglas para determinar la compatibilidad entre una
+pensión de vejez y una indemnización sustitutiva de vejez o devolución de
+saldos. Al respecto, destacó que el Decreto 1730 de 2001 y la Ley 100 de 1993
+prohíben, en principio, la concomitancia entre una pensión de vejez y una
+indemnización sustitutiva por la misma causa, pero que la jurisprudencia ha
+identificado escenarios concretos de excepción, en los que es posible que a un
+afiliado que obtuvo el reconocimiento de una indemnización, acceda de manera
+posterior a una pensión de vejez.
+ 
+94.           
+Para esto, se debe
+enmarcar en una de tres situaciones específicas: (a) el afiliado causó
+el derecho pensional antes de que se reconociera la indemnización; (b) el
+fondo pensional empleó un requisito inconstitucional o una norma sustantiva
+inaplicable al momento de realizar el estudio pensional; y (c) el
+afiliado siguió cotizando al sistema después del reconocimiento de la
+indemnización hasta cumplir con los requisitos para acceder a la pensión y
+nunca cobró la suma reconocida. Se resalta que en esta última situación, si el
+afiliado cobró la indemnización no pueden tenerse en cuenta en el cálculo para
+la pensión las semanas que le fueron reconocidas para la determinación del
+monto de la indemnización sustitutiva; pero, en caso de que el beneficiado con
+dicha prestación decidiera no cobrarla, no existiría obstáculo para tener en
+cuenta en los cálculos de tiempos cotizados para el reconocimiento pensional, las
+semanas acreditadas con anterioridad. Por último, se señaló los requisitos
+exigidos para acceder a una pensión de vejez, en las diferentes normas
+anteriores a la Ley 100 de 1993.
+ 
+95.           
+Tercero, sobre la base de lo
+anterior, la Sala concluyó que no
+se configuró un defecto fáctico en la sentencia del 18 de noviembre de 2019,
+proferida por la Sala Laboral del Tribunal
+Superior del Distrito de Bogotá, pues dicho estrado judicial decidió con base
+en las pruebas allegadas al proceso, de las que razonablemente se infiere que (i)
+HVM no cumple con los requisitos para acceder a una pensión de vejez, y (ii)
+no es plausible acceder a la solicitud de que sean tenidos en cuenta los
+tiempos cotizados, liquidados y pagados en la indemnización sustitutiva de
+vejez que se le reconoció el 29 de julio de 1994.
+ 
+96.           
+En
+consecuencia, y ante la verificación de que no existió una actuación
+irrazonable o desproporcionada de parte de la autoridad judicial accionada, no
+es posible que la Corte acceda a la pretensión del señor Villarreal Morillo,
+consistente en dejar sin efectos la sentencia proferida por el Tribunal
+Superior de Bogotá y ordenar proferir una nueva decisión teniendo en cuenta la
+totalidad de las semanas cotizadas durante su historia laboral; por
+consiguiente, la Sala levantará la suspensión de términos decretada en el auto
+del 15 de abril de 2021 y revocará los fallos de tutela del 27 de noviembre de
+2019 y del 10 de marzo de 2020 que declararon improcedente el amparo y, en su
+lugar, negará la tutela por las razones expuestas en la presente providencia. Por
+último, debido a la avanzada edad del accionante, la Sala ordenará a Colpensiones a que, en en el término de setenta y dos (72) horas
+contadas a partir de la notificación de la presente sentencia, se comunique con
+el tutelante para efectos de iniciar la devolución de los saldos
+correspondientes a las semanas cotizadas entre el 1º de febrero de 1998 hasta el 30 de abril de 2007.
+ 
+III.     
+DECISIÓN
+ 
+En mérito de lo expuesto, la Sala Tercera de Revisión de la
+Corte Constitucional de la República de Colombia, administrando justicia en
+nombre del pueblo y por mandato de la Constitución,
+ 
+RESUELVE
+ 
+ 
+Primero.- LEVANTAR la suspensión de términos decretada en el
+auto del 15 de abril de 2021.
+ 
+Segundo.- REVOCAR los fallos de tutela proferidos el 27 de
+noviembre de 2019 y el 10 de marzo de 2020 por la Sala Laboral y Sala Penal de
+la Corte Suprema de Justicia, respectivamente, por medio de las cuales se declaró
+improcedente la acción de tutela instaurada por Héctor Villarreal Morillo para,
+en su lugar, NEGAR la presente acción por las razones expuestas en la
+parte motiva de esta providencia.
+ 
+Tercero.- ORDENAR a Colpensiones para que, en el término de setenta y dos
+(72) horas contadas a partir de la notificación de la presente sentencia, se
+comunique con el accionante para efectos de iniciar la devolución de los saldos
+correspondientes a las semanas cotizadas entre el 1º de febrero de 1998 hasta el 30 de abril de 2007, bajo condiciones de modo, tiempo y lugar
+razonables para ambas partes.
+ 
+Cuarto.- Por Secretaría General, LÍBRENSE las
+comunicaciones de que trata el artículo 36 del Decreto 2591 de 1991.
+ 
+Notifíquese,
+comuníquese y cúmplase.
+ 
+ 
+ 
+ALEJANDRO LINARES CANTILLO
+Magistrado
+ 
+ 
+ 
+ANTONIO JOSÉ LIZARAZO OCAMPO
+Magistrado
+Con salvamento de voto
+ 
+ 
+ 
+PAOLA ANDREA MENESES MOSQUERA
+Magistrada
+ 
+ 
+ 
+MARTHA VICTORIA SÁCHICA MÉNDEZ
+Secretaria General
+
+
+ 
+SALVAMENTO
+DE VOTO DEL MAGISTRADO 
+ANTONIO JOSÉ LIZARAZO OCAMPO
+A LA
+SENTENCIA T-471/22
+ 
+ 
+ACCIÓN DE TUTELA CONTRA PROVIDENCIAS
+JUDICIALES-Se configuró un defecto fáctico por valoración defectuosa de las
+pruebas, el accionante no manifestó su voluntad de optar por la indemnización
+sustitutiva (Salvamento de voto) 
+ 
+DEBER
+DE INFORMACION DE LAS ENTIDADES PROMOTORAS DE SALUD (Salvamento de
+voto)
+ 
+()
+Colpensiones faltó a un deber legal y no actuó conforme al ordenamiento
+jurídico cuando omitió informar con claridad al afiliado sobre las
+implicaciones y las consecuencias jurídicas que acarrearía aceptar o recibir la
+indemnización sustitutiva.
+ 
+DEVOLUCION DE SALDOS EN EL
+SISTEMA GENERAL DE SEGURIDAD SOCIAL EN PENSIONES (Salvamento de
+voto)
+ 
+La orden de devolución de
+saldos no tiene sustento jurídico () la figura de devolución de saldos es
+propia del régimen de ahorro individual con solidaridad y el accionante se
+encuentra afiliado en el régimen de prima media con prestación definida. 
+ 
+ 
+Referencia: Expediente
+T-7.977.326
+ 
+Magistrado
+Ponente:
+Alejandro Linares
+Cantillo
+ 
+ 
+Con el acostumbrado respeto por las decisiones de la mayoría, expongo a
+continuación las razones por las cuales me aparto de la adoptada mediante la
+sentencia T-471 de 2022: 
+ 
+El defecto fáctico
+alegado es sobresaliente.
+ 
+La solicitud de tutela es
+presentada por el señor Héctor Villarreal (HVM), de 95 años, contra una
+providencia judicial que revocó la decisión de primera instancia que ordenaba
+el reconocimiento y pago de una pensión de vejez a su favor dentro un proceso
+ordinario laboral que adelantó contra Colpensiones. Argumenta el accionante la
+existencia de un presunto defecto fáctico fundado en que: (i) no existe prueba de que HVM hubiera realizado la solicitud de
+indemnización sustitutiva de vejez;[91] y (ii)
+el cobro de la indemnización avala la legalidad del
+reconocimiento prestacional por no estar precedido de una solicitud ni de la
+desafiliación definitiva del sistema y más bien se constituye en un pago de lo
+no debido que se soluciona con la devolución de la suma pagada.[92]
+ 
+El asunto es resuelto en la
+sentencia en los siguientes términos: 
+ 
+74. Una
+vez analizado el material probatorio, la Sala
+Tercera de Revisión advierte que no se configuró un defecto fáctico en
+la providencia adoptada por la Sala Laboral del Tribunal Superior del Distrito
+Bogotá como se explicará a continuación. La decisión se tomó con base en que la
+Resolución 011690 de 1994 del ISS reconoció una indemnización sustitutiva de
+vejez por un valor de $1.711.710, la cual fue cobrada por HVM, según lo
+afirmado por él en Sede de Revisión. 
+ 
+75. Lo primero
+a señalar es que, a diferencia de lo afirmado por la apoderada del accionante,
+esta Sala concluye que sí obran en el expediente, pruebas de que HVM solicitó
+ante el ISS el reconocimiento de la indemnización sustitutiva de vejez. En
+efecto, el 6 de agosto de 1992, HVM realizó una solicitud de pensión o
+indemnización por vejez ante el ISS, la cual fue negada mediante la
+Resolución 209 de 1993. De igual forma, del segundo párrafo de la petición del
+10 de febrero de 1994 en el que solicitó le sea concedida [su] pensión de
+Jubilación a raíz de la negación de dicha Pensión e Indemnización
+según Resolución 0000209 de 1.993 del I.S.S., se infiere que HVM era
+consciente de que había realizado la solicitud de la indemnización sustitutiva
+de vejez en 1992 y que mediante su nueva solicitud objetaba el no
+reconocimiento de ambas prestaciones.
+ 
+76.    Además,
+llama la atención de la Sala que en el expediente, no obra prueba de que el
+demandante realizó reparo alguno en contra de la Resolución 011690 de 1994, por
+medio de la cual el ISS estudió la solicitud del 10 de febrero de ese año y concluyó
+que no tenía derecho a la pensión de vejez y reconoció la indemnización
+sustitutiva de vejez. En efecto, contra la mencionada resolución procedía
+recurso de reposición y apelación de conformidad con lo dispuesto por el Código
+Contencioso Administrativo de la época. No obstante, HVM no los agotó y tampoco
+expuso las razones por las que decidió guardar silencio frente a un acto
+administrativo que resolvió su solicitud de reconocimiento de pensión de
+jubilación como una solicitud de pensión o indemnización por vejez.
+ 
+Como se observa, la Sala avaló la
+actuación de Colpensiones de reconocer una indemnización sustitutiva de vejez
+en 1994, indemnización que no fue solicitada, con el argumento de
+que, con la solicitud de indemnización sustitutiva efectuada en 1992, debía
+darse por solicitada la misma también en el trámite adelantado en 1994. No
+comparto esta conclusión y considero que es un grave desacierto. En efecto,
+conforme se expone en el hecho 4º de la sentencia, en 1994 el accionante
+solicitó expresamente que se le concediera la pensión de jubilación, más no
+hizo alusión alguna a la indemnización sustitutiva. Es evidente que se trata de
+dos procedimientos administrativos que iniciaron con dos solicitudes distintas
+-una en 1992 y otra en 1994- y, por tanto, no debió la Sala confundir las
+pretensiones planteadas en una y otra.
+ 
+En cuanto al argumento relacionado con la
+falta de reparos por parte del accionante, este no permite en ningún caso dar
+por probado que, a pesar de la literalidad de la
+solicitud, en su escrito del 10
+de febrero de 1994 HVM estaba solicitando la indemnización sustitutiva y no
+únicamente la pensión de vejez. En efecto, el hecho de no haber presentado
+recursos contra dicha decisión pudo deberse a distintas circunstancias. Derivar
+la voluntad de solicitar la indemnización sustitutiva de la mera ausencia de
+recursos es muy cuestionable, máxime si se tiene en cuenta que el accionante
+continuó insistiendo en su reconocimiento pensional y cotizando con el
+convencimiento de que en el futuro obtendría su pensión, quien textualmente
+pidió me sea concedida mi pensión de jubilación a que tengo derecho por
+cumplir con todos los requisitos exigidos por ustedes[93]. 
+ 
+Insisto, se trataba de dos actuaciones
+administrativas que se iniciaron como consecuencia de solicitudes distintas
+-una en 1992 y otra en 1994- y, por tanto, la Sala se extralimitó al
+fusionarlas.
+ 
+Así entonces, contrario a lo concluido en
+la sentencia, considero que, en el presente caso, se configuró un defecto
+fáctico, pues no existe prueba que dé cuenta de la manifestación expresa del
+accionante para optar por la indemnización sustitutiva en la solicitud
+pensional efectuada en 1994.  
+ 
+Ahora bien, en el pf. 5 del acápite B. Hechos Relevantes de la sentencia se
+dice que el 29 de julio de 1994, el ISS reconoció la indemnización
+sustitutiva con base en lo dispuesto en el Acuerdo 049 de 1990 (Decreto 758 de
+1990). El artículo 14 de este
+Decreto señala respecto a la
+indemnización sustitutiva de la
+pensión de vejez, que: 
+ 
+[l]as personas que
+habiendo cumplido las edades mínimas exigidas para adquirir el derecho a la
+pensión de vejez, se retiraren definitivamente de las actividades sujetas al
+seguro social y no hubieren acreditado el número mínimo de semanas de
+cotización requeridas para que tal derecho se cause, percibirán en sustitución,
+por cada veinticinco (25) semanas de cotización acreditadas, una indemnización
+equivalente a una mensualidad de la pensión por invalidez permanente total que
+les hubiere correspondido en el supuesto de haberse invalidado al cumplimiento
+de la respectiva edad.
+ 
+Para conceder esta
+indemnización se requiere, que no hayan transcurrido más de diez (10) años
+entre el período a que corresponde la última cotización acreditada y la fecha
+de cumplimiento de las edades para adquirir el derecho a la pensión de vejez, y
+que el asegurado tenga acreditadas no menos de cien (100) semanas de
+cotización.
+ 
+PARÁGRAFO. Las
+personas que en cualquier tiempo reciban la indemnización de que trata este
+artículo, no podrán ser inscritas nuevamente en el seguro de vejez,
+invalidez y muerte. Las semanas tenidas en cuenta para efectos de la
+indemnización, no se computarán para la pensión de jubilación por aportes de
+que trata la Ley 71 de 1988.
+ 
+De acuerdo con esta disposición, el
+beneficiario de la prestación debía retirarse definitivamente de la actividad
+económica por la cual se sujetaba al Seguro Social. Esto implica que el beneficiario
+debía informar a la administradora de esta circunstancia para que así
+procediera el reconocimiento de la indemnización sustitutiva. Esta condición sine qua non, sin
+embargo, no tuvo lugar en el presente caso.  
+ 
+Además, de la misma disposición se extrae
+que la administradora tenía el deber de no inscribir nuevamente en el seguro
+de vejez, invalidez y muerte a quien hubiera recibido la indemnización
+sustitutiva, pero, de nuevo, la entidad no sólo incumplió dicho deber, sino que
+continuó recibiendo los aportes que por esos conceptos realizó el usuario
+durante casi 10 años. 
+ 
+Y es que, contrario a lo explicado en el
+pie de página 71[94] de la sentencia, de la norma se advierte que la prohibición no
+recae sobre el usuario, sino sobre la administradora de pensiones, que debió
+terminar la afiliación del accionante, no inscribirlo nuevamente para el seguro
+de vejez, invalidez y muerte, ni mucho menos seguir recibiendo los aportes por
+esos conceptos. Ello sin embargo no ocurrió, siendo evidente el incumplimiento
+de la accionada de su deber legal. 
+ 
+A mi juicio, no tiene sentido que en sede
+de revisión constitucional se aplique de forma más gravosa la ley a la parte
+más débil de la relación. En la práctica, con la sentencia le estamos diciendo
+al accionante: como en la solicitud de 1992 pidió la indemnización sustitutiva,
+entendemos que esa petición la reiteró en 1994 -a pesar de no haberlo hecho- y,
+por tanto, no se configuró un defecto fáctico.
+ 
+Considero que para el reconocimiento de
+la pensión de vejez debían contabilizarse los tiempos tenidos en cuenta en la
+liquidación de la indemnización sustitutiva y los cotizados con posterioridad.
+Además, la sentencia debió advertir que la administradora generó también la
+expectativa de obtener en un futuro la pensión de vejez, cuando mantuvo la
+afiliación del accionante luego de haber reconocido la indemnización y siguió
+recibiendo sus aportes mensuales por más de 9 años.
+ 
+Incluso, la sentencia incurrió en una
+contradicción cuando a pesar de asignar toda la responsabilidad al accionante,
+decide a su vez hacer un llamado
+de atención a la administradora de pensiones para que ponga en marcha
+correctivos hacia el futuro, admitiendo entonces que
+fue ésta, y no el accionante, la que habría incumplido sus deberes legales.
+Señala al respecto en el párrafo 88: la Sala considera necesario advertir a Colpensiones para que a futuro y
+en la medida de lo posible, haga uso de los mecanismos que tenga a su alcance
+para impedir que sigan cotizando al riesgo de vejez dentro del Sistema de
+Seguridad Social aquellos afiliados a los que se le materializó el derecho a la
+seguridad social a través del reconocimiento de una indemnización sustitutiva
+de vejez de manera libre, voluntaria y consciente. 
+ 
+En definitiva, considero que la
+sentencia debió reconocer la existencia del defecto alegado, de la consecuente
+cesación de efectos jurídicos de la decisión judicial cuestionada, así como del
+análisis y decisión sobre el reconocimiento de la pensión de vejez del
+accionante bajo el Decreto 758 de 1990 o la Ley 100 de 1993 - dada la edad y
+las condiciones del accionante-, al tiempo que debió dejar claro, en la parte
+considerativa de la providencia, que para el reconocimiento de la indemnización
+sustitutiva siempre debe mediar escrito del afiliado en el que declare su
+imposibilidad de continuar cotizando, tal y como lo exige el mismo artículo
+37 de la Ley 100 de 1993.
+ 
+Se incumplió el deber de información de
+las administradoras de pensiones.
+ 
+Considero que esta sentencia constituía
+una oportunidad para recordarle a las administradoras de pensiones que tienen
+una obligación de debida diligencia consistente en suministrar información
+cierta, clara, oportuna y transparente, a los interesados respecto de sus
+derechos y obligaciones. En efecto, esta obligación se deriva, no sólo del
+derecho a la seguridad social, sino del mandato legal contenido entre otros en
+la Ley 1748 de 2014 Por medio de la cual se establece la obligación de
+brindar información transparente a los consumidores de los servicios
+financieros y se dictan otras disposiciones, así como, previamente, de los
+Decretos 663 de 1993 y 2555 de 2010 que, además definen claramente la
+naturaleza financiera de las administradoras de pensiones. El artículo 97 del Decreto
+ley 663 de 1993 establece que las entidades vigiladas deben suministrar a los
+usuarios de los servicios que prestan la información necesaria para lograr la
+mayor transparencia en las operaciones que realicen, de suerte que les permita,
+a través de elementos de juicio claros y objetivos, escoger las mejores
+opciones del mercado y poder tomar decisiones informadas. Este deber básico ha
+sido profundizado con posterioridad en el artículo 2 de la Ley 1748 de 2014
+que, incluso, ordena que se informe trimestralmente a los afiliados sobre el
+capital neto ahorrado, los intereses devengados, las cotizaciones recibidas,
+los montos deducidos, etc. 
+ 
+Esta Corporación, además, se ha referido
+en diversas ocasiones a dicho deber (entre otras, en la C-401/16, T-451/17,
+T-376/18). En sentencia de 2022, insistió en que los principios que orientan
+las relaciones entre entidades financieras -incluyendo las administradoras de
+pensiones- y sus usuarios, incluyen (i) el de debida diligencia en el
+ofrecimiento de productos financieros o en la prestación de servicios a los
+consumidores, de manera que se propenda por la satisfacción de sus necesidades
+de acuerdo con la oferta, el compromiso y las obligaciones acordadas, y (ii) el de trasparencia e información
+cierta, suficiente, clara y oportuna, que busca
+garantizar que el consumidor financiero conozca el objeto y las condiciones de
+contratación con dichas entidades y no sea engañado o inducido a error por
+estas. Y profundizó recordando que las entidades
+financieras y aseguradoras están obligadas a suministrar información (i) cierta, es decir, que responda efectivamente a la realidad jurídica y fáctica
+del vínculo contractual; (ii) suficiente,
+esto es, que sea completa y no parcial, de manera que el consumidor financiero
+pueda tener una idea integral y detallada de la posición en la que se encuentra
+y de sus posibilidades de actuación; (iii) clara, es
+decir, plenamente comprensible, incluso cuando su naturaleza técnica dificulte
+su explicación, y (iv) oportuna,
+esto es, entregada en el momento en que resulta relevante, y no después, para
+que el consumidor financiero pueda tomar decisiones con base en ella.[95]
+ 
+Por tanto, considero que Colpensiones faltó a un deber legal y no
+actuó conforme al ordenamiento jurídico cuando omitió informar con claridad al
+afiliado sobre las implicaciones y las consecuencias jurídicas que acarrearía
+aceptar o recibir la indemnización sustitutiva. En efecto, contrario a lo
+sostenido por la Sala, independientemente de que para la época de los hechos el
+deber de informar por parte de las administradoras de pensiones a los usuarios
+no tuviera el desarrollo jurisprudencial que tiene actualmente, lo cierto es
+que el Decreto Ley 663 de 1993, que disponía dicha obligación, sí se encontraba
+vigente. Por tanto, era su deber acatarla e informar de forma clara y completa
+al usuario o al afiliado sobre los pormenores de las operaciones que adelantaba
+y que afectaban su derecho a la seguridad social, para que pudiera tomar
+decisiones informadas, máxime si se tiene en cuenta que la administradora de
+pensiones es la parte fuerte en una relación de esta naturaleza.
+ 
+La sentencia debió incluir estas
+consideraciones junto a un claro llamado de atención a Colpensiones en el
+sentido de que siempre que conceda una indemnización sustitutiva de pensión,
+tiene el deber de informar con claridad al afiliado de las consecuencias de esta,
+incluso si él mismo la ha solicitado.
+ 
+La orden de devolución de saldos
+no tiene sustento jurídico
+ 
+En cuanto a la decisión de la Sala
+consistente en ordenar la devolución de saldos al accionante -resolutivo
+tercero[96]-, que sólo cuenta con un párrafo idéntico en las consideraciones
+(pf.90), se hacía necesario que la sentencia fundamentara indicando la
+fuente normativa para ordenar la devolución de los saldos correspondientes a las semanas cotizadas entre el 1º de febrero de 1998 hasta el 30 de abril de 2007. Lo anterior, teniendo en cuenta que la figura de devolución de
+saldos es propia del régimen de ahorro individual con
+solidaridad[97] y el accionante se encuentra afiliado en el régimen de prima
+media con prestación definida. 
+ 
+En efecto, dado que la sentencia sostiene
+que el accionante no cumpliría los requisitos para acceder a la pensión de
+vejez bajo ningún régimen, se debía aclarar cuál es el fundamento jurídico para
+considerarla una devolución de saldos -figura que no es aplicable para este
+caso- o precisar si se trata de una nueva indemnización sustitutiva creada
+jurisprudencialmente. Ello, puesto que en la práctica se está asumiendo que
+hubo una especie de nueva afiliación del accionante a partir del 1º de febrero
+de 1998 y que los aportes efectuados desde entonces hasta el 30 de abril de
+2007 no son suficientes para obtener la pensión de vejez. De manera que debía
+aclararse si esta orden implica que, si el accionante manifiesta expresamente
+su imposibilidad de continuar cotizando, Colpensiones debe proceder como lo
+establece el artículo 37 de la Ley 100 de 1993[98], esto es, a reconocer y a pagar la indemnización sustitutiva
+correspondiente. O si, por el contrario, tal devolución responde a otra figura
+jurídica no explicitada en la sentencia. 
+ 
+Por las razones expuestas, salvo el voto. 
+ 
+ 
+ 
+ 
+ 
+ 
+ANTONIO
+JOSÉ LIZARAZO OCAMPO
+Magistrado
+ 
+
+
+ 
+Auto 1852/23
+ 
+ 
+Expediente: T-7.977.326
+ 
+Referencia: Solicitud de aclaración de la sentencia T-471
+de 2022.
+ 
+Magistrado ponente:
+ALEJANDRO LINARES CANTILLO
+ 
+ 
+Bogotá, D.C., once (11) de agosto de dos mil
+veintitrés (2023).
+ 
+ 
+La Sala Quinta de Revisión de la Corte Constitucional,
+integrada por los Magistrados Paola Andrea Meneses Mosquera y Antonio José
+Lizarazo Ocampo, y Alejandro Linares Cantillo, quien la preside, en
+cumplimiento de sus atribuciones constitucionales y legales, procede a resolver
+la solicitud de aclaración presentada por la Dirección de Acciones
+Constitucionales de la Administradora Colombiana de Pensiones (en adelante,
+Colpensiones), en relación con el tercer resolutivo de la sentencia T-471 de
+2022 proferida por la Sala Tercera de Revisión (-hoy Sala Quinta de Revisión-).
+ 
+I.            
+ANTECEDENTES
+ 
+1.
+Mediante la sentencia T-471 de
+2022, la Sala Tercera de Revisión de Tutelas de la Corte Constitucional
+determinó que el señor Héctor Villarreal Morillo no acreditó los requisitos
+para acceder a una pensión de vejez, toda vez que se determinó que no procede
+su solicitud de tener en cuenta los tiempos cotizados, liquidados y pagados a
+título de indemnización sustitutiva de vejez el 29 de julio de 1994 por parte
+del Instituto de Seguros Sociales. En consecuencia, la sentencia concluyó que
+no se configuró un defecto fáctico en la sentencia del 18 de noviembre de 2019,
+proferida por la Sala Laboral del Tribunal Superior del Distrito de Bogotá, y
+por consiguiente, ordenó a Colpensiones a devolver los aportes realizados por
+el señor Villareal entre el 1º de febrero de 1998 y el 30 de abril de 2007. En
+concreto, ordenó la Sala de Revisión:
+ 
+Tercero.- ORDENAR a Colpensiones
+para que, en el término de setenta y dos (72) horas contadas a partir de la
+notificación de la presente sentencia, se comunique con el accionante para
+efectos de iniciar la devolución de los saldos correspondientes a las semanas
+cotizadas entre el 1º de febrero de 1998 hasta el 30 de abril de
+2007, bajo condiciones de modo, tiempo y lugar razonables para ambas partes.
+ 
+2. El 30 de enero de 2023, la Secretaría General
+de esta corporación comunicó a la Sala Laboral de la Corte Suprema de Justicia,
+juez de primera instancia de la acción de tutela, la sentencia T-471 de 2022,
+con el fin de que procediera con la notificación y ejecución de la providencia.
+ 
+3. El 2 de
+febrero de 2023, la directora de la Dirección de Acciones Constitucionales de
+Colpensiones solicitó la aclaración de un término del tercer resolutivo
+de la sentencia en mención. En concreto, pidió esclarecer lo referente a la
+devolución de los saldos correspondientes a las semanas cotizadas entre el 1o
+de febrero de 1998 hasta el 30 de abril de 2007, ya que en su criterio, no
+existe claridad para esta administradora si la intención de la Sala Tercera
+de Revisión de la Corte Constitucional fue la devolución de saldos y/o la
+indemnización sustitutiva o, por el contrario, la devolución de los aportes
+realizados por error por parte del señor Héctor Villarreal Morillo con
+posterioridad al reconocimiento de la indemnización sustitutiva de vejez en
+1994.
+ 
+4.
+El 8 de febrero de 2023, el
+suscrito magistrado sustanciador requirió a la Sala Laboral de la Corte Suprema
+de Justicia para determinar la fecha de notificación de la sentencia T-471 de
+2022 a las partes implicadas en el proceso, con el fin de comprobar la
+oportunidad de la solicitud de aclaración. La entidad respondió que notificó a las partes el 31 de
+enero del mismo año[99].
+ 
+II.              
+CONSIDERACIONES
+ 
+A.         
+Competencia
+ 
+5. El artículo 107 del acuerdo 02 de 2015
+(Reglamento interno de la Corte Constitucional) dispone que las solicitudes de
+aclaraciones presentadas oportunamente deberán ser resueltas por la Sala
+correspondiente.
+ 
+B.          
+Carácter
+excepcional de las solicitudes de aclaración
+ 
+6. La Corte Constitucional ha reiterado que,
+de acuerdo al Artículo 241 Constitucional, es un cuerpo jurisdiccional y no
+consultivo, por lo que carece de competencia para resolver dudas o
+interrogatorios que formulen los ciudadanos o para esclarecer el sentido de las
+sentencias que profiera. Así, por regla general, las providencias que la Corte
+Constitucional profiere en control abstracto de constitucional, en sede de
+revisión de tutela y recientemente en conflictos entre jurisdicciones, no son
+susceptibles de aclaración en la medida que son decisiones que hacen tránsito a
+cosa juzgada constitucional o que no pueden ser posteriormente reabiertas[100]. Sin embargo, esta regla tiene como excepción aquellas
+situaciones en las que el texto de las sentencias o de los autos de la Corte,
+incluyen expresiones que plantean verdaderas dudas sobre el alcance de la
+decisión.
+ 
+7. Desde esta perspectiva, lo que se aclara
+es lo que es confuso, lo que es ambiguo, o lo que ocasiona perplejidad en la
+intelección y mientras ello no ocurra, se mantiene incólume la prohibición del
+juzgador de pronunciarse de nuevo sobre la decisión ya proferida, pues ella
+es intangible para el juez que la hubiere dictado, a quien le está vedado
+revocarla o reformarla, aún [so] pretexto de aclararla[101]. En esta situación, la propia ley
+autoriza que, dentro del término de ejecutoria, a petición de parte o de
+oficio, se puedan aclarar en auto complementario frases o conceptos que se
+encuentren contenidos en la parte resolutiva de la [providencia] o que, incluidos
+en la parte motiva, influyan para el entendimiento pleno y el cumplimiento de
+lo decidido en el fallo en cuestión[102].
+ 
+8. Para los casos excepcionales en los que la
+aclaración es a petición de parte, la Corte estableció que es posible que
+procedan este tipo de solicitudes siempre y cuando se cumpla con los requisitos
+previstos en el artículo 285 del Código General del Proceso[103]. Así, esta corporación puede
+extraordinariamente conocer de una solicitud cuando: primero,
+verse sobre la parte resolutiva de la sentencia o sobre la parte motiva siempre
+y cuando influya de forma directa en la decisión, de manera que únicamente se
+aclara lo que ofrece una duda objetiva y razonable y, segundo, cuando el
+solicitante la presente, teniendo legitimación en la causa, dentro del término
+de ejecutoria de la providencia[104].
+ 
+9. Una vez expuesto lo anterior, corresponde
+a la Sala resolver los siguientes
+problemas jurídicos: (i) ¿la solicitud presentada por Colpensiones
+satisface los requisitos de procedencia de las solicitudes de aclaración de las
+sentencias de tutela la Corte Constitucional? y (ii) en caso de que se
+cumpla lo anterior, ¿la Sala debe aclarar la expresión devolución de los
+saldos del resolutivo tercero de la Sentencia T-471 de 2022?
+ 
+C.         
+Verificación
+de los requisitos de la solicitud de aclaración en el caso concreto
+ 
+10. Oportunidad. La Sala encuentra
+satisfecho el requisito de oportunidad. En efecto, se observa que la Secretaría
+General de la Corte Constitucional comunicó la sentencia al juez de primera
+instancia el 30 de enero de 2023, quien a su vez notificó la decisión a las
+partes interesadas el día siguiente, y la solicitud de aclaración fue
+presentada por Colpensiones el 2 de febrero del mismo año, es decir, dentro del
+término de ejecutoria de dicha providencia.
+ 
+11. Legitimación. Observa la Sala de Revisión
+que también se satisface este presupuesto, toda vez que la solicitante de la
+aclaración a la sentencia T-471 de 2022 se encuentra legitimada en la causa por
+al menos dos razones: (i) Colpensiones es una entidad que fue reconocida
+directamente tanto dentro del proceso ordinario como en el trámite de la acción
+de tutela; y (ii) tiene un interés legítimo en la decisión, toda vez que
+la orden contenida en el resolutivo tercero de la sentencia es dirigida ante la
+entidad.
+ 
+12. Carga argumentativa. Sobre el particular,
+también se evidencia que la solicitud satisface la carga mínima argumentativa,
+puesto que esta versa sobre el término devolución de los saldos
+utilizado en el resolutivo tercero de la sentencia (ver supra, numeral 1). Al respecto, la entidad accionada
+solicita se aclare el resolutivo tercero, dado que en su opinión no existe
+claridad para esta administradora si la intención de la Sala Tercera de
+Revisión de la Corte Constitucional fue la devolución de saldos y/o la
+indemnización sustitutiva o, por el contrario, la devolución de los aportes
+realizados por error por parte del señor Héctor Villarreal Morillo con
+posterioridad al reconocimiento de la indemnización sustitutiva de vejez en
+1994.
+ 
+D.  
+Análisis
+de la solicitud de aclaración presentada por Colpensiones
+ 
+13. Una vez encontrados acreditados todos los
+requisitos de la solicitud, la Sala de Revisión entrará a analizar si se debe
+aclarar la expresión devolución de los saldos del resolutivo tercero
+de la sentencia T-471 de 2022.
+ 
+14. Para esta Sala, es dado afirmar que con la
+decisión adoptada en la sentencia T-471 de 2022, es claro que la Sala de
+Revisión no estaba haciendo referencia a una indemnización sustitutiva, sino a
+la devolución de los aportes realizados por el señor Héctor Villarreal Murillo
+entre el 1º de febrero de 1998 y el 30 de abril de 2007. Al respecto, tal y
+como consta en el fundamento jurídico 73. (iv) y 74 de la mencionada sentencia,
+en el material probatorio allegado a esta Sala de Revisión se refleja que el 29
+de julio de 1994, el ISS profirió la Resolución 011690, por medio de la cual
+reconoció una indemnización sustitutiva de vejez por un valor de $1.711.710 a
+HVM. Dicha indemnización fue cobrada por el señor Héctor Villarreal Morillo.
+Por lo cual, llama la atención a la Sala el hecho de que Colpensiones, entidad
+pagadora de la mencionada indemnización sustitutiva y quien aportó a lo largo
+del proceso las pruebas mencionadas, mediante la solicitud señale que no es
+claro y pregunte si se debe proceder con el pago de la indemnización
+sustitutiva.
+ 
+15. Asimismo, reprocha esta Sala el análisis
+de Colpensiones respecto de las excepciones a la regla de incompatibilidad de
+la pensión de vejez con la indemnización sustitutiva o la devolución saldos
+(ver Sección II.E de la sentencia T-471 de 2022), y en especial al estudio que
+se realizó en los fundamentos jurídicos 86 a 88 de dicha sentencia, en los
+cuales consta con claridad que (i) el afiliado siguió cotizando después
+del reconocimiento de la indemnización sustitutiva la cual cobró; (ii) por
+lo cual, en el estudio de la solicitud de pensión de vejez no deben tener en
+cuenta las semanas reconocidas y
+liquidadas a través de la Resolución 011690 del 29 de julio de 1994, ya que
+como quedó demostrado, el accionante cobró dicha indemnización de manera libre,
+voluntaria y consciente, materializando así su derecho a la seguridad social; y
+(iii) en consecuencia, la decisión de la Sala
+Laboral del Tribunal Superior de Bogotá en calidad de juez de segunda instancia
+en el proceso ordinario laboral que instauró el señor Villareal Morillo contra
+Colpensiones, se encuentra ajustada a la normativa aplicable al caso concreto.
+ 
+16. De esta manera, teniendo en cuenta la
+línea argumentativa de la sentencia T-471 de 2022, se finalizó con el llamado
+realizado por la Sala a Colpensiones para que a futuro y en la medida de lo
+posible, haga uso de los mecanismos que tenga a su alcance para impedir que
+sigan cotizando al riesgo de vejez dentro del Sistema de Seguridad Social
+aquellos afiliados a los que se les materializó el derecho a la seguridad
+social a través del reconocimiento de una indemnización sustitutiva de vejez de
+manera libre, voluntaria y consciente. Visto lo anterior, es claro para
+esta Sala de Revisión que la sentencia T-471 de 2022, en ningún momento
+pretendió ordenar el pago de la indemnización sustitutiva al señor Villareal
+Morillo, y que el remedio constitucional de devolución de los aportes se basó
+en la avanzada edad del accionante (resolutivo tercero, y fundamentos jurídicos
+90 y 96).
+ 
+17. Sin perjuicio de lo anterior y con el fin
+de lograr que Colpensiones dé cumplimiento a lo dispuesto por esta Sala de
+Revisión en la orden tercera de la sentencia T-471 de 2022, y disipar cualquier
+duda de la entidad sobre el alcance del resolutivo, por medio del presente auto
+se reitera y aclara que el término devolución de los saldos al que se
+refiere el tercer resolutivo debe entenderse como la devolución de los aportes
+realizados por el señor Villarreal Murillo en el periodo comprendido entre el
+1º de febrero de 1998 y el 30 de abril de 2007, y no a la figura de la
+devolución de saldos consagrada en el artículo 66 de la ley 100 de 1993[105].
+ 
+III.          
+DECISIÓN
+ 
+En mérito de lo expuesto, la
+Corte Constitucional administrando justicia en nombre del pueblo y por mandato
+de la Constitución,
+ 
+RESUELVE
+ 
+ 
+Primero.  ACLARAR el término devolución de los saldos
+del resolutivo tercero de la sentencia T-471 de 2022, en el entendido que
+refiere a los aportes realizados por el
+señor Héctor Villarreal Murillo en el periodo comprendido entre el 1º de
+febrero de 1998 y el 30 de abril de 2007.
+ 
+Segundo.  Contra esta providencia no procede ningún recurso.
+ 
+Comuníquese y cúmplase.
+ 
+ 
+ALEJANDRO LINARES
+CANTILLO
+Magistrado
+ 
+ 
+ 
+ANTONIO JOSÉ LIZARAZO
+OCAMPO
+Magistrado
+Con salvamento de
+voto
+ 
+ 
+ 
+PAOLA ANDREA MENESES
+MOSQUERA
+Magistrada
+ 
+ 
+ 
+ANDREA LILIANA ROMERO
+LOPEZ
+Secretaria General
+
+
+
+
+[1] Mediante escrito presentado por su apoderada
+y allegado a la acción. Archivo T-7977326 ANEXO.pdf.
+
+
+[2] Archivo 00332187000000000126414000401A.TIF.
+
+
+[3] Interpuesta a través de apoderada.
+
+
+[4] Archivo T-7977326 ANEXO.pdf.
+
+
+[5] Archivo GRP-HPE-02-20136800342115-20130809040412.PDF.
+
+
+[6] Artículo 12. Requisitos de la Pensión por Vejez.
+Tendrán derecho a la pensión de vejez las personas que reúnan los siguientes
+requisitos: a) Sesenta (60) o más años de edad si se es varón o cincuenta y
+cinco (55) o más años de edad, si se es mujer y, b) Un mínimo de quinientas
+(500) semanas de cotización pagadas durante los últimos veinte (20) años
+anteriores al cumplimiento de las edades mínimas, o haber acreditado un número
+de un mil (1.0.00) semanas de cotización, sufragadas en cualquier tiempo.
+
+
+[7] Archivo 00332187000000000126414000901A.TIF.
+
+
+[8] Ibíd.
+
+
+[9] HVM solicitó lo siguiente: solicito a ustedes muy atentamente
+me sea concedida mi Pensión de Jubilación a que tengo derecho por cumplir con
+todos los requisitos exigidos por ustedes. Esta solicitud la hago a raíz de la
+negación de dicha Pensión e Indemnización según Resolución No. 0000209 de 1993
+del I.S.S (). Archivo 00332187000000000126414001401A.TIF.
+
+
+[10] Archivo T7977326 ANEXO.pdf, p. 9.
+
+
+[11] La solicitud fue la siguiente: Con el fin de garantizar mis
+derechos fundamentales, en especial el derecho a una vida digna, la seguridad
+social y al mínimo vital, les solicito se sirvan desarchivar mi carpeta
+pensional y realizar un nuevo estudio de mi pensión, ya que cumplo con lo
+establecido en la Ley 71 de 1988, ya que coticé a la Caja Nacional de Previsión
+Social CAJANAL cuando trabajé con el Ministerio de Salud y el DAS y además
+coticé al ISS Pensiones. Archivo 00332187000000000126414004801A.TIF.
+
+
+[12] En las consideraciones de la Resolución, el ISS señaló que (i)
+no reposa las certificaciones de los tiempos cotizados a CAJANAL por parte del
+accionante y (ii) no es posible tener en cuenta las semanas cotizadas
+con posterioridad al reconocimiento de la indemnización sustitutiva de la
+pensión de vejez conforme al artículo 2º del Decreto 758 de 1990. Inconforme
+con la decisión, HVM instauró demanda ordinaria laboral en contra de
+Colpensiones con el fin de obtener el reconocimiento de la pensión, al
+considerar cumplir con lo establecido en el artículo 7 de la Ley 71 de 1988. El
+proceso culminó el 1º de noviembre de 2017 con la sentencia de la Sala Laboral
+de la Corte Suprema de Justicia que decidió no casar la sentencia de segunda
+instancia que absolvió a Colpensiones de todas las pretensiones incoadas en su
+contra. Archivos 00332187000000000126414006101A.TIF, 00332187000000000126414006201A.TIF
+y Sentencia SL18270-2017 con radicado 69559 de la Sala Laboral de la Corte
+Suprema de Justicia.
+
+
+[13] La solicitud fue interpuesta a través de apoderada. Archivo GRF-REP-AF-2017_4806843-20170512092308.pdf.
+
+
+[14] Archivo GEN-ANE-CM-2017_10600181-20171010070011.pdf.
+
+
+[15] En la decisión de primera instancia, el juez señaló que no se
+puede aplicar el Acuerdo 224 de 1966 debido a que estaba derogado para la fecha
+en que HVM realizó la solicitud del reconocimiento pensional y tampoco se
+cumplió con las semanas exigidas en el Acuerdo 016 de 1983. Sin embargo,
+consideró que HVM sí cumple con la edad y con el requisito de cotizar 1000
+semanas en cualquier tiempo que exige el Acuerdo 049 de 1990. Archivo CP_0912082957630.wmv
+a partir del minuto 20.
+
+
+[16]
+Ibíd, minuto 37:36 al 38:00.
+
+
+[17] A través de apoderada, sustentó su inconformidad con relación al
+ingreso base de liquidación que usó el juez de primera instancia para la
+liquidación de la mesada pensional y el retroactivo pensional. A su criterio,
+se debe liquidar con una tasa de reemplazo del 90% de los ingresos de toda su
+vida laboral, ya que es más favorable para HVM. Archivo CP_0912082957630.wmv.
+
+
+[18] La apoderada de Colpensiones afirmó que el accionante no tiene
+derecho a la pensión de vejez bajo el cumplimiento de lo dispuesto en el
+Acuerdo 049 de 1990. Lo anterior, por cuanto no deben contabilizarse las 492
+semanas que fueron liquidadas por el ISS en 1994 a través de la indemnización
+sustitutiva de vejez. Así, el accionante no cumpliría con los requisitos para
+el reconocimiento de la pensión ni para ser beneficiario del régimen de
+transición puesto que tendría solo 402.8 semanas cotizadas.
+
+
+[19] Archivo CP_0528151904406.wmv.
+
+
+[20] Mediante escrito presentado por su apoderado.
+El poder fue debidamente allegado al proceso. Cuaderno principal. Archivo T-7977326
+ANEXO.pdf.
+
+
+[21] Colpensiones y el Juzgado 21 Laboral del Circuito de Bogotá
+allegaron respuestas fuera del término de la tutela.
+
+
+[22] Archivo T7977326 C1.pdf pp. 114-120.
+
+
+[23] Ibíd, p. 119.
+
+
+[24] Ibíd, pp. 137-139.
+
+
+[25] La apoderada refirió jurisprudencia constitucional que desarrolla
+la flexibilidad de los requisitos de procedencia de la tutela en los casos que
+el accionante es un sujeto de especial protección constitucional por su edad.
+Ibíd, p. 137.
+
+
+[26] Archivo T7977326 C2.pdf pp. 6-15.
+
+
+[27] Inicialmente, por medio de Acuerdo
+PCSJZ20-11517. Este fue prorrogado por medio de los Acuerdos PCSJZ20-11521,
+PCSJZ20-11526, PCSJZ20-11532, PCSJZ20-11546, PCSJZ20-11549 y PCSJZ20-11556.
+Esta suspensión afecta los términos de los procesos de revisión de tutela.
+
+
+[28] Por medio del Acuerdo PCSJZ20-11567, el
+Consejo Superior de la Judicatura decidió levantar la suspensión de términos
+judiciales a partir del 1º de julio de 2020. Luego, mediante Acuerdo
+PCSJA20-11581 del 27 de junio de 2020, dicha corporación previó que la
+suspensión de términos se prorrogaría hasta el 30 de julio de 2020.
+
+
+[29] Artículo 64. Pruebas en revisión de tutelas. Con
+miras a la protección inmediata y efectiva del derecho fundamental vulnerado y
+para allegar al proceso de revisión de tutela elementos de juicio relevantes,
+el Magistrado sustanciador, si lo considera pertinente, decretará
+pruebas. Una vez se hayan recepcionado, se pondrán a disposición de las partes
+o terceros con interés por un término no mayor a tres (3) días para que se pronuncien
+sobre las mismas, plazo durante el cual el expediente quedará en la
+Secretaría General. En el evento de decretar pruebas, la Sala respectiva
+podrá́ excepcionalmente ordenar que se suspendan los términos del proceso,
+cuando ello fuere necesario. En todo caso, la suspensión no se extenderá́
+más allá́ de tres (3) meses contados a partir del momento en que se
+alleguen las pruebas, salvo que por la complejidad del asunto, el interés
+nacional o la trascendencia del caso, sea conveniente un término mayor, que no
+podrá́ exceder de seis (6) meses, el cual deberá́ ser aprobado por la
+Sala de Revisión, previa presentación de un informe por el magistrado ponente.
+
+
+[30] Todas las citas conforme a escrito remitido
+por vía virtual.
+
+
+[31] Ninguno vive con él, ya que uno está domiciliado en Barranquilla
+y otro en Canadá.
+
+
+[32] Todas las citas conforme al escrito remitido
+por vía virtual.
+
+
+[33] Escrito remitido por vía virtual el 25 de
+marzo de 2021.
+
+
+[34] En virtud de lo dispuesto en el artículo 86
+de la Constitución Política, la jurisprudencia constitucional dictada en la
+materia y los artículos concordantes del Decreto 2591 de 1991.
+
+
+[35] Acerca del perjuicio irremediable, esta corporación ha señalado
+que, debe reunir ciertos requisitos para que torne procedente la acción de
+tutela, a saber: (i) que se trate de un hecho cierto e inminente; (ii) que
+las medidas a tomar deben ser urgentes; (iii) que la situación a la que se
+enfrenta la persona es grave; y finalmente (iv) que las actuaciones de
+protección han de ser impostergables. Ver sentencia T-896/07, entre otras.
+
+
+[36] El artículo dispone la posibilidad de acudir
+a la tutela cuando quiera que los derechos resulten vulnerados por cualquier
+autoridad pública.
+
+
+[37] Estos requisitos fueron establecidos en la
+C-590 de 2005 y reiterados posteriormente en la SU-116 de 2018, SU-379 de 2019,
+entre otras.
+
+
+[38] Corte Constitucional, sentencias C-590 de
+2005, SU-565 de 2015, SU-439 de 2017, SU-573 de 2017, SU-062 de 2018, entre
+otras.
+
+
+[39] Folio 7 del archivo T7977326 ANEXO.pdf.
+
+
+[40] Los artículos 5 y 13 del Decreto 2591 de 1991 en armonía con lo
+previsto en el artículo 86 de la Constitución, disponen que la tutela procede
+contra cualquier acción u omisión en que incurra una autoridad que haya
+violado, viole o amenace un derecho fundamental.
+
+
+[41] Constitución Política, artículo 86 y Decreto 2591 de 1991,
+artículo 5.
+
+
+[42] Corte Constitucional, sentencia C-543 de
+1992.
+
+
+[43] Corte Constitucional, sentencias T-295 de
+2018, T-528 de 2020, entre otras.
+
+
+[44] Corte Constitucional, sentencia T-375 de
+2021, que reitera la T-526 de 2005, T-692 de 2006 y T-328 de 2010.
+
+
+[45] De acuerdo con la jurisprudencia constitucional, el perjuicio
+irremediable se caracteriza por ser (i) inminente, es decir, que la
+lesión o afectación al derecho está por ocurrir; (ii) grave, esto es,
+que el daño del bien jurídico debe ser de una gran intensidad; (iii)
+urgente, en tanto que las medidas para conjurar la violación o amenaza del
+derecho se requieren con rapidez; e (iv) impostergable, porque se busca
+el restablecimiento forma inmediata.
+
+
+[46] Al respecto, ver Autos AL542-2021, AL545-2022, AL544-2022, entre
+otros, de la Sala Laboral de la Corte Suprema de Justicia. Para el estudio del
+interés jurídico, la presente Sala tuvo en cuenta el retroactivo pensional
+liquidado en primera instancia por un valor de $42.232.541,40; las mesadas
+pensionales futuras con base en la edad de HVM y la tasa de mortalidad de la
+Resolución 1555 de 2010 de la Superfinanciera.
+
+
+[47] Artículo 86. Sentencias susceptibles del
+recurso. A partir de la vigencia de la presente ley y sin perjuicio de los
+recursos ya interpuestos en ese momento, sólo serán susceptibles del recurso de
+casación los procesos cuya cuantía exceda de ciento veinte (120) veces el
+salario mínimo legal mensual vigente.
+
+
+[48]
+Código Procesal del Trabajo y la Seguridad Social, Artículo
+88. Plazo para interponer el recurso. El recurso de casación
+podrá interponerse de palabra en el acto de la notificación, o por escrito
+dentro de los cinco días siguientes. Interpuesto de palabra, en la audiencia,
+allí mismo se decidirá si se otorga o se deniega. Si se interpone por escrito
+se concederá o denegará dentro de los dos días siguientes. Al conceder el
+recurso, se ordenará la inmediata remisión de los autos al Tribunal Supremo.
+
+
+[49] En
+estos eventos, la controversia suscitada puede desbordar el marco meramente
+legal y pasar a convertirse en un problema de índole constitucional, siendo
+necesaria la intervención del juez de tutela. Ver Sentencia SU-130 de 2013.
+
+
+[50] En el Tomo I del informe de resultados del estudio de tiempos
+procesales realizado por el Consejo Superior de la Judicatura y la Corporación
+Excelencia en la Justicia y publicado en abril de 2016, las entidades
+concluyeron que el trámite de un recurso extraordinario en Colombia dura en
+promedio 467 días corrientes. Aunque el informe señala que para la obtención de
+este dato se llegó a una muestra concentrada, esta Sala considera que es un
+dato de referencia válido para constatar los tiempos procesales a los que HVM
+eventualmente hubiera estado sujeto sí hubiera instaurado el recurso.
+
+
+[51] Según el DANE, la esperanza de vida al nacer en Bogotá es de
+78,87 años, ciudad en la que está radicado HVM. Fuente: Proyecciones de
+Población 2005-2020 DANE.
+
+
+[52] Al respecto, ver sentencias SU-439 de 2017, SU-033 de 2018,
+SU-573 de 2019, SU-128 de 2021, entre otras.
+
+
+[53] Este
+requisito no implica que se le exija una carga ritualista o una determinada
+forma de presentar los argumentos; lo que se busca es que el juez de tutela
+pueda comprender el objeto de amparo. Ver Sentencia SU-405 de 2021, entre
+otras.
+
+
+[54] Corte Constitucional, sentencias SU-337 de 2017, SU-405 de 2021,
+SU-448 de 2016, entre otras.
+
+
+[55] En Sentencia SU-448 de 2016, reiterado en la SU-405 de 2021, la
+Corte explicó que este defecto se estructura siempre que existan fallas
+sustanciales en la decisión, que sean atribuibles a deficiencias probatorias
+del proceso, y que el fundamento de la intervención del juez de tutela
+por deficiencias probatorias en el proceso, radica en que, no obstante las amplias
+facultades discrecionales con que cuenta el juez del proceso para el análisis
+del material probatorio, éste debe actuar de acuerdo con los principios de la
+sana crítica; esto es, mediante la adopción de criterios objetivos, no
+simplemente supuestos por el juez, racionales, es decir, que ponderen la
+magnitud y el impacto de cada una de las pruebas allegadas, y rigurosos, esto
+es, que materialicen la función de administración de justicia que se les
+encomienda a los funcionarios judiciales sobre la base de pruebas debidamente
+recaudadas.
+
+
+[56] Corte Constitucional, sentencia SU-405 de 2021.
+
+
+[57] Corte Constitucional, sentencias SU-223 de 2013, SU-337 de 2017,
+SU-143 de 2020, SU-405 de 2021, entre otras.
+
+
+[58] Conviene anotar que, en sede de unificación, esta Corporación ha
+señalado que, prima facie, no existe incompatibilidad entre la pensión
+de invalidez y la devolución de saldos o la indemnización sustitutiva de
+vejez, ya que sus causas y fundamentos son independientes: En la pensión de
+invalidez, el riesgo asegurado es la capacidad laboral del afiliado y su causa
+con la declaratoria de su invalidez en un porcentaje superior al 50% y la
+acreditación de las semanas cotizadas. Por otro lado, la indemnización
+sustitutiva o la devolución de saldos son una consecuencia de no haberse
+cotizado un número de semanas mínimas para acceder a una pensión de vejez. Sin
+embargo, debido a que el afiliado al que se le reconoció la indemnización es el
+mismo al que se le reconocerá la pensión de invalidez y el sistema general de
+pensiones prohíbe que se financien dos prestaciones pensionales con los mismos
+tiempos cotizados, se debe proceder la devolución de lo reconocido y pagado en
+la indemnización sustitutiva de vejez. Al respecto, ver Sentencias SU-556 de
+2019, SU-317/21, entre otras.
+
+
+[59] Ver, Ley 100 de 1993, Arts. 64-65.
+
+
+[60] Ver, Ley 100 de 1993, Arts. 33-35.
+
+
+[61] Ley 100 de 1993, Art. 66: DEVOLUCIÓN DE
+SALDOS. Quienes a las edades previstas en el artículo anterior no
+hayan cotizado el número mínimo de semanas exigidas, y no hayan acumulado el
+capital necesario para financiar una pensión por lo menos igual al salario
+mínimo, tendrán derecho a la devolución del capital acumulado en su cuenta de
+ahorro individual, incluidos los rendimientos financieros y el valor del bono
+pensional, si a éste hubiere lugar, o a continuar cotizando hasta alcanzar el
+derecho.
+
+
+[62] Ley 100 de 1993, Art. 37: INDEMNIZACIÓN
+SUSTITUTIVA DE LA PENSIÓN DE VEJEZ. Las personas que habiendo
+cumplido la edad para obtener la pensión de vejez no hayan cotizado el mínimo
+de semanas exigidas, y declaren su imposibilidad de continuar cotizando,
+tendrán derecho a recibir, en sustitución, una indemnización equivalente a un
+salario base de liquidación promedio semanal multiplicado por el número de
+semanas cotizadas; al resultado así obtenido se le aplica el promedio ponderado
+de los porcentajes sobre los cuales haya cotizado el afiliado.
+
+
+[63] Artículo 6º.Incompatibilidad. Salvo lo previsto
+en el artículo 53 del Decreto 1295 de 1994, las indemnizaciones sustitutivas de
+vejez y de invalidez, son incompatibles con las pensiones de vejez y de
+invalidez. Las cotizaciones consideradas en el cálculo de la indemnización
+sustitutiva no podrán volver a ser tenidas en cuenta para ningún otro efecto.
+
+
+[64] Corte Constitucional, sentencias T-797 de 2013, T-510 de 2017,
+T-682 de 2017, T-587 de 2019, entre muchas otras.
+
+
+[65] Son múltiples los pronunciamientos de la Corte Constitucional que
+han avalado esta tesis. Algunos son las sentencias de unificación: SU-556 de
+2019, SU-317/21 y diferentes sentencias de las distintas Salas de Revisión
+tales como T- 722 de 2016, T-088 de 2017, T-588 de 2017, T-280 de 2019 y T-587
+de 2019, entre otras.
+
+
+[66] Al respecto, ver Sentencias de la Sala Laboral de la Corte
+Suprema de Justicia con radicado 35896, 36637 y 53377, entre otras.
+
+
+[67] Corte Constitucional, sentencia T-510 de 2017, T-002A de 2017,
+T-682 de 2017, T-587 de 2019 entre otras.
+
+
+[68] Por ejemplo, como medida de restablecimiento en tutela se dispone
+la compensación entre las sumas recibidas por concepto de indemnización
+sustitutiva o devolución de saldos, y aquello a lo que llegara a tener derecho
+el tutelante, en el caso de un reconocimiento pensional. Como se puede
+apreciar, incluso en aquellos casos, no se permite que las sumas destinadas a
+financiar el reconocimiento de una prestación sean contabilizadas doblemente,
+para el reconocimiento de una segunda, efecto que se evita a través del
+mecanismo de la compensación o descuento.
+
+
+[69] Corte Constitucional, sentencia T-510 de 2017, T-002A de 2017,
+T-682 de 2017, T-587 de 2019 entre otras.
+
+
+[70] Al respecto, la sentencia T-937 de 2013 indicó que es plausible
+que entre ambas prestaciones ocurra la compensación, en casos en los cuales se
+haya pagado una indemnización sustitutiva por error y posteriormente se
+demuestre que el afiliado sí tenía derecho a la pensión, siempre que se trate de
+prestaciones de igual naturaleza u origen (vejez-vejez o invalidez-invalidez).
+Esto fue reiterado en la T-510 de 2017.
+
+
+[71]
+En principio, el Sistema de Seguridad Social en Pensiones prohíbe que se
+continúe cotizando a pensión una vez se haya obtenido la indemnización
+sustitutiva de la pensión de vejez o la devolución de saldos. Por esto, el
+artículo 37 de la Ley 100 de 1993 exige que los afiliados declaren su
+imposibilidad de seguir cotizando. Sin embargo, existen situaciones
+particulares como en las que algunos afiliados siguieron cotizando de manera
+posterior al reconocimiento y pago de una indemnización de vejez.
+
+
+[72] Sentencias de la Sala Laboral de la Corte Suprema de Justicia con
+radicado 35896, 53377, entre otras.
+
+
+[73] El carácter facultativo de la indemnización sustitutiva fue
+objeto de análisis por parte de la Sentencia C-375 de 2004, por medio de la
+cual se declaró exequible el artículo 37 de la Ley 100 de 1993, bajo el
+entendido que no vulnera el derecho fundamental al libre desarrollo de la
+personalidad, por cuanto el precepto establece una posibilidad facultativa para
+los afiliados de recibir la indemnización sustitutiva o de continuar cotizando
+al sistema de pensiones por el tiempo faltante.
+
+
+[74] En el artículo 37 de la ley 100 se establece, para el caso del
+régimen de prima media, que la indemnización sustitutiva de la pensión de vejez
+se reconocerá como derecho, cuando el afiliado no esté en posibilidad de seguir
+cotizando, mientras que en el artículo 66 el acceso a la devolución de saldos
+contempla la posibilidad del afiliado a continuar cotizando hasta alcanzar
+el derecho.
+
+
+[75] Estos requisitos son los aplicables por regla general. El mismo
+Acuerdo estableció una serie de pensiones de vejez especiales que tienen
+requisitos específicos para ser reconocidas. Al respecto, ver el artículo 15
+del citado acuerdo.
+
+
+[76] Ley 100 de 1993, artículo 1.
+
+
+[77] Ley 100 de 1993, artículo 8.
+
+
+[78] Ley 100 de 1993, artículo 33.
+
+
+[79] A su parecer, no hay prueba en el expediente del
+proceso que demuestre el reclamo o solicitud que el señor Héctor Villarreal
+hubiere efectuado, por lo que la Sala Laboral del Tribunal debió acudir
+a sus poderes oficiosos y solicitar a Colpensiones allegar la solicitud de indemnización
+sustitutiva de pensión que el señor Villarreal efectuó para que se le
+reconociera la pensión. Archivo T7977326 ANEXO.pdf.
+
+
+[80] Ibíd, p 8.
+
+
+[81] Ibíd, p. 10.
+
+
+[82] Archivo GRP-HPE-02-20136800342115-20130809040412.PDF.
+
+
+[83] Archivo 00332187000000000126414001401A.TIF.
+
+
+[84] Archivo T7977326 ANEXO.pdf, p. 9.
+
+
+[85] Archivo Respuesta29042021160618[50].pdf, por medio del
+cual HVM dio respuesta a los requerimientos del auto de pruebas del 15 de abril
+de 2021.
+
+
+[86] Para las peticiones iniciales, ver pie de páginas 5, 9, 10 y 13.
+Las dos últimas fueron probadas con base en lo expuesto por Colpensiones en su
+intervención a los requerimientos de esta Sala, HVM instauró el 30 de julio de
+2019 y el 13 de enero de 2020 nuevamente solicitudes para el reconocimiento de
+la pensión de vejez.
+
+
+[87] Archivo Respuesta29042021160618[50].pdf, por medio del
+cual HVM dio respuesta a los requerimientos del auto de pruebas del 15 de abril
+de 2021.
+
+
+[88] Archivo GRP-HPE-02-20136800342115-20130809040412.PDF.
+
+
+[89] Archivo 00332187000000000126414001401A.TIF.
+
+
+[90]
+Decreto 1º de 1984.
+
+
+[91] En su parecer, no hay prueba en el
+expediente del proceso que demuestre el reclamo o solicitud que el señor Héctor
+Villarreal hubiere efectuado, por lo que la Sala Laboral del Tribunal
+debió acudir a sus poderes oficiosos y solicitar a Colpensiones allegar la
+solicitud de indemnización sustitutiva de pensión que el señor Villarreal
+efectuó para que se le reconociera la pensión. Archivo T7977326
+ANEXO.pdf.
+
+
+[92]
+Ibídem
+
+
+[93]
+Tal como además se expone en el hecho
+número 4 de la sentencia.
+
+
+[94]
+El pie de página 71 de la sentencia señala: En principio, el Sistema de
+Seguridad Social en Pensiones prohíbe que se continúe cotizando a pensión una
+vez se haya obtenido la indemnización sustitutiva de la pensión de vejez o la
+devolución de saldos. Por esto, el artículo 37 de la Ley 100 de 1993 exige que
+los afiliados declaren su imposibilidad de seguir cotizando. Sin embargo,
+existen situaciones particulares como en las que algunos afiliados siguieron
+cotizando de manera posterior al reconocimiento y pago de una indemnización de
+vejez.
+
+
+[95]
+Sentencia T-027/22 M.P. Antonio José Lizarazo Ocampo.
+
+
+[96]
+En el resolutivo tercero se dispone ORDENAR a Colpensiones para que, en el término de setenta y
+dos (72) horas contadas a partir de la notificación de la presente sentencia,
+se comunique con el accionante para efectos de iniciar la devolución de los
+saldos correspondientes a las semanas cotizadas entre el 1º de febrero
+de 1998 hasta el 30 de abril de 2007, bajo
+condiciones de modo, tiempo y lugar razonables para ambas partes.
+
+
+[97]
+Ley 100 de 1993. Literal P del art.13 y art.66.
+
+
+[98]
+El artículo 37 de la Ley 100 de 1993,
+dispone textualmente que: [l]as personas que habiendo cumplido la edad para
+obtener la pensión de vejez no hayan cotizado el mínimo de semanas exigidas, y
+declaren su imposibilidad de continuar cotizando, tendrán derecho a recibir, en
+sustitución, una indemnización equivalente a un salario base de liquidación
+promedio semanal multiplicado por el número de semanas cotizadas; al resultado
+así obtenido se le aplica el promedio ponderado de los porcentajes sobre los
+cuales haya cotizado el afiliado
+
+
+[99]
+El 24 de febrero de 2023, la Secretaría de la Corte Constitucional remitió a
+este despacho correo electrónico en el que anexó la certificación de la
+notificación de la sentencia que remitió la Secretaría de la Sala de Casación
+Laboral de la Corte Suprema de Justicia.
+
+
+[100]
+Respecto de las Salas de Revisión, este tribunal en sentencia C-113 de 1993
+señaló que [l]os fallos pronunciados por las Salas de Revisión deben ser
+acatados en los términos expresados por la corporación.
+
+
+[101]
+Corte Constitucional, auto 004 de 2000.
+
+
+[102]
+Corte Constitucional, auto 387 de 2021, que reitera auto 391 de 2015.
+
+
+[103]
+Artículo 285. Aclaración. La sentencia no es revocable ni
+reformable por el juez que la pronunció. Sin embargo, podrá ser aclarada, de
+oficio o a solicitud de parte, cuando contenga conceptos o frases que ofrezcan
+verdadero motivo de duda, siempre que estén contenidas en la parte resolutiva
+de la sentencia o influyan en ella. // En las mismas circunstancias procederá
+la aclaración de auto. La aclaración procederá de oficio o a petición de parte
+formulada dentro del término de ejecutoria de la providencia. // La providencia
+que resuelva sobre la aclaración no admite recursos, pero dentro de su
+ejecutoria podrán interponerse los que procedan contra la providencia objeto de
+aclaración.
+
+
+[104]
+Corte Constitucional, autos 586 de 2019, auto 344 de 2014, 276 de 2011, 001 de
+2005, entre otros.
+ 
+
+
+[105]
+Artículo 66. Devolución de Saldos. Quienes a las edades
+previstas en el artículo anterior no hayan cotizado el número mínimo de semanas
+exigidas, y no hayan acumulado el capital necesario para financiar una pensión
+por lo menos igual al salario mínimo, tendrán derecho a la devolución del
+capital acumulado en su cuenta de ahorro individual, incluidos los rendimientos
+financieros y el valor del bono pensional, si a éste hubiere lugar, o a
+continuar cotizando hasta alcanzar el derecho.
+
+
+
+
