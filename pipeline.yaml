@@ -2,4 +2,11 @@ tasks:
   - source: src/etl/extract.py
     product:
       nb: src/products/extract-pipeline.ipynb
-      data: data.duckdb
+  - source: src/indexing_QA/indexing_documents.py
+    product:
+      nb: src/products/indexing-pipeline.ipynb
+  - source: src/indexing_QA/qa_generation.py
+    product:
+      nb: src/products/qa-pipeline.ipynb
+
+      
