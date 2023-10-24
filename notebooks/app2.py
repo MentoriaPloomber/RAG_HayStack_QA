@@ -20,7 +20,7 @@ logging.basicConfig(level=logging.DEBUG)
 
 
 # openai_api_key = os.getenv("OPENAI_API_KEY")
-openai_api_key = "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"
+openai_api_key = ""
 #Direccion de los archivos de configuracion de la base
 index_path = os.path.join(os.getcwd(),"my_index.faiss")
 config_path = os.path.join(os.getcwd(), "my_config.json")
@@ -43,7 +43,7 @@ model = "gpt-4"
 prompt_node = PromptNode(
     model_name_or_path=model,
     #api_key="openai_api_key",
-    api_key="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",
+    api_key="",
     default_prompt_template=rag_prompt
 )
 
