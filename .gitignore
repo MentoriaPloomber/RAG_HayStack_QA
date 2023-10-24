@@ -176,3 +176,5 @@ src/products/*
 # But do not ignore .gitkeep files
 !src/products/.gitkeep
 *.txt
+!my_config.json
+!faiss_document_store.db
