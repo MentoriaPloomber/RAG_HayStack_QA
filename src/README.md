@@ -1,10 +1,15 @@
 # Construccion del ETL y RAG pipelines
 
+RAG (Retrieval-Augmented Generation) es un patrón de diseño/framework de Inteligencia Artificial diseñado para mejorar el rendimiento de los Grandes Modelos de Lenguaje (LLM). Su objetivo principal es proporcionar información precisa y verificable sin incurrir en altos costos computacionales o financieros asociados con el entrenamiento continuo de los modelos de lenguaje en nuevos datos.
+La necesidad de RAG surgió debido a las limitaciones inherentes a los LLM. Aunque estos modelos son poderosos y capaces de generar respuestas impactantes, a menudo carecen de precisión y exactitud. Los LLM pueden entender las relaciones estadísticas entre las palabras, pero el significado real de estas palabras a menudo se pierde en el proceso. Además, los LLM a veces proporcionan información aleatoria y no relacionada en respuesta a consultas, también conocida como alucinaciones.
+
+
+
 ## Configuración
 
 Para poder ejecutar la descarga automatica de documentos es necesario ejecutar el archivo `extract.py`
 
-Este contiene todas las funciones necesarias para la descarga automtica de documentos, que en este proyecto, son sentencias del pais de Colombia, las cuales se descargan del siguiente sitio:
+Este contiene todas las funciones necesarias para la descarga automática de documentos, que en este proyecto, son sentencias del pais de Colombia, las cuales se descargan del siguiente sitio:
 
 [https://www.corteconstitucional.gov.co/relatoria/]()
 
