@@ -10,13 +10,26 @@
 <details>
   <summary>  Definiciones preliminares </summary>
 
-## Construccion del ETL y RAG pipelines  
 RAG (Retrieval-Augmented Generation) es un patrón de diseño/framework de Inteligencia Artificial diseñado para mejorar el rendimiento de los Grandes Modelos de Lenguaje (LLM). Su objetivo principal es proporcionar información precisa y verificable sin incurrir en altos costos computacionales o financieros asociados con el entrenamiento continuo de los modelos de lenguaje en nuevos datos.
 La necesidad de RAG surgió debido a las limitaciones inherentes a los LLM. Aunque estos modelos son poderosos y capaces de generar respuestas impactantes, a menudo carecen de precisión y exactitud. Los LLM pueden entender las relaciones estadísticas entre las palabras, pero el significado real de estas palabras a menudo se pierde en el proceso. Además, los LLM a veces proporcionan información aleatoria y no relacionada en respuesta a consultas, también conocida como alucinaciones.
+
+Para implementar la solución utilizamos Haystack. 
+Haystack es un marco de PNL de un extremo a otro que permite crear aplicaciones impulsadas por LLM, modelos Transformer, búsqueda de vectores y mucho más.
+Haystack se basa en el concepto de pipelines. Un pipeline es una estructura poderosa que realiza una tarea de PNL. Está formado por componentes conectados entre sí. Por ejemplo, puede conectar a Retriever y a PromptNode para crear un canal de respuesta generativa a preguntas que utilice sus propios datos.
+
+Un pipeline de ejemplo consistiría en un RetrieverNode y un PromptNode. Cuando el pipeline se ejecuta con una consulta, el Retriever primero recupera el contexto relevante para la consulta de sus datos y luego PromptNode usa un LLM para generar la respuesta final.
+
+## Construccion del ETL y RAG pipelines  
+
 
 </details>
 <details>
   <summary> La solución implementada</summary>
+
+
+
+
+
 
 Para esta implementación se ha usado las siguientes plataformas/tecnologías/frameworks
 
