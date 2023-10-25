@@ -1,4 +1,5 @@
 
+
 # En esta documentación encontrarás
 - Definiciones preliminares
 - La solución implementada
@@ -8,12 +9,10 @@
 
 <details>
   <summary>  Definiciones preliminares </summary>
+
+## Construccion del ETL y RAG pipelines  
 RAG (Retrieval-Augmented Generation) es un patrón de diseño/framework de Inteligencia Artificial diseñado para mejorar el rendimiento de los Grandes Modelos de Lenguaje (LLM). Su objetivo principal es proporcionar información precisa y verificable sin incurrir en altos costos computacionales o financieros asociados con el entrenamiento continuo de los modelos de lenguaje en nuevos datos.
 La necesidad de RAG surgió debido a las limitaciones inherentes a los LLM. Aunque estos modelos son poderosos y capaces de generar respuestas impactantes, a menudo carecen de precisión y exactitud. Los LLM pueden entender las relaciones estadísticas entre las palabras, pero el significado real de estas palabras a menudo se pierde en el proceso. Además, los LLM a veces proporcionan información aleatoria y no relacionada en respuesta a consultas, también conocida como alucinaciones.
-
-## Construccion del ETL y RAG pipelines
-
-
 
 </details>
 <details>
