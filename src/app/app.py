@@ -59,9 +59,9 @@ config_path = os.path.join(os.getcwd(), "my_config.json")
 query_pipeline = initialize_rag_pipeline(index_path,config_path,openai_api_key)
 
 @cl.on_message
-async def main(message: str):
+async def main(message: cl.Message):
     # Use the pipeline to get a response
-    output = query_pipeline.run(query=message)
+    output = query_pipeline.run(query=message.content)
 
     # Create a Chainlit message with the response
     response = output['answers'][0].answer
