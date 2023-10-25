@@ -26,10 +26,7 @@ Un pipeline de ejemplo consistiría en un RetrieverNode y un PromptNode. Cuando 
 <details>
   <summary> La solución implementada</summary>
 
-
-
-
-
+  ![Estructura de Q-A con Haystack para el proyecto](/image/DIAGRAMAQARELATORIA (3).png)
 
 Para esta implementación se ha usado las siguientes plataformas/tecnologías/frameworks
 
@@ -50,29 +47,36 @@ Enlace del website de la relatoria: [Relatorìa de Colombia](https://www.corteco
 
 Se ha realizado una primera etapa de implementación y se espera continuar en un segunda etapa
 
-El siguiente diagrama proporciona una explicacion básica acerca de la estructura del proyecto:
-
 - Uso de un subconjunto de ? sentencias representativas del año 2022
 - Uso de la biblioteca FAISS para almacenar los documentos de sentencia indexados y vectorizados
 - Uso de GPT-4 de OpenAI como modelo de lenguaje grande para hacer preguntas sobre el conjunto de sentencias
 - Desarrollo de un script que descarga las sentencias de la corte desde el sitio web de la relatoría en formato RTF y las transforma en archivos de texto
 - Desarrollo de un script que indexa y almacena las sentencias en un FAISS Document Store usando Haystack como framework
 - Desarrollo de un script que carga el FAISS Document Store previamente generado para realizar preguntas usando Haystack como framework
-- Desarrollo de un aplicación Chainlit para interfaz de usuario final
+- Desarrollo de un aplicación de Chainlit 
 - Creación de un contenedor de Docker que encapsula la solución a ser desplegada en la nube de Ploomber
 - Creación de un pipeline de Ploomber para desplegar la solución a la nube de Ploomber
 
-Este repositorio mantiene tanto los scripts mencionados anteriormente como los archivos asociados al FAISS Document Store con las sentencias seleccionadas como prueba, estos son: *Faiss_document_store.db, my_index.faiss y my_config.json*
+Este repositorio mantiene tanto los scripts mencionados anteriormente como los archivos asociados al FAISS Document Store con las sentencias seleccionadas como prueba, estos son: 
+Faiss_document_store.db, my_index.faiss y my_config.json
 
 #### El repositorio se ha organizado en las carpetas
 
-![Organizacion](image/carpetas.png). 
+![Organizacion](image.png). 
 
-- En la carpeta **notebooks** se encuentran los notebooks preliminares a la creación de los scripts 
-- En la carpeta **src/app** se encuentra el script *app.py*, que contiene tanto el proceso  el script que realiza las preguntas, construido con Haystack, como la interfaz de usuario construida usando Chaintlit
-- En la carpeta **etl** se encuentra el script *extract.py* que realiza la descarga de las sentencias del sitio web de la relatoria en formato rtf y los convierte a documentos en formato texto
-- En la carpeta **indexing_QA**, se encuentran los scripts *indexing_documents.py* y *qa_generation.py*, los cuales realizan por separado los procesos de indexacion de las sentencias y el proceso de preguntas 
+- En la carpeta - app -se encuentra el script app.py, que contiene ctanto el proceso de la indexación de las sentencias como el script que realiza las preguntas, ambos construidos con Haystack, como la interfaz de usuario construida usando Chaintlit
+- En la carpeta - etl - se encuentra el script extract.py que realiza la descarga de las sentencias del sitio web de la relatoria en formato rtf y los convierte a documentos en formato texto
+- En la carpeta indexing_QA, se encuentran los scripts indexing_documents.py y qa_generation.py los cuales realizan por separado los procesos de indexacion de las sentencias y el proceso de preguntas 
 
+El siguiente diagrama proporciona una explicacion básica acerca de la estructura del proyecto:
+
+
+
+Para poder ejecutar la descarga automatica de documentos es necesario ejecutar el archivo `extract.py`
+
+Este contiene todas las funciones necesarias para la descarga automática de documentos, que en este proyecto, son sentencias del pais de Colombia, las cuales se descargan del siguiente sitio:
+
+[https://www.corteconstitucional.gov.co/relatoria/]()
 
 </details>
 
@@ -84,22 +88,6 @@ Este repositorio mantiene tanto los scripts mencionados anteriormente como los a
 <details>
   <summary>  Como ejecutar la aplicación localmente </summary>  
 
-### Instalación y Configuración
-
-#### Con Docker
-
-
-#### Con Poetry
-
-
-### Ejecución de la aplicación de interfaz para las preguntas, Chainlit 
-
-
-### Ejecución de la descarga de las sentencias de la relatoria
-
-Para poder ejecutar la descarga automatica de documentos es necesario ejecutar el archivo `extract.py`
-
-Este contiene todas las funciones necesarias para la descarga automática de documentos, que en este proyecto, son sentencias del pais de Colombia
 
 </details>
 
