@@ -1,0 +1,3 @@
+chainlit
+farm-haystack[preprocessing,faiss,inference]
+python-dotenv
