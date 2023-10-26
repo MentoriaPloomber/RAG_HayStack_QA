@@ -178,3 +178,4 @@ src/products/*
 *.txt
 !my_config.json
 !faiss_document_store.db
+!src/app/*.txt
