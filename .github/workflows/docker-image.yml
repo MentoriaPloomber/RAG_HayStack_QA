@@ -1,0 +1,26 @@
+name: Docker Image CI
+
+on:
+  push:
+    branches: [ "pruebas_app" ]
+  pull_request:
+    branches: [ "pruebas_app" ]
+
+jobs:
+
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Set up credentials
+      run: |
+          cd src/app/
+          touch .env
+          echo OPENAI_API_KEY=${{ secrets.OPENAI_API_KEY }} >> .env
+          cat .env
+    - name: Build the Docker image
+      run: |
+          cd src/app/
+          docker build . --file Dockerfile --tag my-image-name:$(date +%s)
