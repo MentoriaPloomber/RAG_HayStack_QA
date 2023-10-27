@@ -5,7 +5,7 @@
 - Como accesar la aplicación en la web
 - Como ejecutar la aplicación localmente
 
-
+<p></p>
 <details>
   <summary>  Definiciones preliminares </summary>
 
@@ -18,32 +18,28 @@ La necesidad de RAG surgió debido a las limitaciones inherentes a los LLM. Aunq
   <summary> La solución implementada</summary>
 
 ## Aplicación de preguntas y respuestas de sentencias de corte de Colombia usando Haystack  
+<br></br>
 
  ![Estructura de Q-A con Haystack para el proyecto](image/DIAGRAMAQARELATORIA.png)
 
-
-Para esta implementación se ha usado las siguientes plataformas/tecnologías/frameworks
-
-Python, [Ploomber](https://ploomber.io/),`[FAISS](https://faiss.ai/index.html), [Haystack](https://haystack.deepset.ai/), [Chainlit](https://docs.chainlit.io/get-started/overview), [Docker](https://www.docker.com/), 
-
-
-
-
+<br></br>
+Para esta implementación se ha usado las siguientes plataformas/tecnologías/frameworks:  
+Python, [Ploomber](https://ploomber.io/),`[FAISS](https://faiss.ai/index.html), [Haystack](https://haystack.deepset.ai/), [Chainlit](https://docs.chainlit.io/get-started/overview), [Docker](https://www.docker.com/), [Poetry](https://python-poetry.org/), [Miniconda](https://docs.conda.io/projects/miniconda/en/latest/)
 
 ### Objetivo:
 
 Construir una aplicación que pueda realizar preguntas relacionadas a decisiones y  jurisprudencia de las cortes de Colombia usando Haystack como framework de desarrollo de aplicaciones de uso de modelos de lenguaje grande (LLM)
 
 #### Conjunto de datos Fuente:
-Subconjunto de sentencias de la relatoría de cortes de Colombia
-Enlace del website de la relatoria: [Relatorìa de Colombia](https://www.corteconstitucional.gov.co/relatoria/)
+Subconjunto de sentencias de la relatoría de cortes de Colombia: 
+[Relatorìa de Colombia](https://www.corteconstitucional.gov.co/relatoria/)
 
 
 Se ha realizado una primera etapa de implementación y se espera continuar en un segunda etapa
 
-El siguiente diagrama proporciona una explicacion básica acerca de la estructura del proyecto:
+El alcance de la solución de esta primera etapa incluye:  
 
-- Uso de un subconjunto de ? sentencias representativas del año 2022
+- Uso de un subconjunto de 34 sentencias representativas del año 2022
 - Uso de la biblioteca FAISS para almacenar los documentos de sentencia indexados y vectorizados
 - Uso de GPT-4 de OpenAI como modelo de lenguaje grande para hacer preguntas sobre el conjunto de sentencias
 - Desarrollo de un script que descarga las sentencias de la corte desde el sitio web de la relatoría en formato RTF y las transforma en archivos de texto
@@ -60,8 +56,8 @@ Este repositorio mantiene tanto los scripts mencionados anteriormente como los a
 ![Organizacion](image/carpetas.png). 
 
 - En la carpeta **notebooks** se encuentran los notebooks preliminares a la creación de los scripts 
-- En la carpeta **src/app** se encuentra el script *app.py*, que contiene tanto el proceso  el script que realiza las preguntas, construido con Haystack, como la interfaz de usuario construida usando Chaintlit
-- En la carpeta **etl** se encuentra el script *extract.py* que realiza la descarga de las sentencias del sitio web de la relatoria en formato rtf y los convierte a documentos en formato texto
+- En la carpeta **src/app** se encuentra el script *app.py*, que contiene tanto   el script  que realiza las preguntas, construido con Haystack, como la interfaz de usuario construida usando Chaintlit.
+- En la carpeta **etl** se encuentra el script *extract.py* que realiza la descarga de las sentencias del sitio web de la relatoria, en formato rtf y los convierte a documentos en formato texto.
 - En la carpeta **indexing_QA**, se encuentran los scripts *indexing_documents.py* y *qa_generation.py*, los cuales realizan por separado los procesos de creación del Document Store con la indexacion de las sentencias y el proceso de preguntas 
 
 
@@ -77,14 +73,58 @@ Este repositorio mantiene tanto los scripts mencionados anteriormente como los a
 
 ### Instalación y Configuración
 
-#### Con Docker
+Se puede ejecutar por separado,la aplicación de preguntas o el proceso de generación del Document Store.  
+Para la ejecución de la aplicación de preguntas se requiere que en la carpeta **src/app** existan los archivos correspondientes al Document Store de prueba: *faiss_document_store.db, my_config.json y my_index.faiss*
 
 
-#### Con Poetry
+Una vez se haya descargado el repositorio, se puede hacer la configuración utilizando *Poetry, Docker* o instalando las dependencias desde el archivo *requirements.txt*.
+
+#### Instalación con Docker
 
 
-### Ejecución de la aplicación de interfaz para las preguntas, Chainlit 
+#### Instalación con Poetry
 
+Se asume que ya se tiene instalada Miniconda o Anaconda para crear el entorno.
+
+1. Creando nuevo entorno en la carpeta donde se encuentra el repositorio del proyecto
+  ```console
+    conda create --name tutelai python=3.10
+  ```
+
+2. Activando el entorno
+  ```console
+    conda activate tutelai 
+  ```
+3. Instalando poetry 
+  ```console
+    pip install poetry
+  ```
+
+4. Instalando dependencies
+  ```console
+    poetry install
+  ```
+
+### Ejecución de la aplicación Chainlit de interfaz para las preguntas
+
+Una vez se haya hecho la instalación del entorno con las dependencias 
+
+1. Configurando la API key de OpenAI  
+   En la carpeta **src/app**, crear el archivo .env e incluir la variable con el API key   
+ 
+  ```console
+     OPENAI_API_KEY='<id>'
+  ```
+2. Ejecutando la aplicacion Chainlit localmente
+   En la carpeta src/app ejecutar: 
+  ```console
+     chainlit run app.py -w
+  ```
+  Esto abrirá una pestaña en el navegador con la interfaz donde se podrán escribir las preguntas.   
+
+  **Ejemplos de preguntas:**  
+  - ¿Como se viola el derecho al trabajo?  
+  - ¿Las tutelas protegen la diversidad sexual?  
 
 ### Ejecución de la descarga de las sentencias de la relatoria
 
@@ -99,7 +139,7 @@ Este contiene todas las funciones necesarias para la descarga automática de doc
 
 
 
-## Team members/ Miembros del equipo
+### Team members/ Miembros del equipo
 
 [Elka Buitrago](https://github.com/elkabuitrago)
 [Juan Vázquez Montejo](https://github.com/juanvazqmont)
