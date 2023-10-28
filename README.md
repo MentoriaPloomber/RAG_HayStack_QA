@@ -1,38 +1,11 @@
-# Hacktoberfest 2023 project: building ETL and RAG pipelines with open source 
+# Hacktoberfest 2023: Construcción de pipelines Retrieval Augmented Generation (RAG)con open source 
 
-## Set up /  Configuración
 
-There should be one GitHub repository per team. /  Debería haber un repositorio de GitHub por equipo.
+## Aplicación de preguntas y respuestas de sentencias de altas cortes de Colombia usando Haystack 
 
-**Ensure all team members have completed all steps in the [set up](setup.md) document.**
 
-**Asegúrate de que todos los miembros del equipo hayan completado todos los pasos en el [documento de configuración](setup-espanol.md).**
-
-## Theme of your project / Tema de tu proyecto
-
-1. Retrieval Augmented Generation (RAG) pipeline for question answering /  Pipeline de Generación Aumentada por Recuperación (RAG) para responder preguntas
-
-## Description / Descripción 
-
-The basic idea is that a user asks the app if certain facts have been covered by judicial rulings of the High Courts in Colombia.
-
-Context:
-
-Colombia is a Social State of Law, power is divided into the classic 3 branches of public power; executive, legislative, judicial, plus other bodies such as the Attorney General's Office and Comptroller's Office.
-
-The Judicial Branch resolves disputes that arise between citizens, whether civil, administrative, family, labor, agrarian, etc.
-
-The Guardianship Action was included in the 1991 Constitution, [which has equivalents in other countries](https://repository.unilibre.edu.co/bitstream/handle/10901/23071/LA%20ACCI%C3%93N%20DE%20TUTELA%20COMPARADA%20CON%20OTROS%20PROCEDURES%20DE%20AMPARO%20ESTABLISHED%20EN%20AM%C3%89RICA%20LATINA.pdf?sequence=2), which through a procedure of 10 business days resolves the protection of fundamental rights , such as: health, life, education, access to information, dignity.
-
-If a person feels or believes that their right is being violated or violated, they need to either hire a lawyer, go to the ombudsman's office or to a legal office at a university. Many times hiring a lawyer is already a barrier to the administration of justice if the interested party cannot afford the fees. The ombudsman's office, which offers free advice, is congested by the number of users in need. University legal offices cease service during the student vacation period.
-
-Although judges are encouraged to write sentences in [easy reading](https://www.ambitojuridico.com/noticias/administrativo/congreso-crearia-formato-de-sentencias-de-lectura-facil), the use is inevitable of technicality, and non-lawyers would not know which sentences to pay attention to among the sea of ​​jurisprudence.
-
-For this reason, a question and answer application (QA) is valuable for a person who believes that he or she is immersed in a circumstance of violation of rights because he or she can, by simply recording what happens to him or her -the facts-, know if previously, any sentence has protected a fundamental right in a similar case.
-
-La idea básica es que un usuario pregunte a la app si unos hechos han sido amparados por sentencias judiciales de Altas Cortes en Colombia.
-
-### Contexto:
+<details>
+  <summary>  Contexto </summary>
 
 Colombia es un Estado Social de Derecho, se divide el poder en las clásicas 3 ramas del poder público; ejecutivo, legislativo, judicial, más otros órganos como la Procuraduría y Contraloría.
 
@@ -46,76 +19,157 @@ Aunque se exhorta a los jueces redacción de sentencias de [lectura fácil](http
 
 Por lo anterior, una aplicación de preguntas y respuestas (QA) es valiosa para una persona que se cree inmersa en una circunstancia de violación de derechos porque puede, con solo consignar lo que le pasa -los hechos- , conocer si previamente, alguna sentencia ha protegido un derecho fundamental en un caso similar.
 
-## Data sources / Fuentes de datos
+</details>
 
-1. Name of the data set: Guardianship Sentences of the High Courts of Colombia
+<details>
+  <summary>  Definiciones preliminares </summary>
 
-Description: Text documents that can be downloaded in .rtf format
+## Construccion del ETL y RAG pipelines  
+RAG (Retrieval-Augmented Generation) es un patrón de diseño/framework de Inteligencia Artificial diseñado para mejorar el rendimiento de los Grandes Modelos de Lenguaje (LLM). Su objetivo principal es proporcionar información precisa y verificable sin incurrir en altos costos computacionales o financieros asociados con el entrenamiento continuo de los modelos de lenguaje en nuevos datos.
+La necesidad de RAG surgió debido a las limitaciones inherentes a los LLM. Aunque estos modelos son poderosos y capaces de generar respuestas impactantes, a menudo carecen de precisión y exactitud. Los LLM pueden entender las relaciones estadísticas entre las palabras, pero el significado real de estas palabras a menudo se pierde en el proceso. Además, los LLM a veces proporcionan información aleatoria y no relacionada en respuesta a consultas, también conocida como alucinaciones.
 
-Source: https://www.corteconstitucional.gov.co/relatoria/
+</details>
+<details>
+  <summary> La solución implementada</summary>
 
-License: Public because they are judicial decisions and their use would be equivalent to the GNU 3.0 license:
+### Objetivo:
 
-https://es.wikipedia.org/wiki/GNU_General_Public_License
+Construcción de una aplicación para realizar preguntas relacionadas a decisiones y  jurisprudencia de las cortes de Colombia usando Haystack como framework de desarrollo de aplicaciones de uso de modelos de lenguaje grande (LLM) y Chainlit como herramienta de contrucción de la interfaz de usuario final. 
+ 
+<br></br>
 
-2. Name of the data set: Sentences of the Judiciary of Michoacan
+ ![Estructura de Q-A con Haystack para el proyecto](images/DIAGRAMAQARELATORIA.png)
 
-Description: Text documents that can be downloaded in .pdf format
-
-Source: https://www.poderjudicialmichoacan.gob.mx/web/consultas/sentenciasPublicas.aspx
-
-License: Public because they are judicial decisions and their use would be equivalent to the GNU 3.0 license:
-
-https://es.wikipedia.org/wiki/GNU_General_Public_License 
+<br></br>
+Para esta implementación se ha usado las siguientes plataformas/tecnologías/frameworks:  
+Python, [Ploomber](https://ploomber.io/),`[FAISS](https://faiss.ai/index.html), [Haystack](https://haystack.deepset.ai/), [Chainlit](https://docs.chainlit.io/get-started/overview), [Docker](https://www.docker.com/), [Poetry](https://python-poetry.org/), [Miniconda](https://docs.conda.io/projects/miniconda/en/latest/)
 
 
-1. Nombre del conjunto de datos: Sentencias de Tutela de Altas Cortes de Colombia
+#### Conjunto de datos Fuente:
+- Subconjunto de sentencias de la relatoría de cortes de Colombia: 
+[Relatorìa de Colombia](https://www.corteconstitucional.gov.co/relatoria/)
+- Licencia: Pública por ser decisiones judiciales y su uso sería equivalente a la [licencia GNU 3.0](https://es.wikipedia.org/wiki/GNU_General_Public_License)
 
-Descripción: Documentos de texto que se pueden descargar en formato .rtf 
+#### Implementación
+Se ha realizado una primera etapa de implementación y se espera continuar en un segunda etapa
 
-Fuente: https://www.corteconstitucional.gov.co/relatoria/
+El alcance de la solución de esta primera etapa incluye:  
 
-Licencia: Pública por ser decisiones judiciales y su uso sería equivalente a la licencia GNU 3.0:  
+- Uso de un subconjunto de 34 sentencias representativas del año 2022
+- Uso de la biblioteca FAISS para almacenar los documentos de sentencia indexados y vectorizados
+- Uso de GPT-4 de OpenAI como modelo de lenguaje grande para hacer preguntas sobre el conjunto de sentencias
+- Desarrollo de un script que descarga las sentencias de la corte desde el sitio web de la relatoría en formato RTF y las transforma en archivos de texto
+- Desarrollo de un script que indexa y almacena las sentencias en un FAISS Document Store usando Haystack como framework
+- Desarrollo de un script que carga el FAISS Document Store previamente generado para realizar preguntas usando Haystack como framework
+- Desarrollo de un aplicación Chainlit para interfaz de usuario final
+- Creación de un contenedor de Docker que encapsula la solución a ser desplegada en la nube de Ploomber
+- Creación de un pipeline de Ploomber para desplegar la solución a la nube de Ploomber
 
-https://es.wikipedia.org/wiki/GNU_General_Public_License
+Este repositorio mantiene tanto los scripts mencionados anteriormente como los archivos asociados al FAISS Document Store con las sentencias seleccionadas como prueba, estos son: *Faiss_document_store.db, my_index.faiss y my_config.json*
 
-2. Nombre del conjunto de datos: Sentencias del Poder Judicial de Michoacan
+#### El repositorio se ha organizado en las carpetas
 
-Descripción: Documentos de texto que se pueden descargar en formato .pdf
+![Organizacion](images/carpetas.png). 
 
-Fuente: https://www.poderjudicialmichoacan.gob.mx/web/consultas/sentenciasPublicas.aspx
+- En la carpeta **notebooks** se encuentran los notebooks preliminares a la creación de los scripts 
+- En la carpeta **src/app** se encuentra el script *app.py*, que contiene tanto   el script  que realiza las preguntas, construido con Haystack, como la interfaz de usuario construida usando Chaintlit.
+- En la carpeta **etl** se encuentra el script *extract.py* que realiza la descarga de las sentencias del sitio web de la relatoria, en formato rtf y los convierte a documentos en formato texto.
+- En la carpeta **indexing_QA**, se encuentran los scripts *indexing_documents.py* y *qa_generation.py*, los cuales realizan por separado los procesos de creación del Document Store con la indexacion de las sentencias y el proceso de preguntas 
 
-Licencia: Pública por ser decisiones judiciales y su uso sería equivalente a la licencia GNU 3.0:  
 
-https://es.wikipedia.org/wiki/GNU_General_Public_License
+</details>
 
-**Do not upload data to GitHub** / **No suba datos a GitHub**
+<details>
+  <summary>  Como ejecutar la aplicación en la web </summary>
+<p> </p>
 
-## Methods / Métodos
+La aplicación se encuentra desplegada en la plataforma de **Ploomber**  
+Se puede acceder en el enlace: [Tutelai](https://proud-bird-8701.ploomberapp.io/)
+<p> </p>
+</details>
 
-Describe the methods you are using. Include a description of the tools you are using.
+<details>
+  <summary>  Como ejecutar la aplicación localmente </summary>  
 
-Describa los métodos que está utilizando. Incluya una descripción de las herramientas que está utilizando.
+### Instalación y Configuración
 
-## User interface your project will have / Interfaz de usuario que tendrá su proyecto
+Se puede ejecutar por separado,la aplicación de preguntas, el proceso de generación del Document Store o el proceso de descarga de sentencias desde el sitio de la relatoria de Colombia.
 
-Describe the user interface your project will have. Include a description of the tools you are using.
+<p></p>
+Para la ejecución de la aplicación de preguntas se requiere:
 
-Options: 
+- Que en la carpeta **src/app** existan los archivos correspondientes al Document Store de prueba: *faiss_document_store.db, my_config.json y my_index.faiss*
+- La configuración del archivo de .env con la API Key de Open AI
 
-1. FastAPI application
-2. Chainlit application
-3. Haystack application
+Este repositorio contiene un FAISS Document Store, por lo que en principio, no es necesario ejecutar los procesos de descarga de sentencias ni de generación de Document Store.  
 
-Describa la interfaz de usuario que tendrá su proyecto. Incluya una descripción de las herramientas que está utilizando.
+Una vez se haya descargado el repositorio, se puede hacer la configuración mediante *Poetry* o instalando las dependencias desde el archivo *requirements.txt*.
 
-Opciones:
+#### Instalación con Poetry
 
-1. Aplicación FastAPI
-2. Aplicación Chainlit
-3. Aplicación Haystack
+Se asume que ya se tiene instalada Miniconda o Anaconda para crear el entorno.
+(consultar el [Setup](https://github.com/MentoriaPloomber/RAG_HayStack_QA/blob/main/setup-espanol.md))
 
-## Team members/ Miembros del equipo
+1. Creando nuevo entorno en la carpeta donde se encuentra el repositorio del proyecto
+  ```console
+    conda create --name tutelai python=3.10
+  ```
+
+2. Activando el entorno
+  ```console
+    conda activate tutelai 
+  ```
+3. Instalando poetry 
+  ```console
+    pip install poetry
+  ```
+
+4. Instalando dependencies
+  ```console
+    poetry install
+  ```
+
+### Ejecución de la aplicación Chainlit, interfaz de usuario para las preguntas
+
+Una vez se haya hecho la instalación del entorno con las dependencias, se puede ejecutar la aplicación de preguntas con el FAISS Document Store de prueba que incluye este repositorio
+
+1. Configurando la API key de OpenAI  
+   En la carpeta **src/app**, crear el archivo .env e incluir la variable con el API key   
+ 
+  ```console
+     OPENAI_API_KEY='<id>'
+  ```
+2. Ejecutando la aplicacion Chainlit localmente
+   En la carpeta src/app ejecutar: 
+  ```console
+     chainlit run app.py -w
+  ```
+  Esto abrirá una pestaña en el navegador con la interfaz donde se podrán escribir las preguntas.   
+
+  **Ejemplos de preguntas:**  
+  - ¿Como se viola el derecho al trabajo?  
+  - ¿Las tutelas protegen la diversidad sexual?  
+
+### Ejecución de la descarga de las sentencias de la relatoria
+
+Para poder ejecutar la descarga automática de las sentencias, en la carpeta **src/etl**, ejecutar   
+
+  ```console
+     extract.py
+  ```
+Este genera un carpeta con las sentencias en formato .txt las cuales son el insumo para la indexación y creación del FAISS Document Store
+
+### Ejecución de la creación del Document Store
+
+Para poder ejecutar la creación del FAISS Document Store, en la carpeta **src/indexing_QA**, ejecutar 
+  ```console
+     indexing_documents.py
+  ```
+Este script toma como insumo la carpeta de sentencias en formato .txt creada por el script de descarga de las sentencias *extract.py* y genera los archivos que son insumo para la aplicación de preguntas y respuestas: *faiss_document_store.db, my_config.json y my_index.faiss*  
+
+</details>
+
+## Miembros del equipo
 
 [Elka Buitrago](https://github.com/elkabuitrago)
 [Juan Vázquez Montejo](https://github.com/juanvazqmont)
