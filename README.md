@@ -34,7 +34,7 @@ La necesidad de RAG surgió debido a las limitaciones inherentes a los LLM. Aunq
 
 ### Objetivo:
 
-Construcción de una aplicación para realizar preguntas relacionadas a decisiones y  jurisprudencia de las cortes de Colombia usando Haystack como framework de desarrollo de aplicaciones de uso de modelos de lenguaje grande (LLM) y Chainlit como herramienta de contrucción de la interfaz de usuario final. 
+Desarrollo de una aplicación para realizar preguntas relacionadas a decisiones y  jurisprudencia de las cortes de Colombia usando Haystack como framework de desarrollo de aplicaciones de uso de modelos grandes de lenguaje  (LLM) y Chainlit como herramienta de construcción de la interfaz de usuario final. 
  
 <br></br>
 
