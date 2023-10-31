@@ -3,6 +3,7 @@
 
 ## Aplicación de preguntas y respuestas de sentencias de altas cortes de Colombia usando Haystack 
 
+Puedes ver el video resumen del proyecto en: https://bit.ly/tutelai
 
 <details>
   <summary>  Contexto </summary>
